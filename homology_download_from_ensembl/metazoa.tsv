@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+AGLA015192	AGLA015192-RA	anoplophora_glabripennis	33.5938	within_species_paralog	AGLA008204	AGLA008204-RA	anoplophora_glabripennis	19.6646	NULL	NULL	NULL	NULL	NULL	42592918
+AGLA015192	AGLA015192-RA	anoplophora_glabripennis	22.9167	within_species_paralog	AGLA009158	AGLA009158-RA	anoplophora_glabripennis	6.86427	NULL	NULL	NULL	NULL	NULL	42609473
+AGLA015192	AGLA015192-RA	anoplophora_glabripennis	12.7604	within_species_paralog	AGLA004867	AGLA004867-RA	anoplophora_glabripennis	32.0261	NULL	NULL	NULL	NULL	NULL	42610358
+AGLA015192	AGLA015192-RA	anoplophora_glabripennis	22.1354	within_species_paralog	AGLA012090	AGLA012090-RA	anoplophora_glabripennis	18.6404	NULL	NULL	NULL	NULL	NULL	42612332
+AGLA015193	AGLA015193-RA	anoplophora_glabripennis	5.08475	within_species_paralog	AGLA003207	AGLA003207-RA	anoplophora_glabripennis	10.1124	NULL	NULL	NULL	NULL	NULL	20377270
+AGLA015193	AGLA015193-RA	anoplophora_glabripennis	8.47458	within_species_paralog	AGLA010244	AGLA010244-RA	anoplophora_glabripennis	8.28729	NULL	NULL	NULL	NULL	NULL	20377272
+AGLA015193	AGLA015193-RA	anoplophora_glabripennis	8.47458	within_species_paralog	AGLA014234	AGLA014234-RA	anoplophora_glabripennis	9.43396	NULL	NULL	NULL	NULL	NULL	20377282
+AGLA015193	AGLA015193-RA	anoplophora_glabripennis	7.34463	within_species_paralog	AGLA006041	AGLA006041-RA	anoplophora_glabripennis	11.4035	NULL	NULL	NULL	NULL	NULL	20377289
+AGLA015193	AGLA015193-RA	anoplophora_glabripennis	7.9096	within_species_paralog	AGLA011873	AGLA011873-RA	anoplophora_glabripennis	7.9096	NULL	NULL	NULL	NULL	NULL	20377313

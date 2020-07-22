@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	18.328	other_paralog	GSMUA_Achr11G23000_001	GSMUA_Achr11P23000_001	musa_acuminata	24.2553	0.86630	20.44810	NULL	NULL	NULL	2966905
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	89.3891	ortholog_one2one	Dr19955	Dr19955.1.cds	dioscorea_rotundata	83.2335	0.05600	1.20010	NULL	NULL	1	101549011
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	88.1029	ortholog_one2many	GSCOC_T00016538001	CDP04012	coffea_canephora	82.0359	NULL	NULL	NULL	NULL	0	101603187
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	89.3891	ortholog_many2many	GLYMA_20G219500	KRG92573	glycine_max	83.2335	NULL	NULL	NULL	NULL	0	101603350
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	88.1029	ortholog_one2many	B456_003G086500	KJB19153	gossypium_raimondii	82.0359	NULL	NULL	NULL	NULL	0	101603393
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	88.746	ortholog_one2many	CEY00_Acc16595	PSS09573	actinidia_chinensis	82.6347	NULL	NULL	NULL	NULL	0	101603459
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	88.1029	ortholog_one2many	CCACVL1_01850	OMP05676	corchorus_capsularis	82.0359	NULL	NULL	NULL	NULL	0	101603828
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	61.7363	ortholog_many2many	Ccrd_003769	KVH94175	cynara_cardunculus	80.3347	NULL	NULL	NULL	NULL	0	101603917
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	81.672	ortholog_one2many	Bra004123	Bra004123.1-P	brassica_rapa	77.2036	NULL	NULL	NULL	NULL	0	101603993

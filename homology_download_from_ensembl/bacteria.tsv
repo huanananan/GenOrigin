@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+BH00010	CAF26817	bartonella_henselae_str_houston_1	36.1314	ortholog_one2one	APH_0961	ABD43846	anaplasma_phagocytophilum_str_hz	35.3571	NULL	NULL	NULL	NULL	1	39479845
+BH00010	CAF26817	bartonella_henselae_str_houston_1	27.0073	ortholog_one2one	Avin_23260	ACO78514	azotobacter_vinelandii_dj	27.2059	NULL	NULL	NULL	NULL	0	39491596
+BH00010	CAF26817	bartonella_henselae_str_houston_1	26.6423	ortholog_one2one	ABAYE1392	CAM86305	acinetobacter_baumannii_aye	26.259	NULL	NULL	NULL	NULL	0	39491859
+BH00010	CAF26817	bartonella_henselae_str_houston_1	31.0219	ortholog_one2one	BAB42655	BAB42655	staphylococcus_aureus_subsp_aureus_n315	31.25	NULL	NULL	NULL	NULL	0	39497101
+BH00020	CAF26818	bartonella_henselae_str_houston_1	25.2525	ortholog_one2one	BAC08854	BAC08854	thermosynechococcus_elongatus_bp_1	25.2525	NULL	NULL	NULL	NULL	1	48178831
+BH00030	CAF26819	bartonella_henselae_str_houston_1	24.9147	ortholog_one2one	ABAYE0377	CAM85353	acinetobacter_baumannii_aye	27.8626	NULL	NULL	NULL	NULL	0	46829378
+BH00030	CAF26819	bartonella_henselae_str_houston_1	27.9863	ortholog_one2one	BAB42688	BAB42688	staphylococcus_aureus_subsp_aureus_n315	30.597	NULL	NULL	NULL	NULL	0	46830068
+BH00030	CAF26819	bartonella_henselae_str_houston_1	25.9386	ortholog_one2one	BAB13186	BAB13186	buchnera_aphidicola_str_aps_acyrthosiphon_pisum_	27.8388	NULL	NULL	NULL	NULL	0	46831191
+BH00030	CAF26819	bartonella_henselae_str_houston_1	26.9625	ortholog_one2one	Avin_00230	ACO76291	azotobacter_vinelandii_dj	29.2593	NULL	NULL	NULL	NULL	0	46831431

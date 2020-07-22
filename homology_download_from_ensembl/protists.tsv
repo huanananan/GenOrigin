@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	100	within_species_paralog	EHI_116050	rna_EHI_116050-1	entamoeba_histolytica	100	0.00000	0.00000	NULL	NULL	NULL	8947415
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	100	within_species_paralog	EHI_126530	rna_EHI_126530-1	entamoeba_histolytica	100	0.00000	0.00000	NULL	NULL	NULL	8947417
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	99.4792	within_species_paralog	EHI_112390	rna_EHI_112390-1	entamoeba_histolytica	99.4792	0.00210	0.02760	NULL	NULL	NULL	8947431
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	98.9583	within_species_paralog	EHI_097050	rna_EHI_097050-1	entamoeba_histolytica	98.9583	0.00420	0.06320	NULL	NULL	NULL	8947482
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	84.375	ortholog_many2many	EDI_122060	EDR23269	entamoeba_dispar_saw760_gca_000209125	85.2632	0.07120	0.44120	NULL	NULL	1	8947681
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	84.375	ortholog_many2many	EDI_285870	EDR22217	entamoeba_dispar_saw760_gca_000209125	85.2632	0.06830	0.61530	NULL	NULL	1	8947684
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	72.9167	ortholog_many2many	EDI_308390	EDR23737	entamoeba_dispar_saw760_gca_000209125	78.2123	0.12440	0.66170	NULL	NULL	1	8947690
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	84.8958	ortholog_many2many	EDI_036530	EDR22072	entamoeba_dispar_saw760_gca_000209125	85.7895	0.06520	0.48240	NULL	NULL	1	8947693
+EHI_147990	rna_EHI_147990-1	entamoeba_histolytica	83.8542	ortholog_many2many	EDI_257650	EDR23181	entamoeba_dispar_saw760_gca_000209125	84.7368	0.07190	0.58040	NULL	NULL	1	8947696

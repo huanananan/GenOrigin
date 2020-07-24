@@ -35,8 +35,8 @@ Split it could save memory and improve parallel efficiency.
 Some species even split it as 100 genes to run pipline.  
 
 ## Step 6 split the annotation json file (Optional)
-Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) splits the homology data by species.  
-The output file, see  [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) splits the homology data by species.  
+Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) split it by gene_id, organism or assembly.  
+The output file, see  [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py).  
 Split it could save memory, but not improve parallel efficiency.  
 Because reading and writing a large number of files at the same time will seriously slow down the speed.  
 But, it use disk place replace memory.  

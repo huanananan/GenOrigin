@@ -20,10 +20,10 @@ ftp://ftp.ensembl.org/pub/release-98/json
 ## Step 3 time-tree
 Use the total species list from both [ensembl](www.ensembl.org), [ensemblgenomes](www.ensemblgenomes.org) (GenOrigin only provide the used species).   
 Then upload species list to [timetree](www.timetree.org).   
-Finally, we get the timetree file.   
+Finally, we get the [timetree file](https://github.com/huanananan/GenOrigin/tree/master/nwk).   
 
 ## Step 4 uniform time-tree scientific name
-The scientific name in timetree.org and ensembl.org might be different.  
+The scientific name in [timetree](timetree.org) and [ensembl](ensembl.org) might be different.  
 But it show the same taxonomy id in [uniprot](www.uniprot.org).  
 So we uniform it to ensembl scientific name first two word.  
 See [change_time_tree_nwk_file_to_ensembl_species_name.txt](https://github.com/huanananan/GenOrigin/blob/master/change_time_tree_nwk_file_to_ensembl_species_name.txt)  

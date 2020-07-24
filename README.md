@@ -18,7 +18,7 @@ ftp://ftp.ensemblgenomes.org/pub/plants/release-45/json/
 ftp://ftp.ensembl.org/pub/release-98/json  
 
 ## Step 3 time-tree
-Use the total species list from both [Ensembl](www.ensembl.org), [Ensemblgenomes](www.ensemblgenomes.org) (GenOrigin only provide the used species).   
+Use the total species list from both [Ensembl](www.ensembl.org), [EnsemblGenomes](www.ensemblgenomes.org) (GenOrigin only provide the used species).   
 Then upload species list to [TimeTree](www.timetree.org).   
 Finally, we get the [timetree file](https://github.com/huanananan/GenOrigin/tree/master/nwk).   
 

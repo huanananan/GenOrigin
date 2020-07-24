@@ -23,7 +23,8 @@ Then upload species list to [TimeTree](www.timetree.org).
 Finally, we get the [timetree file](https://github.com/huanananan/GenOrigin/tree/master/nwk).   
 
 ## Step 4 Count
-[Count download](https://www.iro.umontreal.ca/~csuros/gene_content/count.html)
+[Count download](https://www.iro.umontreal.ca/~csuros/gene_content/count.html)  
+param -gain 1.4
 
 ## Step 5 uniform time-tree scientific name
 The scientific name in [TimeTree](timetree.org) and [Ensembl](ensembl.org) might be different.  

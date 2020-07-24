@@ -1,0 +1,13 @@
+time-tree.org ensembl.org
+Borreliella_burgdorferi Borrelia_burgdorferi
+Caulobacter_vibrioides Caulobacter_crescentus 
+Cercospora_fijiensis Pseudocercospora_fijiensis 
+Chlorobaculum_tepidum Chlorobium_tepidum 
+Eurynorhynchus_pygmeus Calidris_pygmaea 
+Giardia_intestinalis Giardia_lamblia 
+Macropus_eugenii Notamacropus_eugenii 
+Myceliophthora_thermophila Thermothelomyces_thermophila 
+Parastagonospora_nodorum Phaeosphaeria_nodorum 
+Pseudambassis_ranga Parambassis_ranga 
+Pseudo-nitzschia_multistriata Pseudonitzschia_multistriata 
+Pyrenophora_tritici-repentis Pyrenophora_triticirepentis 

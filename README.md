@@ -4,12 +4,12 @@ web: http://genorigin.chenzxlab.cn/#!/
 
 ## Step 1 ensembl homology data
 Download the homology data from ensembl FTP. release 98/45.  
-[plants](ftp://ftp.ensemblgenomes.org/pub/plants/release-45/tsv/ensembl-compara/homologies/)  
-[fungi](ftp://ftp.ensemblgenomes.org/pub/fungi/release-45/tsv/ensembl-compara/homologies/)  
-[protists](ftp://ftp.ensemblgenomes.org/pub/protists/release-45/tsv/ensembl-compara/homologies/)  
-[bacteria](ftp://ftp.ensemblgenomes.org/pub/bacteria/release-45/tsv/ensembl-compara/homologies/)  
-[metazoa](ftp://ftp.ensemblgenomes.org/pub/metazoa/release-45/tsv/ensembl-compara/homologies/)  
-[vertebrate](ftp://ftp.ensembl.org/pub/release-98/tsv/ensembl-compara/homologies/)  
+ftp://ftp.ensemblgenomes.org/pub/plants/release-45/tsv/ensembl-compara/homologies/  
+ftp://ftp.ensemblgenomes.org/pub/fungi/release-45/tsv/ensembl-compara/homologies/  
+ftp://ftp.ensemblgenomes.org/pub/protists/release-45/tsv/ensembl-compara/homologies/  
+ftp://ftp.ensemblgenomes.org/pub/bacteria/release-45/tsv/ensembl-compara/homologies/  
+ftp://ftp.ensemblgenomes.org/pub/metazoa/release-45/tsv/ensembl-compara/homologies/  
+ftp://ftp.ensembl.org/pub/release-98/tsv/ensembl-compara/homologies/  
 
 ## Step 2 ensembl annotation
 Download the annotation json file from ensembl FTP  
@@ -20,7 +20,7 @@ ftp://ftp.ensembl.org/pub/release-98/json
 ## Step 3 time-tree
 Use the total species list from both [ensembl](www.ensembl.org), [ensemblgenomes](www.ensemblgenomes.org) (GenOrigin only provide the used species).   
 Then upload species list to [timetree](www.timetree.org).   
-Finally,we get the timetree file.   
+Finally, we get the timetree file.   
 
 ## Step 4 uniform time-tree scientific name
 The scientific name in timetree.org and ensembl.org might be different.  

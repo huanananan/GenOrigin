@@ -24,7 +24,7 @@ Finally, we get the [timetree file](https://github.com/huanananan/GenOrigin/tree
 
 ## Step 4 uniform time-tree scientific name
 The scientific name in [TimeTree](timetree.org) and [Ensembl](ensembl.org) might be different.  
-But it show the same taxonomy id in [uniprot](www.uniprot.org).  
+But it show the same taxonomy id in [UniProt](www.uniprot.org).  
 So we uniform it to Ensembl scientific name first two word.  
 See [change_time_tree_nwk_file_to_ensembl_species_name.txt](https://github.com/huanananan/GenOrigin/blob/master/change_time_tree_nwk_file_to_ensembl_species_name.txt)  
 

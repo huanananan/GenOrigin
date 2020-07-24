@@ -1,6 +1,7 @@
+[TOC]
 # GenOrigin
 web: http://genorigin.chenzxlab.cn/#!/
-[TOC]
+
 
 ##Step 1 ensembl homology data
 Download the homology data from ensembl FTP

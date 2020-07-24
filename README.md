@@ -22,24 +22,35 @@ Use the total species list from both [Ensembl](www.ensembl.org), [EnsemblGenomes
 Then upload species list to [TimeTree](www.timetree.org).   
 Finally, we get the [timetree file](https://github.com/huanananan/GenOrigin/tree/master/nwk).   
 
-## Step 4 uniform time-tree scientific name
+## Step 4 Count
+[Count download](https://www.iro.umontreal.ca/~csuros/gene_content/count.html)
+
+## Step 5 uniform time-tree scientific name
 The scientific name in [TimeTree](timetree.org) and [Ensembl](ensembl.org) might be different.  
 But it show the same taxonomy id in [UniProt](www.uniprot.org).  
 So we uniform it to Ensembl scientific name first two word.  
 See [change_time_tree_nwk_file_to_ensembl_species_name.txt](https://github.com/huanananan/GenOrigin/blob/master/change_time_tree_nwk_file_to_ensembl_species_name.txt)  
 
-## Step 5 split the Ensembl homology data
+## Step 6 split the Ensembl homology data
 Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) splits the homology data by species.  
 The output file, see [homology_split_by_species.rar](https://github.com/huanananan/GenOrigin/blob/master/homology_split_by_species.rar)  
 Split it could save memory and improve parallel efficiency.  
-Some species even split it as 100 genes to run pipline.  
+Some species even split it as 100 genes to run pipeline.  
 
-## Step 6 split the annotation json file (Optional)
-Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) split it by gene_id, organism or assembly.  
-The output file, see  [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py).  
+## Step 7 split the annotation json file (Optional)
+Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) split it by gene id, organism or assembly.  
+The output file, see [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py).  
 Split it could save memory, but not improve parallel efficiency.  
 Because reading and writing a large number of files at the same time will seriously slow down the speed.  
 But, it use disk place replace memory.  
 The biggest json file is about 44GB memory.  
 So, we provide and use the split annotation json in this project.  
 You can easy to change it, because i will provide the convert method in the python script as comment.  
+
+## Step 8 species connect to pan-taxonomy compara
+
+## Step 9 pan-taxonomy species to pan-taxonomy species
+
+## Step 10 pan-taxonomy species extension
+
+## step 11 other species extension

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+lpp0001	CAH11149	legionella_pneumophila_str_paris	68.1416	ortholog_one2one	CBU_0001	AAO89571	coxiella_burnetii_rsa_493	68.2927	NULL	NULL	NULL	NULL	1	46844743
+lpp0001	CAH11149	legionella_pneumophila_str_paris	58.8496	ortholog_one2one	O1Q_13378	EHS42160	pseudomonas_aeruginosa_mpao1_p2	69.8163	NULL	NULL	NULL	NULL	1	46844825
+lpp0001	CAH11149	legionella_pneumophila_str_paris	67.6991	ortholog_one2one	Avin_00010	ACO76269	azotobacter_vinelandii_dj	64.0167	NULL	NULL	NULL	NULL	1	46844898
+lpp0001	CAH11149	legionella_pneumophila_str_paris	53.3186	ortholog_one2one	XCC0001	AAM39320	xanthomonas_campestris_pv_campestris_str_atcc_33913	54.5249	NULL	NULL	NULL	NULL	1	46845134
+lpp0001	CAH11149	legionella_pneumophila_str_paris	53.0973	ortholog_one2one	Smlt0001	CAN85568	stenotrophomonas_maltophilia_k279a	54.1761	NULL	NULL	NULL	NULL	1	46845230
+lpp0001	CAH11149	legionella_pneumophila_str_paris	67.4779	ortholog_one2one	b3702	AAC76725	escherichia_coli_str_k_12_substr_mg1655	65.3105	NULL	NULL	NULL	NULL	1	46847091
+lpp0001	CAH11149	legionella_pneumophila_str_paris	67.4779	ortholog_one2one	SDY_4184	ABB64089	shigella_dysenteriae_sd197	65.3105	NULL	NULL	NULL	NULL	1	46847269
+lpp0001	CAH11149	legionella_pneumophila_str_paris	56.6372	ortholog_one2one	BAB12740	BAB12740	buchnera_aphidicola_str_aps_acyrthosiphon_pisum_	56.3877	NULL	NULL	NULL	NULL	1	46847414
+lpp0001	CAH11149	legionella_pneumophila_str_paris	66.3717	ortholog_one2one	VF_0009	AAW84504	vibrio_fischeri_es114	63.9659	NULL	NULL	NULL	NULL	1	46847505

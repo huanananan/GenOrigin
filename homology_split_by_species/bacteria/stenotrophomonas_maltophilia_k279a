@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	2.90276	ortholog_one2many	Smlt4591	CAQ47946	stenotrophomonas_maltophilia_k279a	13.5135	NULL	NULL	NULL	NULL	0	1942087
+UMAG_15021	KIS66846	ustilago_maydis	13.0178	ortholog_one2many	Smlt2603	CAQ46079	stenotrophomonas_maltophilia_k279a	15.2074	NULL	NULL	NULL	NULL	0	57728661
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	Smlt4539	CAQ47895	stenotrophomonas_maltophilia_k279a	19.7026	NULL	NULL	NULL	NULL	0	33538033
+UMAG_10719	KIS66850	ustilago_maydis	14.7849	ortholog_many2many	Smlt2687	CAQ46160	stenotrophomonas_maltophilia_k279a	20.5993	NULL	NULL	NULL	NULL	0	33538081
+UMAG_05644	KIS66858	ustilago_maydis	16.338	ortholog_many2many	Smlt3135	CAQ46580	stenotrophomonas_maltophilia_k279a	17.6292	NULL	NULL	NULL	NULL	0	27080179
+UMAG_05644	KIS66858	ustilago_maydis	16.338	ortholog_many2many	Smlt3027	CAQ46477	stenotrophomonas_maltophilia_k279a	17.6292	NULL	NULL	NULL	NULL	0	42678822
+UMAG_05644	KIS66858	ustilago_maydis	15.493	ortholog_many2many	Smlt3597	CAQ47014	stenotrophomonas_maltophilia_k279a	16.6163	NULL	NULL	NULL	NULL	0	42678861
+UMAG_05644	KIS66858	ustilago_maydis	24.7887	ortholog_many2many	Smlt0961	CAQ44525	stenotrophomonas_maltophilia_k279a	25.8824	NULL	NULL	NULL	NULL	0	42712432
+UMAG_05647	KIS66861	ustilago_maydis	4.61923	ortholog_many2many	Smlt1428	CAQ44967	stenotrophomonas_maltophilia_k279a	11.3497	NULL	NULL	NULL	NULL	0	10101689

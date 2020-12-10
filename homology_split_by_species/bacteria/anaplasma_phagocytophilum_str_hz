@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05632	KIS66844	ustilago_maydis	36.5385	ortholog_one2one	APH_0675	ABD44109	anaplasma_phagocytophilum_str_hz	58.4615	NULL	NULL	NULL	NULL	1	54617416
+UMAG_05644	KIS66858	ustilago_maydis	16.338	ortholog_one2many	APH_0257	ABD43679	anaplasma_phagocytophilum_str_hz	17.7914	NULL	NULL	NULL	NULL	0	42705313
+UMAG_05647	KIS66861	ustilago_maydis	5.1186	ortholog_one2many	APH_1395	ABD43401	anaplasma_phagocytophilum_str_hz	13.6213	NULL	NULL	NULL	NULL	0	11073936
+UMAG_05692	KIS66908	ustilago_maydis	5.17354	ortholog_one2one	APH_1086	ABD43621	anaplasma_phagocytophilum_str_hz	26.6892	NULL	NULL	NULL	NULL	0	59642574
+UMAG_05732	KIS66951	ustilago_maydis	5.40712	ortholog_one2one	APH_0944	ABD43306	anaplasma_phagocytophilum_str_hz	18.0851	NULL	NULL	NULL	NULL	0	66216894
+UMAG_05776	KIS66994	ustilago_maydis	47.767	ortholog_one2one	APH_0674	ABD43242	anaplasma_phagocytophilum_str_hz	59.7087	NULL	NULL	NULL	NULL	1	58358633
+UMAG_11514	KIS67836	ustilago_maydis	10.2752	ortholog_many2many	APH_0053	ABD44363	anaplasma_phagocytophilum_str_hz	13.1148	NULL	NULL	NULL	NULL	0	88347814
+UMAG_11514	KIS67836	ustilago_maydis	8.99083	ortholog_many2many	APH_0848	ABD43841	anaplasma_phagocytophilum_str_hz	11.5294	NULL	NULL	NULL	NULL	0	88347823
+UMAG_03984	KIS67933	ustilago_maydis	9.53717	ortholog_one2one	APH_1216	ABD43714	anaplasma_phagocytophilum_str_hz	16.6259	NULL	NULL	NULL	NULL	0	52071182

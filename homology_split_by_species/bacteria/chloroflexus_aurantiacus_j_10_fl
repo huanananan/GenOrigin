@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05644	KIS66858	ustilago_maydis	19.1549	ortholog_many2many	Caur_2281	ABY35490	chloroflexus_aurantiacus_j_10_fl	20.7317	NULL	NULL	NULL	NULL	0	21769720
+UMAG_05644	KIS66858	ustilago_maydis	22.2535	ortholog_many2many	Caur_1113	ABY34344	chloroflexus_aurantiacus_j_10_fl	22.7011	NULL	NULL	NULL	NULL	0	38456275
+UMAG_05644	KIS66858	ustilago_maydis	21.9718	ortholog_many2many	Caur_2809	ABY36010	chloroflexus_aurantiacus_j_10_fl	22.8739	NULL	NULL	NULL	NULL	0	38456308
+UMAG_05644	KIS66858	ustilago_maydis	21.6901	ortholog_many2many	Caur_3177	ABY36372	chloroflexus_aurantiacus_j_10_fl	22.1902	NULL	NULL	NULL	NULL	0	42646692
+UMAG_05644	KIS66858	ustilago_maydis	17.7465	ortholog_many2many	Caur_2992	ABY36191	chloroflexus_aurantiacus_j_10_fl	18.6391	NULL	NULL	NULL	NULL	0	42680391
+UMAG_05644	KIS66858	ustilago_maydis	18.8732	ortholog_many2many	Caur_0032	ABY33287	chloroflexus_aurantiacus_j_10_fl	21.3376	NULL	NULL	NULL	NULL	0	42693994
+UMAG_05644	KIS66858	ustilago_maydis	15.493	ortholog_many2many	Caur_0158	ABY33412	chloroflexus_aurantiacus_j_10_fl	16.1765	NULL	NULL	NULL	NULL	0	42701304
+UMAG_05644	KIS66858	ustilago_maydis	18.5915	ortholog_many2many	Caur_0416	ABY33666	chloroflexus_aurantiacus_j_10_fl	20.0608	NULL	NULL	NULL	NULL	0	42701338
+UMAG_10723	KIS66864	ustilago_maydis	11.6129	ortholog_one2many	Caur_1856	ABY35073	chloroflexus_aurantiacus_j_10_fl	36	NULL	NULL	NULL	NULL	0	41623389

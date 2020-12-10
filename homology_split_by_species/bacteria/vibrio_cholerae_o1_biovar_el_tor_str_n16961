@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	62.1951	ortholog_one2one	VC_2364	AAF95507	vibrio_cholerae_o1_biovar_el_tor_str_n16961	61.8182	NULL	NULL	NULL	NULL	1	15532467
+b0003	AAC73114	escherichia_coli_str_k_12_substr_mg1655	69.6774	ortholog_one2one	VC_2363	AAF95506	vibrio_cholerae_o1_biovar_el_tor_str_n16961	67.9245	NULL	NULL	NULL	NULL	1	41222392
+b0004	AAC73115	escherichia_coli_str_k_12_substr_mg1655	67.757	ortholog_one2one	VC_2362	AAF95505	vibrio_cholerae_o1_biovar_el_tor_str_n16961	68.0751	NULL	NULL	NULL	NULL	1	67374761
+b0006	AAC73117	escherichia_coli_str_k_12_substr_mg1655	65.8915	ortholog_one2one	VC_2355	AAF95498	vibrio_cholerae_o1_biovar_el_tor_str_n16961	66.1479	NULL	NULL	NULL	NULL	1	58882221
+b0007	AAC73118	escherichia_coli_str_k_12_substr_mg1655	51.0504	ortholog_one2one	VC_2356	AAF95499	vibrio_cholerae_o1_biovar_el_tor_str_n16961	51.0504	NULL	NULL	NULL	NULL	0	69132008
+b0008	AAC73119	escherichia_coli_str_k_12_substr_mg1655	72.5552	ortholog_one2many	VC_A0623	AAF96524	vibrio_cholerae_o1_biovar_el_tor_str_n16961	72.7848	NULL	NULL	NULL	NULL	1	58330102
+b0010	AAC73121	escherichia_coli_str_k_12_substr_mg1655	60.1064	ortholog_one2one	VC_0770	AAF93935	vibrio_cholerae_o1_biovar_el_tor_str_n16961	57.3604	NULL	NULL	NULL	NULL	1	24458664
+b0014	AAC73125	escherichia_coli_str_k_12_substr_mg1655	83.3856	ortholog_one2one	VC_0855	AAF94017	vibrio_cholerae_o1_biovar_el_tor_str_n16961	83.7795	NULL	NULL	NULL	NULL	1	64425750
+b0015	AAC73126	escherichia_coli_str_k_12_substr_mg1655	73.9362	ortholog_one2one	VC_0856	AAF94018	vibrio_cholerae_o1_biovar_el_tor_str_n16961	72.9659	NULL	NULL	NULL	NULL	1	54668247

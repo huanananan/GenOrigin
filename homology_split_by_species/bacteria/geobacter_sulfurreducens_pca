@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.62845	ortholog_many2many	GSU0515	AAR33846	geobacter_sulfurreducens_pca	16.5563	NULL	NULL	NULL	NULL	0	539803
+UMAG_05629	KIS66840	ustilago_maydis	2.61248	ortholog_many2many	GSU1118	AAR34444	geobacter_sulfurreducens_pca	12.0805	NULL	NULL	NULL	NULL	0	2241177
+UMAG_15021	KIS66846	ustilago_maydis	9.86193	ortholog_one2many	GSU3315	AAR36705	geobacter_sulfurreducens_pca	12.0773	NULL	NULL	NULL	NULL	0	56987515
+UMAG_05644	KIS66858	ustilago_maydis	18.8732	ortholog_many2many	GSU0573	AAR33904	geobacter_sulfurreducens_pca	20.303	NULL	NULL	NULL	NULL	0	21766218
+UMAG_05644	KIS66858	ustilago_maydis	16.338	ortholog_many2many	GSU0771	AAR34101	geobacter_sulfurreducens_pca	17.3134	NULL	NULL	NULL	NULL	0	42679453
+UMAG_05647	KIS66861	ustilago_maydis	4.86891	ortholog_many2many	GSU0487	AAR33819	geobacter_sulfurreducens_pca	11.7825	NULL	NULL	NULL	NULL	0	11077668
+UMAG_05665	KIS66879	ustilago_maydis	12.7273	ortholog_many2many	GSU2835	AAR36228	geobacter_sulfurreducens_pca	19.7581	NULL	NULL	NULL	NULL	0	31185782
+UMAG_10735	KIS66888	ustilago_maydis	23.8494	ortholog_one2one	GSU2654	AAR36026	geobacter_sulfurreducens_pca	32.3864	NULL	NULL	NULL	NULL	0	64816827
+UMAG_05676	KIS66891	ustilago_maydis	12.9771	ortholog_many2many	GSU0018	AAR33353	geobacter_sulfurreducens_pca	14.2259	NULL	NULL	NULL	NULL	0	41335971

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	13.6095	ortholog_one2many	Bsph_3564	ACA41050	lysinibacillus_sphaericus_c3_41	16.9533	NULL	NULL	NULL	NULL	0	57734407
+UMAG_10719	KIS66850	ustilago_maydis	16.9355	ortholog_many2many	Bsph_0089	ACA37727	lysinibacillus_sphaericus_c3_41	22.7437	NULL	NULL	NULL	NULL	0	49071436
+UMAG_10719	KIS66850	ustilago_maydis	14.5161	ortholog_many2many	Bsph_4482	ACA41933	lysinibacillus_sphaericus_c3_41	19.2171	NULL	NULL	NULL	NULL	0	49071565
+UMAG_05644	KIS66858	ustilago_maydis	24.507	ortholog_many2many	Bsph_3678	ACA41162	lysinibacillus_sphaericus_c3_41	24.7159	NULL	NULL	NULL	NULL	0	35043540
+UMAG_05644	KIS66858	ustilago_maydis	23.662	ortholog_many2many	Bsph_1818	ACA39412	lysinibacillus_sphaericus_c3_41	24.0688	NULL	NULL	NULL	NULL	0	35043591
+UMAG_05644	KIS66858	ustilago_maydis	16.0563	ortholog_many2many	Bsph_2647	ACA40187	lysinibacillus_sphaericus_c3_41	16.2393	NULL	NULL	NULL	NULL	0	42619857
+UMAG_05644	KIS66858	ustilago_maydis	16.9014	ortholog_many2many	Bsph_1851	ACA39445	lysinibacillus_sphaericus_c3_41	18.018	NULL	NULL	NULL	NULL	0	42679393
+UMAG_05647	KIS66861	ustilago_maydis	4.36954	ortholog_many2many	Bsph_0026	ACA37668	lysinibacillus_sphaericus_c3_41	11.1111	NULL	NULL	NULL	NULL	0	11076811
+UMAG_05665	KIS66879	ustilago_maydis	13.5065	ortholog_many2many	Bsph_0286	ACA37915	lysinibacillus_sphaericus_c3_41	20.7171	NULL	NULL	NULL	NULL	0	31132683

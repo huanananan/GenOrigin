@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	4.93469	ortholog_one2many	STM1661	AAL20579	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	10.7937	NULL	NULL	NULL	NULL	0	1947068
+UMAG_05632	KIS66844	ustilago_maydis	47.1154	ortholog_one2one	STM2542	AAL21436	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	76.5625	NULL	NULL	NULL	NULL	1	54546197
+UMAG_15021	KIS66846	ustilago_maydis	12.0316	ortholog_many2many	STM0520	AAL19474	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	14.6988	NULL	NULL	NULL	NULL	0	56987734
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_many2many	STM3832	AAL22691	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	14.0476	NULL	NULL	NULL	NULL	0	56987872
+UMAG_15021	KIS66846	ustilago_maydis	12.8205	ortholog_many2many	STM4412	AAL23232	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	16.1692	NULL	NULL	NULL	NULL	0	56988043
+UMAG_15021	KIS66846	ustilago_maydis	14.5957	ortholog_many2many	STM1543	AAL20462	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	17.2897	NULL	NULL	NULL	NULL	0	56988270
+UMAG_15021	KIS66846	ustilago_maydis	12.0316	ortholog_many2many	STM3787	AAL22645	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	13.1749	NULL	NULL	NULL	NULL	0	57042035
+UMAG_15021	KIS66846	ustilago_maydis	12.426	ortholog_many2many	STM2283	AAL21184	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	13.9381	NULL	NULL	NULL	NULL	0	57098892
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_many2many	STM2399	AAL21299	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	12.743	NULL	NULL	NULL	NULL	0	57098978

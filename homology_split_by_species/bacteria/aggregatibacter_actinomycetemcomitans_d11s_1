@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	4.06386	ortholog_one2many	D11S_1334	ACX82716	aggregatibacter_actinomycetemcomitans_d11s_1	9.03226	NULL	NULL	NULL	NULL	0	1942514
+UMAG_05632	KIS66844	ustilago_maydis	40.8654	ortholog_one2one	D11S_0878	ACX82273	aggregatibacter_actinomycetemcomitans_d11s_1	66.9291	NULL	NULL	NULL	NULL	1	54431933
+UMAG_15021	KIS66846	ustilago_maydis	12.0316	ortholog_many2many	D11S_0395	ACX81805	aggregatibacter_actinomycetemcomitans_d11s_1	12.7083	NULL	NULL	NULL	NULL	0	57095106
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_many2many	D11S_1863	ACX83221	aggregatibacter_actinomycetemcomitans_d11s_1	13.3183	NULL	NULL	NULL	NULL	0	57095195
+UMAG_15021	KIS66846	ustilago_maydis	12.426	ortholog_many2many	D11S_0171	ACX81590	aggregatibacter_actinomycetemcomitans_d11s_1	14.2857	NULL	NULL	NULL	NULL	0	57167912
+UMAG_05665	KIS66879	ustilago_maydis	12.7273	ortholog_many2many	D11S_1553	ACX82918	aggregatibacter_actinomycetemcomitans_d11s_1	18.4211	NULL	NULL	NULL	NULL	0	31296101
+UMAG_10732	KIS66885	ustilago_maydis	10.3261	ortholog_one2many	D11S_1813	ACX83174	aggregatibacter_actinomycetemcomitans_d11s_1	13.1488	NULL	NULL	NULL	NULL	0	9442804
+UMAG_05676	KIS66891	ustilago_maydis	9.73282	ortholog_many2many	D11S_2017	ACX83371	aggregatibacter_actinomycetemcomitans_d11s_1	12.6238	NULL	NULL	NULL	NULL	0	35522687
+UMAG_05677	KIS66892	ustilago_maydis	20.241	ortholog_one2one	D11S_0859	ACX82254	aggregatibacter_actinomycetemcomitans_d11s_1	28.866	NULL	NULL	NULL	NULL	0	61789257

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	2.46734	ortholog_one2many	RSP_3980	ABA81484	rhodobacter_sphaeroides_2_4_1	11.4094	NULL	NULL	NULL	NULL	0	1942305
+UMAG_10719	KIS66850	ustilago_maydis	14.5161	ortholog_many2many	RSP_0423	ABA79599	rhodobacter_sphaeroides_2_4_1	15.6069	NULL	NULL	NULL	NULL	0	48864679
+UMAG_05644	KIS66858	ustilago_maydis	20	ortholog_many2many	RSP_4033	ABA81432	rhodobacter_sphaeroides_2_4_1	21.0682	NULL	NULL	NULL	NULL	0	42599253
+UMAG_05644	KIS66858	ustilago_maydis	19.1549	ortholog_many2many	RSP_1608	ABA77753	rhodobacter_sphaeroides_2_4_1	20.6061	NULL	NULL	NULL	NULL	0	42599296
+UMAG_05644	KIS66858	ustilago_maydis	16.0563	ortholog_many2many	RSP_0960	ABA80143	rhodobacter_sphaeroides_2_4_1	13.2558	NULL	NULL	NULL	NULL	0	42639711
+UMAG_05644	KIS66858	ustilago_maydis	22.5352	ortholog_many2many	RSP_2799	ABA79016	rhodobacter_sphaeroides_2_4_1	21.978	NULL	NULL	NULL	NULL	0	42646613
+UMAG_05644	KIS66858	ustilago_maydis	18.3099	ortholog_many2many	RSP_1434	ABA77575	rhodobacter_sphaeroides_2_4_1	19.9387	NULL	NULL	NULL	NULL	0	42679748
+UMAG_05644	KIS66858	ustilago_maydis	15.7746	ortholog_many2many	RSP_0263	ABA79437	rhodobacter_sphaeroides_2_4_1	17.6101	NULL	NULL	NULL	NULL	0	42701075
+UMAG_05644	KIS66858	ustilago_maydis	21.1268	ortholog_many2many	RSP_2377	ABA78535	rhodobacter_sphaeroides_2_4_1	21.9941	NULL	NULL	NULL	NULL	0	42713137

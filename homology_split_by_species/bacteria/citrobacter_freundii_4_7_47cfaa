@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	4.78955	ortholog_one2many	HMPREF9428_01455	EHL80995	citrobacter_freundii_4_7_47cfaa	10.443	NULL	NULL	NULL	NULL	0	1944540
+UMAG_05632	KIS66844	ustilago_maydis	47.1154	ortholog_one2one	HMPREF9428_02459	EHL79752	citrobacter_freundii_4_7_47cfaa	76.5625	NULL	NULL	NULL	NULL	1	54572618
+UMAG_15021	KIS66846	ustilago_maydis	11.8343	ortholog_many2many	HMPREF9428_00293	EHL83277	citrobacter_freundii_4_7_47cfaa	13.6364	NULL	NULL	NULL	NULL	0	56982875
+UMAG_15021	KIS66846	ustilago_maydis	12.0316	ortholog_many2many	HMPREF9428_03424	EHL86395	citrobacter_freundii_4_7_47cfaa	14.2523	NULL	NULL	NULL	NULL	0	56983124
+UMAG_15021	KIS66846	ustilago_maydis	12.0316	ortholog_many2many	HMPREF9428_03689	EHL85356	citrobacter_freundii_4_7_47cfaa	13.1749	NULL	NULL	NULL	NULL	0	57039499
+UMAG_15021	KIS66846	ustilago_maydis	12.426	ortholog_many2many	HMPREF9428_02209	EHL79846	citrobacter_freundii_4_7_47cfaa	13.9381	NULL	NULL	NULL	NULL	0	57096656
+UMAG_15021	KIS66846	ustilago_maydis	11.4398	ortholog_many2many	HMPREF9428_02311	EHL79948	citrobacter_freundii_4_7_47cfaa	12.527	NULL	NULL	NULL	NULL	0	57096765
+UMAG_15021	KIS66846	ustilago_maydis	14.3984	ortholog_many2many	HMPREF9428_03688	EHL85355	citrobacter_freundii_4_7_47cfaa	16.5158	NULL	NULL	NULL	NULL	0	57170105
+UMAG_15021	KIS66846	ustilago_maydis	12.426	ortholog_many2many	HMPREF9428_00131	EHL83115	citrobacter_freundii_4_7_47cfaa	14.5161	NULL	NULL	NULL	NULL	0	57170259

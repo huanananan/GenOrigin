@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	11.8343	ortholog_many2many	Moth_0477	ABC18807	moorella_thermoacetica_atcc_39073	13.6054	NULL	NULL	NULL	NULL	0	56979780
+UMAG_15021	KIS66846	ustilago_maydis	14.2012	ortholog_many2many	Moth_2103	ABC20395	moorella_thermoacetica_atcc_39073	16.0356	NULL	NULL	NULL	NULL	0	56980055
+UMAG_15021	KIS66846	ustilago_maydis	14.3984	ortholog_many2many	Moth_2345	ABC20631	moorella_thermoacetica_atcc_39073	16.3677	NULL	NULL	NULL	NULL	0	56980270
+UMAG_05642	KIS66854	ustilago_maydis	2.65849	ortholog_one2many	Moth_2298	ABC20585	moorella_thermoacetica_atcc_39073	14.7727	NULL	NULL	NULL	NULL	0	47133618
+UMAG_05644	KIS66858	ustilago_maydis	22.2535	ortholog_many2many	Moth_2268	ABC20555	moorella_thermoacetica_atcc_39073	22.067	NULL	NULL	NULL	NULL	0	35046325
+UMAG_05644	KIS66858	ustilago_maydis	23.0986	ortholog_many2many	Moth_0475	ABC18805	moorella_thermoacetica_atcc_39073	23.7681	NULL	NULL	NULL	NULL	0	42599341
+UMAG_05665	KIS66879	ustilago_maydis	12.987	ortholog_many2many	Moth_2438	ABC20720	moorella_thermoacetica_atcc_39073	20.1613	NULL	NULL	NULL	NULL	0	31184363
+UMAG_05671	KIS66886	ustilago_maydis	23.6652	ortholog_one2one	Moth_2287	ABC20574	moorella_thermoacetica_atcc_39073	40.796	NULL	NULL	NULL	NULL	0	74130596
+UMAG_05676	KIS66891	ustilago_maydis	13.3588	ortholog_many2many	Moth_1188	ABC19502	moorella_thermoacetica_atcc_39073	17.3267	NULL	NULL	NULL	NULL	0	44004362

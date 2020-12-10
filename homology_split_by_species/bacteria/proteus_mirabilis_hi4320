@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	4.49927	ortholog_one2many	PMI1202	CAR42558	proteus_mirabilis_hi4320	9.81013	NULL	NULL	NULL	NULL	0	1944779
+UMAG_05632	KIS66844	ustilago_maydis	42.7885	ortholog_one2one	PMI1859	CAR43854	proteus_mirabilis_hi4320	69.5312	NULL	NULL	NULL	NULL	1	54337892
+UMAG_15021	KIS66846	ustilago_maydis	10.2564	ortholog_many2many	PMI2198	CAR44374	proteus_mirabilis_hi4320	12.5604	NULL	NULL	NULL	NULL	0	56983296
+UMAG_15021	KIS66846	ustilago_maydis	10.4536	ortholog_many2many	PMI2408	CAR44758	proteus_mirabilis_hi4320	11.9101	NULL	NULL	NULL	NULL	0	57039709
+UMAG_15021	KIS66846	ustilago_maydis	12.6233	ortholog_many2many	PMI3591	CAR47025	proteus_mirabilis_hi4320	14.2222	NULL	NULL	NULL	NULL	0	57096875
+UMAG_15021	KIS66846	ustilago_maydis	11.8343	ortholog_many2many	PMI0191	CAR40565	proteus_mirabilis_hi4320	13.4831	NULL	NULL	NULL	NULL	0	57170329
+UMAG_10719	KIS66850	ustilago_maydis	14.5161	ortholog_many2many	PMI0802	CAR41832	proteus_mirabilis_hi4320	20.2247	NULL	NULL	NULL	NULL	0	33548260
+UMAG_05644	KIS66858	ustilago_maydis	18.0282	ortholog_many2many	PMI3630	CAR47092	proteus_mirabilis_hi4320	19.7531	NULL	NULL	NULL	NULL	0	42680014
+UMAG_05644	KIS66858	ustilago_maydis	24.2254	ortholog_many2many	PMI3178	CAR46238	proteus_mirabilis_hi4320	25.2199	NULL	NULL	NULL	NULL	0	42713634

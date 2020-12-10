@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.62845	ortholog_one2many	RSc0184	CAD13712	ralstonia_solanacearum_gmi1000	15.0602	NULL	NULL	NULL	NULL	0	1945494
+UMAG_05632	KIS66844	ustilago_maydis	41.3462	ortholog_one2one	RSc1020	CAD14722	ralstonia_solanacearum_gmi1000	64.6617	NULL	NULL	NULL	NULL	1	54307704
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_many2many	RSp1396	CAD18547	ralstonia_solanacearum_gmi1000	13.3787	NULL	NULL	NULL	NULL	0	56985646
+UMAG_15021	KIS66846	ustilago_maydis	12.8205	ortholog_many2many	RSp0834	CAD17985	ralstonia_solanacearum_gmi1000	14.9425	NULL	NULL	NULL	NULL	0	57732168
+UMAG_15021	KIS66846	ustilago_maydis	12.6233	ortholog_many2many	RSc1080	CAD14782	ralstonia_solanacearum_gmi1000	14.8148	NULL	NULL	NULL	NULL	0	57732335
+UMAG_15021	KIS66846	ustilago_maydis	13.4122	ortholog_many2many	RSp0828	CAD17979	ralstonia_solanacearum_gmi1000	15.1111	NULL	NULL	NULL	NULL	0	57732641
+UMAG_15021	KIS66846	ustilago_maydis	14.7929	ortholog_many2many	RSp1614	CAD18765	ralstonia_solanacearum_gmi1000	16.7411	NULL	NULL	NULL	NULL	0	57732829
+UMAG_10719	KIS66850	ustilago_maydis	15.8602	ortholog_many2many	RSc1154	CAD14856	ralstonia_solanacearum_gmi1000	20.8481	NULL	NULL	NULL	NULL	0	33549319
+UMAG_05644	KIS66858	ustilago_maydis	19.4366	ortholog_many2many	RSc1505	CAD15207	ralstonia_solanacearum_gmi1000	20.6587	NULL	NULL	NULL	NULL	0	21768960

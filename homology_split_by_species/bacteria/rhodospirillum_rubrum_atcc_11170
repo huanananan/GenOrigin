@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_10719	KIS66850	ustilago_maydis	15.5914	ortholog_many2many	Rru_A0288	ABC21093	rhodospirillum_rubrum_atcc_11170	21.1679	NULL	NULL	NULL	NULL	0	33548810
+UMAG_05644	KIS66858	ustilago_maydis	16.0563	ortholog_many2many	Rru_A3063	ABC23858	rhodospirillum_rubrum_atcc_11170	13.3489	NULL	NULL	NULL	NULL	0	42639790
+UMAG_05644	KIS66858	ustilago_maydis	21.4085	ortholog_many2many	Rru_A3405	ABC24199	rhodospirillum_rubrum_atcc_11170	20.4301	NULL	NULL	NULL	NULL	0	42662591
+UMAG_05644	KIS66858	ustilago_maydis	17.1831	ortholog_many2many	Rru_A2962	ABC23757	rhodospirillum_rubrum_atcc_11170	18.6544	NULL	NULL	NULL	NULL	0	42680053
+UMAG_05644	KIS66858	ustilago_maydis	16.6197	ortholog_many2many	Rru_A2981	ABC23776	rhodospirillum_rubrum_atcc_11170	18.612	NULL	NULL	NULL	NULL	0	42701212
+UMAG_05644	KIS66858	ustilago_maydis	16.6197	ortholog_many2many	Rru_A3620	ABC24414	rhodospirillum_rubrum_atcc_11170	18.2099	NULL	NULL	NULL	NULL	0	42706053
+UMAG_05647	KIS66861	ustilago_maydis	4.49438	ortholog_many2many	Rru_A1698	ABC22498	rhodospirillum_rubrum_atcc_11170	10.6825	NULL	NULL	NULL	NULL	0	11106337
+UMAG_05674	KIS66889	ustilago_maydis	17.3077	ortholog_one2one	Rru_A2291	ABC23091	rhodospirillum_rubrum_atcc_11170	8.73786	NULL	NULL	NULL	NULL	0	73820654
+UMAG_05676	KIS66891	ustilago_maydis	12.7863	ortholog_many2many	Rru_A3004	ABC23799	rhodospirillum_rubrum_atcc_11170	16.3017	NULL	NULL	NULL	NULL	0	36557602

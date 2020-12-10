@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_10719	KIS66850	ustilago_maydis	12.9032	ortholog_many2many	LEUM_1315	ABJ62411	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	14.3284	NULL	NULL	NULL	NULL	0	46341054
+UMAG_10719	KIS66850	ustilago_maydis	12.0968	ortholog_many2many	LEUM_0699	ABJ61809	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	13.6364	NULL	NULL	NULL	NULL	0	46341110
+UMAG_05644	KIS66858	ustilago_maydis	22.5352	ortholog_many2many	LEUM_0912	ABJ62018	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	22.9226	NULL	NULL	NULL	NULL	0	35044363
+UMAG_05644	KIS66858	ustilago_maydis	19.7183	ortholog_many2many	LEUM_1919	ABJ62992	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	20	NULL	NULL	NULL	NULL	0	38448420
+UMAG_05644	KIS66858	ustilago_maydis	20.8451	ortholog_many2many	LEUM_0603	ABJ61717	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	21.8935	NULL	NULL	NULL	NULL	0	42598708
+UMAG_05647	KIS66861	ustilago_maydis	5.1186	ortholog_many2many	LEUM_0338	ABJ61462	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	13.4426	NULL	NULL	NULL	NULL	0	11077344
+UMAG_05665	KIS66879	ustilago_maydis	12.7273	ortholog_many2many	LEUM_1437	ABJ62530	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	18.7023	NULL	NULL	NULL	NULL	0	31185629
+UMAG_10732	KIS66885	ustilago_maydis	14.4022	ortholog_many2many	LEUM_1192	ABJ62290	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	15.1429	NULL	NULL	NULL	NULL	0	9420563
+UMAG_05671	KIS66886	ustilago_maydis	17.0274	ortholog_one2one	LEUM_0057	ABJ61209	leuconostoc_mesenteroides_subsp_mesenteroides_atcc_8293	31.7204	NULL	NULL	NULL	NULL	0	73994997

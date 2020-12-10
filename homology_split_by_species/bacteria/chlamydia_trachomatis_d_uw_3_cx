@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	11.2426	ortholog_one2many	CT_544	AAC68146	chlamydia_trachomatis_d_uw_3_cx	12.5	NULL	NULL	NULL	NULL	0	57171801
+UMAG_05665	KIS66879	ustilago_maydis	11.6883	ortholog_many2many	CT_574	AAC68176	chlamydia_trachomatis_d_uw_3_cx	12.6404	NULL	NULL	NULL	NULL	0	31108796
+UMAG_05776	KIS66994	ustilago_maydis	19.8058	ortholog_one2many	CT_258	AAC67851	chlamydia_trachomatis_d_uw_3_cx	27.2727	NULL	NULL	NULL	NULL	0	59619699
+UMAG_05776	KIS66994	ustilago_maydis	13.7864	ortholog_one2many	CT_721	AAC68316	chlamydia_trachomatis_d_uw_3_cx	18.4896	NULL	NULL	NULL	NULL	0	59620553
+UMAG_15063	KIS67851	ustilago_maydis	2.2686	ortholog_one2many	CT_641	AAC68245	chlamydia_trachomatis_d_uw_3_cx	4.47227	NULL	NULL	NULL	NULL	0	87438808
+UMAG_11521	KIS67901	ustilago_maydis	15.9935	ortholog_many2many	CT_107	AAC67698	chlamydia_trachomatis_d_uw_3_cx	26.8293	NULL	NULL	NULL	NULL	0	2925359
+UMAG_03959	KIS67908	ustilago_maydis	18.1146	ortholog_one2one	CT_604	AAC68207	chlamydia_trachomatis_d_uw_3_cx	18.3865	NULL	NULL	NULL	NULL	0	54442060
+UMAG_03990	KIS67939	ustilago_maydis	14.5062	ortholog_one2many	CT_104	AAC67695	chlamydia_trachomatis_d_uw_3_cx	15.7718	NULL	NULL	NULL	NULL	0	90638718
+UMAG_15008	KIS67959	ustilago_maydis	29.8507	ortholog_one2one	CT_378	AAC67974	chlamydia_trachomatis_d_uw_3_cx	26.6667	NULL	NULL	NULL	NULL	0	62003604

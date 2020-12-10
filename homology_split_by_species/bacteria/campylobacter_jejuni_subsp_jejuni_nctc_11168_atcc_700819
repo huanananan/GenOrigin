@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05647	KIS66861	ustilago_maydis	4.74407	ortholog_many2many	Cj1163c	CAL35278	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	12.0253	NULL	NULL	NULL	NULL	0	11127577
+UMAG_05664	KIS66878	ustilago_maydis	15.993	ortholog_one2many	Cj1411c	CAL35520	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	20.0883	NULL	NULL	NULL	NULL	0	73662452
+UMAG_05665	KIS66879	ustilago_maydis	12.2078	ortholog_many2many	Cj1651c	CAL35748	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	18.6508	NULL	NULL	NULL	NULL	0	31184331
+UMAG_05671	KIS66886	ustilago_maydis	20.3463	ortholog_one2one	Cj0227	CAL34382	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	35.6962	NULL	NULL	NULL	NULL	0	73996355
+UMAG_05740	KIS66957	ustilago_maydis	32.459	ortholog_one2many	Cj0013	CAL34194	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	35.4839	NULL	NULL	NULL	NULL	0	63207967
+UMAG_05746	KIS66965	ustilago_maydis	13.4653	ortholog_one2one	Cj1035c	CAL35153	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	28.4519	NULL	NULL	NULL	NULL	0	50205236
+UMAG_05776	KIS66994	ustilago_maydis	26.4078	ortholog_one2one	Cj0240c	CAL34395	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	34.6056	NULL	NULL	NULL	NULL	0	59150043
+UMAG_11514	KIS67836	ustilago_maydis	10.4587	ortholog_many2many	Cj1619	CAL35716	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	13.6038	NULL	NULL	NULL	NULL	0	85844492
+UMAG_11521	KIS67901	ustilago_maydis	15.5089	ortholog_many2many	Cj1620c	CAL35717	campylobacter_jejuni_subsp_jejuni_nctc_11168_atcc_700819	28.3186	NULL	NULL	NULL	NULL	0	2920185

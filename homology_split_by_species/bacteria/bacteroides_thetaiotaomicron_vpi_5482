@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.62845	ortholog_one2many	BT_0901	AAO76008	bacteroides_thetaiotaomicron_vpi_5482	6.70241	NULL	NULL	NULL	NULL	0	2240518
+UMAG_15021	KIS66846	ustilago_maydis	10.4536	ortholog_many2many	BT_4105	AAO79210	bacteroides_thetaiotaomicron_vpi_5482	10.7071	NULL	NULL	NULL	NULL	0	56986761
+UMAG_15021	KIS66846	ustilago_maydis	10.4536	ortholog_many2many	BT_0196	AAO75303	bacteroides_thetaiotaomicron_vpi_5482	11.8304	NULL	NULL	NULL	NULL	0	57041338
+UMAG_15021	KIS66846	ustilago_maydis	10.2564	ortholog_many2many	BT_4728	AAO79833	bacteroides_thetaiotaomicron_vpi_5482	11.5044	NULL	NULL	NULL	NULL	0	57041637
+UMAG_10719	KIS66850	ustilago_maydis	8.06452	ortholog_many2many	BT_0962	AAO76069	bacteroides_thetaiotaomicron_vpi_5482	6.42398	NULL	NULL	NULL	NULL	0	39271037
+UMAG_10719	KIS66850	ustilago_maydis	12.3656	ortholog_many2many	BT_2679	AAO77785	bacteroides_thetaiotaomicron_vpi_5482	13.7313	NULL	NULL	NULL	NULL	0	46340000
+UMAG_05644	KIS66858	ustilago_maydis	23.9437	ortholog_many2many	BT_3617	AAO78722	bacteroides_thetaiotaomicron_vpi_5482	25.1479	NULL	NULL	NULL	NULL	0	42598528
+UMAG_05644	KIS66858	ustilago_maydis	28.169	ortholog_many2many	BT_4512	AAO79617	bacteroides_thetaiotaomicron_vpi_5482	28.5714	NULL	NULL	NULL	NULL	0	42696788
+UMAG_05647	KIS66861	ustilago_maydis	5.1186	ortholog_many2many	BT_0499	AAO75606	bacteroides_thetaiotaomicron_vpi_5482	13.7124	NULL	NULL	NULL	NULL	0	11057953

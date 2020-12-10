@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05695	KIS66911	ustilago_maydis	9.13907	ortholog_many2many	PIN17_A1169	AFJ09710	prevotella_intermedia_17	9.58333	NULL	NULL	NULL	NULL	0	37946848
+UMAG_10938	KIS66933	ustilago_maydis	16.4751	ortholog_many2many	PIN17_0218	AFJ07545	prevotella_intermedia_17	17.7686	NULL	NULL	NULL	NULL	0	90177496
+UMAG_05732	KIS66951	ustilago_maydis	8.52417	ortholog_one2many	PIN17_A0132	AFJ08974	prevotella_intermedia_17	15.1927	NULL	NULL	NULL	NULL	0	66241223
+UMAG_05732	KIS66951	ustilago_maydis	8.39695	ortholog_one2many	PIN17_A1662	AFJ09068	prevotella_intermedia_17	14.1631	NULL	NULL	NULL	NULL	0	66245168
+UMAG_05739	KIS66956	ustilago_maydis	9.19811	ortholog_one2one	PIN17_A2001	AFJ08978	prevotella_intermedia_17	30	NULL	NULL	NULL	NULL	0	74011016
+UMAG_05754	KIS66972	ustilago_maydis	30	ortholog_one2one	PIN17_A1115	AFJ08582	prevotella_intermedia_17	30.8824	NULL	NULL	NULL	NULL	1	70928432
+UMAG_15063	KIS67851	ustilago_maydis	2.72232	ortholog_many2many	PIN17_A1754	AFJ08132	prevotella_intermedia_17	7.29927	NULL	NULL	NULL	NULL	0	87456501
+UMAG_03949	KIS67896	ustilago_maydis	7.07908	ortholog_one2one	PIN17_A1288	AFJ09324	prevotella_intermedia_17	17.1561	NULL	NULL	NULL	NULL	0	73086874
+UMAG_11521	KIS67901	ustilago_maydis	16.1551	ortholog_many2many	PIN17_A1998	AFJ09480	prevotella_intermedia_17	28.5714	NULL	NULL	NULL	NULL	0	2923085

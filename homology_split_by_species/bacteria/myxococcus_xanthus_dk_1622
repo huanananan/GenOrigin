@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05632	KIS66844	ustilago_maydis	39.9038	ortholog_one2one	MXAN_5002	ABF89450	myxococcus_xanthus_dk_1622	62.406	NULL	NULL	NULL	NULL	1	54676009
+UMAG_10719	KIS66850	ustilago_maydis	13.7097	ortholog_many2many	MXAN_6170	ABF86533	myxococcus_xanthus_dk_1622	14.956	NULL	NULL	NULL	NULL	0	35103259
+UMAG_10719	KIS66850	ustilago_maydis	13.9785	ortholog_many2many	MXAN_1098	ABF88469	myxococcus_xanthus_dk_1622	18.4397	NULL	NULL	NULL	NULL	0	40259324
+UMAG_10719	KIS66850	ustilago_maydis	15.0538	ortholog_many2many	MXAN_0678	ABF91614	myxococcus_xanthus_dk_1622	17.3375	NULL	NULL	NULL	NULL	0	49085941
+UMAG_05644	KIS66858	ustilago_maydis	19.1549	ortholog_many2many	MXAN_0456	ABF91173	myxococcus_xanthus_dk_1622	20.2381	NULL	NULL	NULL	NULL	0	21770141
+UMAG_05644	KIS66858	ustilago_maydis	18.8732	ortholog_many2many	MXAN_4266	ABF87438	myxococcus_xanthus_dk_1622	19.4203	NULL	NULL	NULL	NULL	0	23774517
+UMAG_05644	KIS66858	ustilago_maydis	16.0563	ortholog_many2many	MXAN_0222	ABF87627	myxococcus_xanthus_dk_1622	16.5217	NULL	NULL	NULL	NULL	0	42625421
+UMAG_05644	KIS66858	ustilago_maydis	29.0141	ortholog_many2many	MXAN_6323	ABF86936	myxococcus_xanthus_dk_1622	25.3695	NULL	NULL	NULL	NULL	0	42697091
+UMAG_05644	KIS66858	ustilago_maydis	14.6479	ortholog_many2many	MXAN_0040	ABF89793	myxococcus_xanthus_dk_1622	14.4044	NULL	NULL	NULL	NULL	0	42726500

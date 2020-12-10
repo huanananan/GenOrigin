@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05632	KIS66844	ustilago_maydis	41.3462	ortholog_one2one	E9G_04484	EGE11439	moraxella_catarrhalis_7169	67.7165	NULL	NULL	NULL	NULL	1	54471566
+UMAG_05665	KIS66879	ustilago_maydis	14.5455	ortholog_many2many	E9G_00533	EGE12414	moraxella_catarrhalis_7169	21.374	NULL	NULL	NULL	NULL	0	31297009
+UMAG_05676	KIS66891	ustilago_maydis	11.8321	ortholog_many2many	E9G_07074	EGE10717	moraxella_catarrhalis_7169	15.0121	NULL	NULL	NULL	NULL	0	35551091
+UMAG_05677	KIS66892	ustilago_maydis	15.1807	ortholog_one2one	E9G_03534	EGE11259	moraxella_catarrhalis_7169	23.3333	NULL	NULL	NULL	NULL	0	61945912
+UMAG_10938	KIS66933	ustilago_maydis	17.6245	ortholog_many2many	E9G_07615	EGE10285	moraxella_catarrhalis_7169	15.3333	NULL	NULL	NULL	NULL	0	90177522
+UMAG_05740	KIS66957	ustilago_maydis	33.7705	ortholog_one2many	E9G_03809	EGE11314	moraxella_catarrhalis_7169	32.5949	NULL	NULL	NULL	NULL	0	63208233
+UMAG_05754	KIS66972	ustilago_maydis	48.5714	ortholog_one2one	E9G_03499	EGE11252	moraxella_catarrhalis_7169	55.0162	NULL	NULL	NULL	NULL	1	70916447
+UMAG_03892	KIS67834	ustilago_maydis	15.7434	ortholog_many2many	E9G_06459	EGE10596	moraxella_catarrhalis_7169	27.6215	NULL	NULL	NULL	NULL	0	41955402
+UMAG_15063	KIS67851	ustilago_maydis	3.26679	ortholog_many2many	E9G_05204	EGE11577	moraxella_catarrhalis_7169	8.03571	NULL	NULL	NULL	NULL	0	79657079

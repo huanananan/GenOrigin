@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	4.49927	ortholog_one2many	PG_0245	AAQ65471	porphyromonas_gingivalis_w83	8.37838	NULL	NULL	NULL	NULL	0	2240739
+UMAG_05647	KIS66861	ustilago_maydis	4.99376	ortholog_many2many	PG_1408	AAQ66465	porphyromonas_gingivalis_w83	12.4611	NULL	NULL	NULL	NULL	0	11128612
+UMAG_10723	KIS66864	ustilago_maydis	11.2903	ortholog_one2many	PG_0627	AAQ65811	porphyromonas_gingivalis_w83	36.0825	NULL	NULL	NULL	NULL	0	41623124
+UMAG_05665	KIS66879	ustilago_maydis	11.9481	ortholog_many2many	PG_1917	AAQ66898	porphyromonas_gingivalis_w83	17.6245	NULL	NULL	NULL	NULL	0	31185510
+UMAG_10732	KIS66885	ustilago_maydis	11.1413	ortholog_one2many	PG_0664	AAQ65842	porphyromonas_gingivalis_w83	8.28283	NULL	NULL	NULL	NULL	0	9407832
+UMAG_05676	KIS66891	ustilago_maydis	9.16031	ortholog_many2many	PG_1327	AAQ66397	porphyromonas_gingivalis_w83	11.0092	NULL	NULL	NULL	NULL	0	36568082
+UMAG_05695	KIS66911	ustilago_maydis	9.53642	ortholog_many2many	PG_0933	AAQ66067	porphyromonas_gingivalis_w83	10.0139	NULL	NULL	NULL	NULL	0	37947057
+UMAG_10938	KIS66933	ustilago_maydis	14.1762	ortholog_many2many	PG_1221	AAQ66311	porphyromonas_gingivalis_w83	15.3527	NULL	NULL	NULL	NULL	0	90177533
+UMAG_05732	KIS66951	ustilago_maydis	8.77863	ortholog_one2one	PG_1797	AAQ66796	porphyromonas_gingivalis_w83	14.36	NULL	NULL	NULL	NULL	0	66232593

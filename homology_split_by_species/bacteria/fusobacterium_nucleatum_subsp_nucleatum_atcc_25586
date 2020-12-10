@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_10719	KIS66850	ustilago_maydis	10.2151	ortholog_one2many	FN1688	AAL93803	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	13.1034	NULL	NULL	NULL	NULL	0	40258889
+UMAG_05665	KIS66879	ustilago_maydis	12.2078	ortholog_many2many	FN1297	AAL95493	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	18.5039	NULL	NULL	NULL	NULL	0	31185742
+UMAG_05674	KIS66889	ustilago_maydis	16.4835	ortholog_one2one	FN1280	AAL95476	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	10.3627	NULL	NULL	NULL	NULL	0	73797765
+UMAG_05676	KIS66891	ustilago_maydis	10.687	ortholog_many2many	FN1416	AAL95609	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	12.2807	NULL	NULL	NULL	NULL	0	45732333
+UMAG_05677	KIS66892	ustilago_maydis	16.6265	ortholog_one2one	FN1379	AAL95575	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	23.3108	NULL	NULL	NULL	NULL	0	61790643
+UMAG_10938	KIS66933	ustilago_maydis	16.4751	ortholog_many2many	FN0216	AAL94422	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	17.2	NULL	NULL	NULL	NULL	0	90177547
+UMAG_05739	KIS66956	ustilago_maydis	8.72641	ortholog_one2one	FN0725	AAL94921	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	31.6239	NULL	NULL	NULL	NULL	0	74010581
+UMAG_05754	KIS66972	ustilago_maydis	29.4286	ortholog_one2many	FN1533	AAL93659	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	31.8885	NULL	NULL	NULL	NULL	1	70925957
+UMAG_05754	KIS66972	ustilago_maydis	31.1429	ortholog_one2many	FN0785	AAL94981	fusobacterium_nucleatum_subsp_nucleatum_atcc_25586	27.8772	NULL	NULL	NULL	NULL	1	70928148

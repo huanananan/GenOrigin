@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	2.90276	ortholog_many2many	MAE_58660	BAG05688	microcystis_aeruginosa_nies_843	11.3636	NULL	NULL	NULL	NULL	0	2389647
+UMAG_05629	KIS66840	ustilago_maydis	3.19303	ortholog_many2many	MAE_48970	BAG04719	microcystis_aeruginosa_nies_843	13.5802	NULL	NULL	NULL	NULL	0	2389705
+UMAG_05629	KIS66840	ustilago_maydis	3.77358	ortholog_many2many	MAE_48380	BAG04660	microcystis_aeruginosa_nies_843	9.15493	NULL	NULL	NULL	NULL	0	2453474
+UMAG_10719	KIS66850	ustilago_maydis	13.4409	ortholog_many2many	MAE_16060	BAG01428	microcystis_aeruginosa_nies_843	15.7729	NULL	NULL	NULL	NULL	0	43573257
+UMAG_05644	KIS66858	ustilago_maydis	16.9014	ortholog_many2many	MAE_49470	BAG04769	microcystis_aeruginosa_nies_843	17.9641	NULL	NULL	NULL	NULL	0	31128516
+UMAG_10723	KIS66864	ustilago_maydis	10.6452	ortholog_many2many	MAE_45870	BAG04409	microcystis_aeruginosa_nies_843	33	NULL	NULL	NULL	NULL	0	39572254
+UMAG_10723	KIS66864	ustilago_maydis	5.48387	ortholog_many2many	MAE_32170	BAG03039	microcystis_aeruginosa_nies_843	17.3469	NULL	NULL	NULL	NULL	0	39572297
+UMAG_05665	KIS66879	ustilago_maydis	15.8442	ortholog_many2many	MAE_06840	BAG00506	microcystis_aeruginosa_nies_843	21.7082	NULL	NULL	NULL	NULL	0	31185170
+UMAG_10732	KIS66885	ustilago_maydis	14.1304	ortholog_many2many	MAE_08790	BAG00701	microcystis_aeruginosa_nies_843	15.5224	NULL	NULL	NULL	NULL	0	9437664

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.91872	ortholog_one2many	LA_1212	AAN48411	leptospira_interrogans_serovar_lai_str_56601	18.75	NULL	NULL	NULL	NULL	0	1220057
+UMAG_15021	KIS66846	ustilago_maydis	11.0454	ortholog_one2many	LA_4041	AAN51239	leptospira_interrogans_serovar_lai_str_56601	12.6411	NULL	NULL	NULL	NULL	0	57098629
+UMAG_05644	KIS66858	ustilago_maydis	19.4366	ortholog_many2many	LA_0477	AAN47676	leptospira_interrogans_serovar_lai_str_56601	14.5877	NULL	NULL	NULL	NULL	0	38455959
+UMAG_05644	KIS66858	ustilago_maydis	15.7746	ortholog_many2many	LA_2629	AAN49828	leptospira_interrogans_serovar_lai_str_56601	16.3743	NULL	NULL	NULL	NULL	0	42600272
+UMAG_05644	KIS66858	ustilago_maydis	16.6197	ortholog_many2many	LA_0296	AAN47495	leptospira_interrogans_serovar_lai_str_56601	14.2169	NULL	NULL	NULL	NULL	0	42639836
+UMAG_05644	KIS66858	ustilago_maydis	22.2535	ortholog_many2many	LA_3354	AAN50552	leptospira_interrogans_serovar_lai_str_56601	23.0321	NULL	NULL	NULL	NULL	0	42646736
+UMAG_05647	KIS66861	ustilago_maydis	4.86891	ortholog_many2many	LA_2214	AAN49413	leptospira_interrogans_serovar_lai_str_56601	12.3418	NULL	NULL	NULL	NULL	0	11077273
+UMAG_10732	KIS66885	ustilago_maydis	15.2174	ortholog_many2many	LA_1334	AAN48533	leptospira_interrogans_serovar_lai_str_56601	14.3959	NULL	NULL	NULL	NULL	0	9437721
+UMAG_05671	KIS66886	ustilago_maydis	19.1919	ortholog_one2one	LA_2153	AAN49352	leptospira_interrogans_serovar_lai_str_56601	32.7586	NULL	NULL	NULL	NULL	0	73996657

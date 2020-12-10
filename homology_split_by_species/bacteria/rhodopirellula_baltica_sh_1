@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	10.8481	ortholog_one2many	RB3768	CAD73397	rhodopirellula_baltica_sh_1	12.5858	NULL	NULL	NULL	NULL	0	56983787
+UMAG_10719	KIS66850	ustilago_maydis	10.4839	ortholog_many2many	RB2799	CAD72836	rhodopirellula_baltica_sh_1	12.6214	NULL	NULL	NULL	NULL	0	46335462
+UMAG_05644	KIS66858	ustilago_maydis	14.9296	ortholog_many2many	RB11151	CAD77189	rhodopirellula_baltica_sh_1	15.7738	NULL	NULL	NULL	NULL	0	31128148
+UMAG_05644	KIS66858	ustilago_maydis	22.8169	ortholog_many2many	RB5320	CAD74171	rhodopirellula_baltica_sh_1	20.4545	NULL	NULL	NULL	NULL	0	35041773
+UMAG_05644	KIS66858	ustilago_maydis	26.4789	ortholog_many2many	RB5948	CAD74526	rhodopirellula_baltica_sh_1	27.1676	NULL	NULL	NULL	NULL	0	42598312
+UMAG_05644	KIS66858	ustilago_maydis	22.5352	ortholog_many2many	RB4131	CAD73603	rhodopirellula_baltica_sh_1	23.3918	NULL	NULL	NULL	NULL	0	42598353
+UMAG_05644	KIS66858	ustilago_maydis	26.4789	ortholog_many2many	RB2373	CAD72591	rhodopirellula_baltica_sh_1	23.3831	NULL	NULL	NULL	NULL	0	42627145
+UMAG_05644	KIS66858	ustilago_maydis	18.3099	ortholog_many2many	RB13260	CAD78029	rhodopirellula_baltica_sh_1	19.9387	NULL	NULL	NULL	NULL	0	42679037
+UMAG_05644	KIS66858	ustilago_maydis	21.6901	ortholog_many2many	RB3488	CAD73222	rhodopirellula_baltica_sh_1	18.599	NULL	NULL	NULL	NULL	0	42696572

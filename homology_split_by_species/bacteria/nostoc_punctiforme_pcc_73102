@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.19303	ortholog_many2many	Npun_F1924	ACC80577	nostoc_punctiforme_pcc_73102	12.2905	NULL	NULL	NULL	NULL	0	2389001
+UMAG_05629	KIS66840	ustilago_maydis	2.75762	ortholog_many2many	Npun_F0242	ACC79028	nostoc_punctiforme_pcc_73102	11.1765	NULL	NULL	NULL	NULL	0	2389047
+UMAG_05629	KIS66840	ustilago_maydis	3.33817	ortholog_many2many	Npun_R0279	ACC79064	nostoc_punctiforme_pcc_73102	8.12721	NULL	NULL	NULL	NULL	0	2453357
+UMAG_10719	KIS66850	ustilago_maydis	14.5161	ortholog_many2many	Npun_R2415	ACC80978	nostoc_punctiforme_pcc_73102	19.3548	NULL	NULL	NULL	NULL	0	40248321
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	Npun_R4516	ACC82882	nostoc_punctiforme_pcc_73102	16.8254	NULL	NULL	NULL	NULL	0	43572711
+UMAG_10719	KIS66850	ustilago_maydis	11.0215	ortholog_many2many	Npun_R2934	ACC81465	nostoc_punctiforme_pcc_73102	16.6667	NULL	NULL	NULL	NULL	0	48826839
+UMAG_10719	KIS66850	ustilago_maydis	14.5161	ortholog_many2many	Npun_R2499	ACC81056	nostoc_punctiforme_pcc_73102	15.6522	NULL	NULL	NULL	NULL	0	48862291
+UMAG_05644	KIS66858	ustilago_maydis	20.2817	ortholog_many2many	Npun_R1726	ACC80395	nostoc_punctiforme_pcc_73102	20.4545	NULL	NULL	NULL	NULL	0	42598131
+UMAG_05644	KIS66858	ustilago_maydis	19.7183	ortholog_many2many	Npun_F4523	ACC82889	nostoc_punctiforme_pcc_73102	22.0126	NULL	NULL	NULL	NULL	0	42693789

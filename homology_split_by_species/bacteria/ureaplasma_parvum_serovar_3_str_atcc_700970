@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+b0014	AAC73125	escherichia_coli_str_k_12_substr_mg1655	47.0219	ortholog_one2one	UU339	AAF30748	ureaplasma_parvum_serovar_3_str_atcc_700970	49.7512	NULL	NULL	NULL	NULL	0	65036491
+b0025	AAC73136	escherichia_coli_str_k_12_substr_mg1655	23.0032	ortholog_one2one	UU355	AAF30764	ureaplasma_parvum_serovar_3_str_atcc_700970	25.4417	NULL	NULL	NULL	NULL	0	73536988
+b0026	AAC73137	escherichia_coli_str_k_12_substr_mg1655	33.1557	ortholog_one2one	UU410	AAF30821	ureaplasma_parvum_serovar_3_str_atcc_700970	34.5556	NULL	NULL	NULL	NULL	0	72768031
+b0048	AAC73159	escherichia_coli_str_k_12_substr_mg1655	21.3836	ortholog_one2one	UU114	AAF30520	ureaplasma_parvum_serovar_3_str_atcc_700970	21.7949	NULL	NULL	NULL	NULL	0	58423825
+b0051	AAC73162	escherichia_coli_str_k_12_substr_mg1655	27.8388	ortholog_one2one	UU601	AAF31015	ureaplasma_parvum_serovar_3_str_atcc_700970	29.572	NULL	NULL	NULL	NULL	0	77031383
+b0082	AAC73193	escherichia_coli_str_k_12_substr_mg1655	39.6166	ortholog_one2one	UU386	AAF30796	ureaplasma_parvum_serovar_3_str_atcc_700970	40.2597	NULL	NULL	NULL	NULL	0	72061988
+b0098	AAC73209	escherichia_coli_str_k_12_substr_mg1655	35.4051	ortholog_one2one	UU119	AAF30525	ureaplasma_parvum_serovar_3_str_atcc_700970	38.1123	NULL	NULL	NULL	NULL	0	60972159
+b0125	AAC73236	escherichia_coli_str_k_12_substr_mg1655	32.0225	ortholog_one2one	UU104	AAF30510	ureaplasma_parvum_serovar_3_str_atcc_700970	27.6699	NULL	NULL	NULL	NULL	1	63529353
+b0151	AAC73262	escherichia_coli_str_k_12_substr_mg1655	32.0755	ortholog_one2one	UU435	AAF30847	ureaplasma_parvum_serovar_3_str_atcc_700970	21.9638	NULL	NULL	NULL	NULL	0	66745804

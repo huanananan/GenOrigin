@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	12.8205	ortholog_many2many	CC_0988	AAK22972	caulobacter_crescentus_cb15	14.8402	NULL	NULL	NULL	NULL	0	57730469
+UMAG_15021	KIS66846	ustilago_maydis	13.0178	ortholog_many2many	CC_1508	AAK23487	caulobacter_crescentus_cb15	15.3132	NULL	NULL	NULL	NULL	0	57730616
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	CC_3428	AAK25390	caulobacter_crescentus_cb15	18.9964	NULL	NULL	NULL	NULL	0	33545749
+UMAG_10719	KIS66850	ustilago_maydis	15.5914	ortholog_many2many	CC_3662	AAK25624	caulobacter_crescentus_cb15	14.4638	NULL	NULL	NULL	NULL	0	48864911
+UMAG_05644	KIS66858	ustilago_maydis	18.0282	ortholog_many2many	CC_3085	AAK25047	caulobacter_crescentus_cb15	15.0943	NULL	NULL	NULL	NULL	0	42639748
+UMAG_05647	KIS66861	ustilago_maydis	5.1186	ortholog_many2many	CC_0303	AAK22290	caulobacter_crescentus_cb15	11.3573	NULL	NULL	NULL	NULL	0	11074317
+UMAG_10732	KIS66885	ustilago_maydis	16.8478	ortholog_many2many	CC_0967	AAK22951	caulobacter_crescentus_cb15	20.1954	NULL	NULL	NULL	NULL	0	9016611
+UMAG_10732	KIS66885	ustilago_maydis	14.9457	ortholog_many2many	CC_1296	AAK23277	caulobacter_crescentus_cb15	16.7683	NULL	NULL	NULL	NULL	0	9442920
+UMAG_10732	KIS66885	ustilago_maydis	16.8478	ortholog_many2many	CC_1630	AAK23608	caulobacter_crescentus_cb15	16.4894	NULL	NULL	NULL	NULL	0	9451758

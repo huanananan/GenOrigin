@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_one2many	EF_2992	AAO82679	enterococcus_faecalis_v583	14.0811	NULL	NULL	NULL	NULL	0	56980745
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	EF_0877	AAO80686	enterococcus_faecalis_v583	17.4917	NULL	NULL	NULL	NULL	0	48990255
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	EF_0629	AAO80455	enterococcus_faecalis_v583	18.9964	NULL	NULL	NULL	NULL	0	49071758
+UMAG_05644	KIS66858	ustilago_maydis	19.4366	ortholog_many2many	EF_1826	AAO81593	enterococcus_faecalis_v583	20.4142	NULL	NULL	NULL	NULL	0	38451507
+UMAG_05644	KIS66858	ustilago_maydis	14.9296	ortholog_many2many	EF_2654	AAO82362	enterococcus_faecalis_v583	16.0606	NULL	NULL	NULL	NULL	0	42679792
+UMAG_05665	KIS66879	ustilago_maydis	11.1688	ortholog_many2many	EF_2200	AAO81932	enterococcus_faecalis_v583	16.9291	NULL	NULL	NULL	NULL	0	31184552
+UMAG_10732	KIS66885	ustilago_maydis	15.2174	ortholog_many2many	EF_1244	AAO81041	enterococcus_faecalis_v583	16.0458	NULL	NULL	NULL	NULL	0	9420025
+UMAG_10735	KIS66888	ustilago_maydis	22.8033	ortholog_one2one	EF_1353	AAO81144	enterococcus_faecalis_v583	29.3801	NULL	NULL	NULL	NULL	0	64576781
+UMAG_05676	KIS66891	ustilago_maydis	11.4504	ortholog_many2many	EF_1314	AAO81106	enterococcus_faecalis_v583	14.8148	NULL	NULL	NULL	NULL	0	35591108

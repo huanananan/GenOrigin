@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.0479	ortholog_many2many	DVU_0542	AAS95024	desulfovibrio_vulgaris_str_hildenborough	15	NULL	NULL	NULL	NULL	0	1219371
+UMAG_05644	KIS66858	ustilago_maydis	17.4648	ortholog_one2many	DVU_2754	AAS97226	desulfovibrio_vulgaris_str_hildenborough	19.0769	NULL	NULL	NULL	NULL	0	42705650
+UMAG_10723	KIS66864	ustilago_maydis	9.35484	ortholog_many2many	DVU_2215	AAS96688	desulfovibrio_vulgaris_str_hildenborough	32.5843	NULL	NULL	NULL	NULL	0	39570047
+UMAG_10723	KIS66864	ustilago_maydis	8.06452	ortholog_many2many	DVU_1257	AAS95735	desulfovibrio_vulgaris_str_hildenborough	27.7778	NULL	NULL	NULL	NULL	0	39570093
+UMAG_05665	KIS66879	ustilago_maydis	12.4675	ortholog_many2many	DVU_1324	AAS95802	desulfovibrio_vulgaris_str_hildenborough	18.5328	NULL	NULL	NULL	NULL	0	31184402
+UMAG_05671	KIS66886	ustilago_maydis	20.3463	ortholog_one2one	DVU_2347	AAS96820	desulfovibrio_vulgaris_str_hildenborough	35.3383	NULL	NULL	NULL	NULL	0	74111791
+UMAG_05676	KIS66891	ustilago_maydis	13.3588	ortholog_many2many	DVU_2364	AAS96837	desulfovibrio_vulgaris_str_hildenborough	18.0412	NULL	NULL	NULL	NULL	0	36546541
+UMAG_05676	KIS66891	ustilago_maydis	13.1679	ortholog_many2many	DVU_0030	AAS94514	desulfovibrio_vulgaris_str_hildenborough	13.8	NULL	NULL	NULL	NULL	0	41349018
+UMAG_05676	KIS66891	ustilago_maydis	12.0229	ortholog_many2many	DVU_0841	AAS95321	desulfovibrio_vulgaris_str_hildenborough	16.0305	NULL	NULL	NULL	NULL	0	42510724

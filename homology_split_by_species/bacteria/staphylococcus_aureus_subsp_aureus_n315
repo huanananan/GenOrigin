@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	10.6509	ortholog_many2many	BAB43603	BAB43603	staphylococcus_aureus_subsp_aureus_n315	12.7059	NULL	NULL	NULL	NULL	0	56984256
+UMAG_15021	KIS66846	ustilago_maydis	11.8343	ortholog_many2many	BAB41436	BAB41436	staphylococcus_aureus_subsp_aureus_n315	13.0719	NULL	NULL	NULL	NULL	0	57040078
+UMAG_15021	KIS66846	ustilago_maydis	13.8067	ortholog_many2many	BAB41549	BAB41549	staphylococcus_aureus_subsp_aureus_n315	15.4867	NULL	NULL	NULL	NULL	0	57097413
+UMAG_10719	KIS66850	ustilago_maydis	12.6344	ortholog_many2many	BAB41876	BAB41876	staphylococcus_aureus_subsp_aureus_n315	15.5629	NULL	NULL	NULL	NULL	0	48990829
+UMAG_05644	KIS66858	ustilago_maydis	24.2254	ortholog_many2many	BAB41462	BAB41462	staphylococcus_aureus_subsp_aureus_n315	24.5014	NULL	NULL	NULL	NULL	0	35047063
+UMAG_05644	KIS66858	ustilago_maydis	18.5915	ortholog_many2many	BAB41794	BAB41794	staphylococcus_aureus_subsp_aureus_n315	19.6429	NULL	NULL	NULL	NULL	0	38454391
+UMAG_05644	KIS66858	ustilago_maydis	21.4085	ortholog_many2many	BAB41464	BAB41464	staphylococcus_aureus_subsp_aureus_n315	21.902	NULL	NULL	NULL	NULL	0	42599839
+UMAG_05644	KIS66858	ustilago_maydis	15.2113	ortholog_many2many	BAB43278	BAB43278	staphylococcus_aureus_subsp_aureus_n315	16.1194	NULL	NULL	NULL	NULL	0	42620702
+UMAG_05644	KIS66858	ustilago_maydis	14.9296	ortholog_many2many	BAB43462	BAB43462	staphylococcus_aureus_subsp_aureus_n315	15.8683	NULL	NULL	NULL	NULL	0	42680094

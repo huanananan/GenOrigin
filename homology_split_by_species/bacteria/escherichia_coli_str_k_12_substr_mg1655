@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	99.6341	ortholog_one2one	SDY_0002	ABB60242	shigella_dysenteriae_sd197	99.6341	NULL	NULL	NULL	NULL	1	15527191
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	94.5122	ortholog_one2one	STM0002	AAL18966	salmonella_enterica_subsp_enterica_serovar_typhimurium_str_lt2	94.5122	NULL	NULL	NULL	NULL	1	15527339
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	94.8781	ortholog_one2one	HMPREF9428_02768	EHL83920	citrobacter_freundii_4_7_47cfaa	94.8781	NULL	NULL	NULL	NULL	1	15527380
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	81.5854	ortholog_one2one	YP_3723	AAS63871	yersinia_pestis_biovar_microtus_str_91001	81.8849	NULL	NULL	NULL	NULL	1	15527981
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	76.3415	ortholog_one2one	PMI0001	CAQ05993	proteus_mirabilis_hi4320	76.4347	NULL	NULL	NULL	NULL	1	15528277
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	52.8049	ortholog_one2one	BAB12911	BAB12911	buchnera_aphidicola_str_aps_acyrthosiphon_pisum_	53.0637	NULL	NULL	NULL	NULL	1	15528587
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	63.5366	ortholog_one2one	PM0113	AAK02197	pasteurella_multocida_subsp_multocida_str_pm70	63.9264	NULL	NULL	NULL	NULL	1	15529525
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	61.7073	ortholog_one2one	COI_2389	EEY09193	mannheimia_haemolytica_serotype_a2_str_ovine	61.8582	NULL	NULL	NULL	NULL	1	15529965
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	61.5854	ortholog_one2one	APL_0250	ABN73358	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	61.7359	NULL	NULL	NULL	NULL	1	15530390

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	2.46734	ortholog_one2many	BruAb1_1942	AAX75248	brucella_abortus_bv_1_str_9_941	11.4094	NULL	NULL	NULL	NULL	0	1944292
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_many2many	BruAb1_1939	AAX75245	brucella_abortus_bv_1_str_9_941	13.5632	NULL	NULL	NULL	NULL	0	56982635
+UMAG_05644	KIS66858	ustilago_maydis	20	ortholog_many2many	BruAb1_0198	AAX73608	brucella_abortus_bv_1_str_9_941	20.6395	NULL	NULL	NULL	NULL	0	38445443
+UMAG_10732	KIS66885	ustilago_maydis	14.9457	ortholog_many2many	BruAb2_0292	AAX75726	brucella_abortus_bv_1_str_9_941	17.6849	NULL	NULL	NULL	NULL	0	9014763
+UMAG_10732	KIS66885	ustilago_maydis	15.7609	ortholog_many2many	BruAb1_1341	AAX74673	brucella_abortus_bv_1_str_9_941	15.6334	NULL	NULL	NULL	NULL	0	9410005
+UMAG_10732	KIS66885	ustilago_maydis	16.8478	ortholog_many2many	BruAb2_0872	AAX76262	brucella_abortus_bv_1_str_9_941	17.8161	NULL	NULL	NULL	NULL	0	9410069
+UMAG_10732	KIS66885	ustilago_maydis	15.2174	ortholog_many2many	BruAb1_1589	AAX74914	brucella_abortus_bv_1_str_9_941	17.6101	NULL	NULL	NULL	NULL	0	9437609
+UMAG_10732	KIS66885	ustilago_maydis	16.3043	ortholog_many2many	BruAb2_0519	AAX75938	brucella_abortus_bv_1_str_9_941	17.9641	NULL	NULL	NULL	NULL	0	9443751
+UMAG_10732	KIS66885	ustilago_maydis	16.3043	ortholog_many2many	BruAb1_0568	AAX73949	brucella_abortus_bv_1_str_9_941	16.4384	NULL	NULL	NULL	NULL	0	9452056

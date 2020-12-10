@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	4.35414	ortholog_one2many	PM0669	AAK02753	pasteurella_multocida_subsp_multocida_str_pm70	9.61539	NULL	NULL	NULL	NULL	0	1946836
+UMAG_05632	KIS66844	ustilago_maydis	44.2308	ortholog_one2one	PM0319	AAK02403	pasteurella_multocida_subsp_multocida_str_pm70	71.875	NULL	NULL	NULL	NULL	1	54593092
+UMAG_15021	KIS66846	ustilago_maydis	12.2288	ortholog_many2many	PM1341	AAK03425	pasteurella_multocida_subsp_multocida_str_pm70	13.5076	NULL	NULL	NULL	NULL	0	57041929
+UMAG_15021	KIS66846	ustilago_maydis	11.4398	ortholog_many2many	PM1443	AAK03527	pasteurella_multocida_subsp_multocida_str_pm70	12.0582	NULL	NULL	NULL	NULL	0	57098520
+UMAG_15021	KIS66846	ustilago_maydis	12.0316	ortholog_many2many	PM1338	AAK03422	pasteurella_multocida_subsp_multocida_str_pm70	14.186	NULL	NULL	NULL	NULL	0	57171680
+UMAG_05644	KIS66858	ustilago_maydis	10.1408	ortholog_one2many	PM1940	AAK04024	pasteurella_multocida_subsp_multocida_str_pm70	15.2542	NULL	NULL	NULL	NULL	0	27083388
+UMAG_05665	KIS66879	ustilago_maydis	13.7662	ortholog_many2many	PM0459	AAK02543	pasteurella_multocida_subsp_multocida_str_pm70	19.8502	NULL	NULL	NULL	NULL	0	31297209
+UMAG_05676	KIS66891	ustilago_maydis	10.1145	ortholog_many2many	PM0052	AAK02136	pasteurella_multocida_subsp_multocida_str_pm70	13.1188	NULL	NULL	NULL	NULL	0	35631474
+UMAG_05739	KIS66956	ustilago_maydis	3.30189	ortholog_many2many	PM0695	AAK02779	pasteurella_multocida_subsp_multocida_str_pm70	11.7647	NULL	NULL	NULL	NULL	0	5426295

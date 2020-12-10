@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.0479	ortholog_one2many	BP0410	CAE44741	bordetella_pertussis_tohama_i	13.4615	NULL	NULL	NULL	NULL	0	538328
+UMAG_05632	KIS66844	ustilago_maydis	42.7885	ortholog_one2one	BP1800	CAE42086	bordetella_pertussis_tohama_i	65.4412	NULL	NULL	NULL	NULL	1	54494897
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	BP1609	CAE41898	bordetella_pertussis_tohama_i	19.8502	NULL	NULL	NULL	NULL	0	33541282
+UMAG_10719	KIS66850	ustilago_maydis	11.2903	ortholog_many2many	BP1314	CAE41609	bordetella_pertussis_tohama_i	14.2373	NULL	NULL	NULL	NULL	0	40251029
+UMAG_10719	KIS66850	ustilago_maydis	15.5914	ortholog_many2many	BP0977	CAE41279	bordetella_pertussis_tohama_i	16.6189	NULL	NULL	NULL	NULL	0	48863533
+UMAG_05644	KIS66858	ustilago_maydis	16.9014	ortholog_many2many	BP0659	CAE44985	bordetella_pertussis_tohama_i	18.3486	NULL	NULL	NULL	NULL	0	42679299
+UMAG_05665	KIS66879	ustilago_maydis	12.7273	ortholog_many2many	BP1418	CAE41708	bordetella_pertussis_tohama_i	17.9487	NULL	NULL	NULL	NULL	0	31296878
+UMAG_05671	KIS66886	ustilago_maydis	19.7691	ortholog_one2many	BP3539	CAE43798	bordetella_pertussis_tohama_i	34.8601	NULL	NULL	NULL	NULL	0	74164914
+UMAG_05671	KIS66886	ustilago_maydis	19.4805	ortholog_one2many	BP0451	CAE44781	bordetella_pertussis_tohama_i	34.0909	NULL	NULL	NULL	NULL	0	74207280

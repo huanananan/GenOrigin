@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.91872	ortholog_one2many	FP0934	CAL43028	flavobacterium_psychrophilum_jip02_86	16.9811	NULL	NULL	NULL	NULL	0	2240956
+UMAG_10719	KIS66850	ustilago_maydis	12.3656	ortholog_one2many	FP0060	CAL42179	flavobacterium_psychrophilum_jip02_86	13.2948	NULL	NULL	NULL	NULL	0	48863949
+UMAG_05647	KIS66861	ustilago_maydis	4.61923	ortholog_one2many	FP2486	CAL44539	flavobacterium_psychrophilum_jip02_86	12.3746	NULL	NULL	NULL	NULL	0	10102878
+UMAG_10723	KIS66864	ustilago_maydis	9.67742	ortholog_one2many	FP0342	CAL42455	flavobacterium_psychrophilum_jip02_86	22.5564	NULL	NULL	NULL	NULL	0	39572974
+UMAG_05665	KIS66879	ustilago_maydis	10.9091	ortholog_many2many	FP0419	CAL42530	flavobacterium_psychrophilum_jip02_86	15.4412	NULL	NULL	NULL	NULL	0	31185582
+UMAG_05671	KIS66886	ustilago_maydis	16.7388	ortholog_one2one	FP1771	CAL43838	flavobacterium_psychrophilum_jip02_86	29.1457	NULL	NULL	NULL	NULL	0	74748184
+UMAG_05674	KIS66889	ustilago_maydis	19.2308	ortholog_one2one	FP2422	CAL44476	flavobacterium_psychrophilum_jip02_86	26.0223	NULL	NULL	NULL	NULL	0	73872314
+UMAG_05689	KIS66904	ustilago_maydis	17.7778	ortholog_one2many	FP1931	CAL43997	flavobacterium_psychrophilum_jip02_86	16.5899	NULL	NULL	NULL	NULL	0	183117
+UMAG_05692	KIS66908	ustilago_maydis	5.76293	ortholog_one2one	FP2106	CAL44168	flavobacterium_psychrophilum_jip02_86	29.3333	NULL	NULL	NULL	NULL	0	59167362

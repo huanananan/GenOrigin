@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_10719	KIS66850	ustilago_maydis	13.7097	ortholog_many2many	TM_1183	AAD36258	thermotoga_maritima_msb8	13.4565	NULL	NULL	NULL	NULL	0	39274280
+UMAG_10719	KIS66850	ustilago_maydis	15.8602	ortholog_many2many	TM_1743	AAD36808	thermotoga_maritima_msb8	21.5328	NULL	NULL	NULL	NULL	0	40256060
+UMAG_10719	KIS66850	ustilago_maydis	9.94624	ortholog_many2many	TM_1297	AAD36371	thermotoga_maritima_msb8	12.9825	NULL	NULL	NULL	NULL	0	48827346
+UMAG_05644	KIS66858	ustilago_maydis	23.3803	ortholog_many2many	TM_0412	AAD35497	thermotoga_maritima_msb8	21.0127	NULL	NULL	NULL	NULL	0	42599528
+UMAG_05647	KIS66861	ustilago_maydis	5.1186	ortholog_many2many	TM_0538	AAD35623	thermotoga_maritima_msb8	14.4366	NULL	NULL	NULL	NULL	0	10104640
+UMAG_05665	KIS66879	ustilago_maydis	14.2857	ortholog_many2many	TM_1478	AAD36544	thermotoga_maritima_msb8	22	NULL	NULL	NULL	NULL	0	31185015
+UMAG_05671	KIS66886	ustilago_maydis	23.3766	ortholog_one2one	TM_1785	AAD36848	thermotoga_maritima_msb8	42.0779	NULL	NULL	NULL	NULL	0	73996810
+UMAG_05695	KIS66911	ustilago_maydis	10.0662	ortholog_many2many	TM_1651	AAD36718	thermotoga_maritima_msb8	11.1274	NULL	NULL	NULL	NULL	0	37946946
+UMAG_05740	KIS66957	ustilago_maydis	37.2131	ortholog_one2many	TM_0551	AAD35636	thermotoga_maritima_msb8	40.9747	NULL	NULL	NULL	NULL	0	63216696

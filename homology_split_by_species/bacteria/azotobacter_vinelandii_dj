@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05632	KIS66844	ustilago_maydis	40.3846	ortholog_one2one	Avin_40390	ACO80175	azotobacter_vinelandii_dj	65.625	NULL	NULL	NULL	NULL	1	54688509
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_many2many	Avin_51130	ACO81198	azotobacter_vinelandii_dj	13.4396	NULL	NULL	NULL	NULL	0	56979574
+UMAG_15021	KIS66846	ustilago_maydis	13.6095	ortholog_many2many	Avin_51310	ACO81210	azotobacter_vinelandii_dj	15.8986	NULL	NULL	NULL	NULL	0	57727849
+UMAG_15021	KIS66846	ustilago_maydis	14.9901	ortholog_many2many	Avin_05240	ACO76777	azotobacter_vinelandii_dj	16.4147	NULL	NULL	NULL	NULL	0	57727966
+UMAG_10719	KIS66850	ustilago_maydis	15.3226	ortholog_many2many	Avin_38150	ACO79957	azotobacter_vinelandii_dj	20.5776	NULL	NULL	NULL	NULL	0	33544721
+UMAG_10719	KIS66850	ustilago_maydis	13.4409	ortholog_many2many	Avin_25860	ACO78765	azotobacter_vinelandii_dj	15.1976	NULL	NULL	NULL	NULL	0	35097407
+UMAG_10719	KIS66850	ustilago_maydis	11.5591	ortholog_many2many	Avin_44630	ACO80581	azotobacter_vinelandii_dj	15.8088	NULL	NULL	NULL	NULL	0	35097464
+UMAG_10719	KIS66850	ustilago_maydis	9.67742	ortholog_many2many	Avin_26350	ACO78811	azotobacter_vinelandii_dj	11.7264	NULL	NULL	NULL	NULL	0	40253730
+UMAG_10719	KIS66850	ustilago_maydis	13.7097	ortholog_many2many	Avin_51520	ACO81229	azotobacter_vinelandii_dj	14.6974	NULL	NULL	NULL	NULL	0	46344036

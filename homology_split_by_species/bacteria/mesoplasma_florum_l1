@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05665	KIS66879	ustilago_maydis	14.2857	ortholog_many2many	Mfl145	AAT75501	mesoplasma_florum_l1	21.8254	NULL	NULL	NULL	NULL	0	31184680
+UMAG_11741	KIS67944	ustilago_maydis	18.7692	ortholog_one2many	Mfl252	AAT75609	mesoplasma_florum_l1	18.5976	NULL	NULL	NULL	NULL	0	36724614
+UMAG_15008	KIS67959	ustilago_maydis	8.95522	ortholog_one2one	Mfl254	AAT75611	mesoplasma_florum_l1	9.85915	NULL	NULL	NULL	NULL	0	62742332
+UMAG_04050	KIS68009	ustilago_maydis	47.3297	ortholog_one2one	Mfl342	AAT75699	mesoplasma_florum_l1	50.0975	NULL	NULL	NULL	NULL	0	72856165
+UMAG_04960	KIS67091	ustilago_maydis	42.8571	ortholog_one2one	Mfl624	AAT75981	mesoplasma_florum_l1	52.5547	NULL	NULL	NULL	NULL	1	57244504
+UMAG_05018	KIS67151	ustilago_maydis	10.1293	ortholog_one2one	Mfl586	AAT75944	mesoplasma_florum_l1	22.5962	NULL	NULL	NULL	NULL	0	56692747
+UMAG_05019	KIS67152	ustilago_maydis	48.8432	ortholog_one2one	Mfl240	AAT75597	mesoplasma_florum_l1	50.3979	NULL	NULL	NULL	NULL	0	75659784
+UMAG_05035	KIS67168	ustilago_maydis	12.8295	ortholog_one2many	Mfl605	AAT75962	mesoplasma_florum_l1	15.8009	NULL	NULL	NULL	NULL	0	84914698
+UMAG_05038	KIS67171	ustilago_maydis	13.9823	ortholog_many2many	Mfl496	AAT75854	mesoplasma_florum_l1	17.833	NULL	NULL	NULL	NULL	0	55743760

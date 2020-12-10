@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05632	KIS66844	ustilago_maydis	40.8654	ortholog_one2one	COI_1218	EEY10206	mannheimia_haemolytica_serotype_a2_str_ovine	66.9291	NULL	NULL	NULL	NULL	1	54375148
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_many2many	COI_0364	EEY10991	mannheimia_haemolytica_serotype_a2_str_ovine	12.5	NULL	NULL	NULL	NULL	0	57041164
+UMAG_15021	KIS66846	ustilago_maydis	11.2426	ortholog_many2many	COI_1296	EEY10115	mannheimia_haemolytica_serotype_a2_str_ovine	11.8503	NULL	NULL	NULL	NULL	0	57098100
+UMAG_15021	KIS66846	ustilago_maydis	12.2288	ortholog_many2many	COI_1298	EEY10117	mannheimia_haemolytica_serotype_a2_str_ovine	13.9013	NULL	NULL	NULL	NULL	0	57098186
+UMAG_05644	KIS66858	ustilago_maydis	14.9296	ortholog_one2many	COI_2418	EEY08990	mannheimia_haemolytica_serotype_a2_str_ovine	18.1507	NULL	NULL	NULL	NULL	0	27081787
+UMAG_05665	KIS66879	ustilago_maydis	14.5455	ortholog_many2many	COI_2443	EEY08892	mannheimia_haemolytica_serotype_a2_str_ovine	19.3103	NULL	NULL	NULL	NULL	0	31297145
+UMAG_10732	KIS66885	ustilago_maydis	16.0326	ortholog_many2many	COI_1422	EEY10016	mannheimia_haemolytica_serotype_a2_str_ovine	15.6499	NULL	NULL	NULL	NULL	0	9410853
+UMAG_10732	KIS66885	ustilago_maydis	12.7717	ortholog_many2many	COI_1419	EEY10013	mannheimia_haemolytica_serotype_a2_str_ovine	13.9881	NULL	NULL	NULL	NULL	0	9444455
+UMAG_05671	KIS66886	ustilago_maydis	18.759	ortholog_one2one	COI_1862	EEY09518	mannheimia_haemolytica_serotype_a2_str_ovine	32.9949	NULL	NULL	NULL	NULL	0	73996972

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	2.75762	ortholog_many2many	BURPS1710b_A1035	ABA53085	burkholderia_pseudomallei_1710b	12.1795	NULL	NULL	NULL	NULL	0	538064
+UMAG_05629	KIS66840	ustilago_maydis	3.62845	ortholog_many2many	BURPS1710b_A2430	ABA53764	burkholderia_pseudomallei_1710b	15.2439	NULL	NULL	NULL	NULL	0	1945266
+UMAG_05632	KIS66844	ustilago_maydis	41.3462	ortholog_one2one	BURPS1710b_2732	ABA48065	burkholderia_pseudomallei_1710b	63.7037	NULL	NULL	NULL	NULL	1	54445485
+UMAG_15021	KIS66846	ustilago_maydis	11.8343	ortholog_many2many	BURPS1710b_A1442	ABA51567	burkholderia_pseudomallei_1710b	13.6054	NULL	NULL	NULL	NULL	0	56985173
+UMAG_15021	KIS66846	ustilago_maydis	12.0316	ortholog_many2many	BURPS1710b_A0506	ABA52357	burkholderia_pseudomallei_1710b	13.6771	NULL	NULL	NULL	NULL	0	56985313
+UMAG_15021	KIS66846	ustilago_maydis	13.8067	ortholog_many2many	BURPS1710b_A1898	ABA52953	burkholderia_pseudomallei_1710b	15.625	NULL	NULL	NULL	NULL	0	57732026
+UMAG_10719	KIS66850	ustilago_maydis	13.9785	ortholog_many2many	BURPS1710b_0400	ABA50117	burkholderia_pseudomallei_1710b	14.9856	NULL	NULL	NULL	NULL	0	46336227
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	BURPS1710b_1101	ABA47593	burkholderia_pseudomallei_1710b	18.8612	NULL	NULL	NULL	NULL	0	48798284
+UMAG_10719	KIS66850	ustilago_maydis	15.8602	ortholog_many2many	BURPS1710b_2003	ABA49969	burkholderia_pseudomallei_1710b	16.8571	NULL	NULL	NULL	NULL	0	48863298

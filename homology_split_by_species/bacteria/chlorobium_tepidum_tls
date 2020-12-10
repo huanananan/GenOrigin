@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05644	KIS66858	ustilago_maydis	16.338	ortholog_many2many	CT1275	AAM72505	chlorobium_tepidum_tls	17.1598	NULL	NULL	NULL	NULL	0	21766996
+UMAG_05644	KIS66858	ustilago_maydis	14.6479	ortholog_many2many	CT1422	AAM72650	chlorobium_tepidum_tls	15.4303	NULL	NULL	NULL	NULL	0	42701124
+UMAG_05644	KIS66858	ustilago_maydis	8.73239	ortholog_many2many	CT1197	AAM72430	chlorobium_tepidum_tls	9.74843	NULL	NULL	NULL	NULL	0	42701164
+UMAG_05647	KIS66861	ustilago_maydis	4.74407	ortholog_many2many	CT1824	AAM73045	chlorobium_tepidum_tls	12.3779	NULL	NULL	NULL	NULL	0	11127664
+UMAG_10723	KIS66864	ustilago_maydis	10.9677	ortholog_many2many	CT1904.1	AAY51685	chlorobium_tepidum_tls	37.7778	NULL	NULL	NULL	NULL	0	39569613
+UMAG_05665	KIS66879	ustilago_maydis	12.7273	ortholog_many2many	CT2168	AAM73384	chlorobium_tepidum_tls	19.0661	NULL	NULL	NULL	NULL	0	31184288
+UMAG_10732	KIS66885	ustilago_maydis	14.9457	ortholog_many2many	CT0373	AAM71619	chlorobium_tepidum_tls	14.4357	NULL	NULL	NULL	NULL	0	9409478
+UMAG_05671	KIS66886	ustilago_maydis	18.759	ortholog_one2one	CT0367	AAM71613	chlorobium_tepidum_tls	32.5	NULL	NULL	NULL	NULL	0	74366876
+UMAG_05689	KIS66904	ustilago_maydis	17.5309	ortholog_many2many	CT0369	AAM71615	chlorobium_tepidum_tls	16.5116	NULL	NULL	NULL	NULL	0	182801

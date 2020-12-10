@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.48331	ortholog_one2many	PPA1028	AAT82780	propionibacterium_acnes_kpa171202	8.4507	NULL	NULL	NULL	NULL	0	939515
+UMAG_10719	KIS66850	ustilago_maydis	12.3656	ortholog_many2many	PPA0994	AAT82747	propionibacterium_acnes_kpa171202	13.6905	NULL	NULL	NULL	NULL	0	46336994
+UMAG_05644	KIS66858	ustilago_maydis	25.9155	ortholog_many2many	PPA2035	AAT83748	propionibacterium_acnes_kpa171202	26.513	NULL	NULL	NULL	NULL	0	38446611
+UMAG_05644	KIS66858	ustilago_maydis	25.6338	ortholog_many2many	PPA0539	AAT82292	propionibacterium_acnes_kpa171202	25.9259	NULL	NULL	NULL	NULL	0	38446660
+UMAG_05644	KIS66858	ustilago_maydis	23.662	ortholog_many2many	PPA0918	AAT82671	propionibacterium_acnes_kpa171202	24.1379	NULL	NULL	NULL	NULL	0	42598443
+UMAG_05644	KIS66858	ustilago_maydis	22.5352	ortholog_many2many	PPA0402	AAT82153	propionibacterium_acnes_kpa171202	23.1884	NULL	NULL	NULL	NULL	0	42712919
+UMAG_05647	KIS66861	ustilago_maydis	4.24469	ortholog_many2many	PPA1228	AAT82977	propionibacterium_acnes_kpa171202	11.2211	NULL	NULL	NULL	NULL	0	11057780
+UMAG_05665	KIS66879	ustilago_maydis	13.2468	ortholog_many2many	PPA1833	AAT83558	propionibacterium_acnes_kpa171202	18.2796	NULL	NULL	NULL	NULL	0	31185323
+UMAG_10732	KIS66885	ustilago_maydis	8.42391	ortholog_many2many	PPA0378	AAT82130	propionibacterium_acnes_kpa171202	11.3139	NULL	NULL	NULL	NULL	0	9334295

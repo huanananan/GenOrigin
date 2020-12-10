@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	5.66038	ortholog_one2many	CGSMWGv0288E_02078	EIK77615	gardnerella_vaginalis_0288e	11.2392	NULL	NULL	NULL	NULL	0	937785
+UMAG_05644	KIS66858	ustilago_maydis	20	ortholog_one2many	CGSMWGv0288E_05006	EIK77137	gardnerella_vaginalis_0288e	21.131	NULL	NULL	NULL	NULL	0	38451760
+UMAG_05647	KIS66861	ustilago_maydis	3.99501	ortholog_one2many	CGSMWGv0288E_06526	EIK76384	gardnerella_vaginalis_0288e	9.60961	NULL	NULL	NULL	NULL	0	11073446
+UMAG_05665	KIS66879	ustilago_maydis	12.2078	ortholog_many2many	CGSMWGv0288E_04551	EIK77046	gardnerella_vaginalis_0288e	18.2879	NULL	NULL	NULL	NULL	0	31184508
+UMAG_05676	KIS66891	ustilago_maydis	9.35114	ortholog_many2many	CGSMWGv0288E_05211	EIK77178	gardnerella_vaginalis_0288e	12.1287	NULL	NULL	NULL	NULL	0	35595932
+UMAG_05676	KIS66891	ustilago_maydis	12.4046	ortholog_many2many	CGSMWGv0288E_06012	EIK76473	gardnerella_vaginalis_0288e	12.7701	NULL	NULL	NULL	NULL	0	35595994
+UMAG_03873	KIS67816	ustilago_maydis	29.4372	ortholog_one2many	CGSMWGv0288E_01049	EIK77997	gardnerella_vaginalis_0288e	32.0755	NULL	NULL	NULL	NULL	0	16939033
+UMAG_15063	KIS67851	ustilago_maydis	4.17423	ortholog_many2many	CGSMWGv0288E_06700	EIK76056	gardnerella_vaginalis_0288e	11.6751	NULL	NULL	NULL	NULL	0	87452012
+UMAG_15063	KIS67851	ustilago_maydis	2.90381	ortholog_many2many	CGSMWGv0288E_01898	EIK77909	gardnerella_vaginalis_0288e	6.97168	NULL	NULL	NULL	NULL	0	87534932

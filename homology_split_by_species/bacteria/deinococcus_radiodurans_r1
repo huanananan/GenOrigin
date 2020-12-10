@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05644	KIS66858	ustilago_maydis	25.9155	ortholog_many2many	DR_2279	AAF11826	deinococcus_radiodurans_r1	21.3457	NULL	NULL	NULL	NULL	0	42697003
+UMAG_05644	KIS66858	ustilago_maydis	21.4085	ortholog_many2many	DR_1662	AAF11215	deinococcus_radiodurans_r1	20.5405	NULL	NULL	NULL	NULL	0	42713321
+UMAG_05647	KIS66861	ustilago_maydis	5.36829	ortholog_many2many	DR_1102	AAF10676	deinococcus_radiodurans_r1	13.2308	NULL	NULL	NULL	NULL	0	11073691
+UMAG_05664	KIS66878	ustilago_maydis	12.1265	ortholog_one2many	DR_2473	AAF12016	deinococcus_radiodurans_r1	18.1102	NULL	NULL	NULL	NULL	0	73483887
+UMAG_05671	KIS66886	ustilago_maydis	17.4603	ortholog_one2many	DR_1415	AAF10980	deinococcus_radiodurans_r1	23.7255	NULL	NULL	NULL	NULL	0	74560783
+UMAG_05671	KIS66886	ustilago_maydis	19.7691	ortholog_one2many	DR_0794	AAF10373	deinococcus_radiodurans_r1	29.4624	NULL	NULL	NULL	NULL	0	74562860
+UMAG_10735	KIS66888	ustilago_maydis	26.1506	ortholog_one2one	DR_0029	AAF09621	deinococcus_radiodurans_r1	32.8084	NULL	NULL	NULL	NULL	0	64895850
+UMAG_05674	KIS66889	ustilago_maydis	7.41758	ortholog_one2one	DR_1599	AAF11162	deinococcus_radiodurans_r1	5.74468	NULL	NULL	NULL	NULL	0	73789832
+UMAG_05676	KIS66891	ustilago_maydis	13.3588	ortholog_many2many	DR_1588	AAF11148	deinococcus_radiodurans_r1	16.6667	NULL	NULL	NULL	NULL	0	36549309

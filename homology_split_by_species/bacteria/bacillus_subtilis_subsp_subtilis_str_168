@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	11.0454	ortholog_many2many	BSU12360	CAB13093	bacillus_subtilis_subsp_subtilis_str_168	13.2701	NULL	NULL	NULL	NULL	0	56981951
+UMAG_15021	KIS66846	ustilago_maydis	11.2426	ortholog_many2many	BSU02140	CAB12008	bacillus_subtilis_subsp_subtilis_str_168	12.8378	NULL	NULL	NULL	NULL	0	57095830
+UMAG_15021	KIS66846	ustilago_maydis	14.3984	ortholog_many2many	BSU02480	CAB12042	bacillus_subtilis_subsp_subtilis_str_168	16.044	NULL	NULL	NULL	NULL	0	57730719
+UMAG_15021	KIS66846	ustilago_maydis	11.0454	ortholog_many2many	BSU40570	CAB16094	bacillus_subtilis_subsp_subtilis_str_168	12.8736	NULL	NULL	NULL	NULL	0	57730803
+UMAG_10719	KIS66850	ustilago_maydis	12.6344	ortholog_many2many	BSU09530	CAB12792	bacillus_subtilis_subsp_subtilis_str_168	14.1994	NULL	NULL	NULL	NULL	0	35094852
+UMAG_10719	KIS66850	ustilago_maydis	12.0968	ortholog_many2many	BSU04150	CAB12222	bacillus_subtilis_subsp_subtilis_str_168	15	NULL	NULL	NULL	NULL	0	48989639
+UMAG_10719	KIS66850	ustilago_maydis	15.0538	ortholog_many2many	BSU33400	CAB15345	bacillus_subtilis_subsp_subtilis_str_168	20.2899	NULL	NULL	NULL	NULL	0	49071018
+UMAG_10719	KIS66850	ustilago_maydis	15.3226	ortholog_many2many	BSU29050	CAB14865	bacillus_subtilis_subsp_subtilis_str_168	20.3571	NULL	NULL	NULL	NULL	0	49071343
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	BSU26850	CAB14626	bacillus_subtilis_subsp_subtilis_str_168	16.2577	NULL	NULL	NULL	NULL	0	49085196

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05632	KIS66844	ustilago_maydis	43.2692	ortholog_one2one	CAA14938	CAA14938	rickettsia_prowazekii_str_madrid_e	68.7023	NULL	NULL	NULL	NULL	1	54644370
+UMAG_15021	KIS66846	ustilago_maydis	10.6509	ortholog_one2many	CAA14525	CAA14525	rickettsia_prowazekii_str_madrid_e	12.5874	NULL	NULL	NULL	NULL	0	57099101
+UMAG_05676	KIS66891	ustilago_maydis	13.7405	ortholog_one2many	CAA14561	CAA14561	rickettsia_prowazekii_str_madrid_e	17.4757	NULL	NULL	NULL	NULL	0	44246698
+UMAG_05692	KIS66908	ustilago_maydis	4.45318	ortholog_one2one	CAA14806	CAA14806	rickettsia_prowazekii_str_madrid_e	21.9355	NULL	NULL	NULL	NULL	0	59639764
+UMAG_05732	KIS66951	ustilago_maydis	5.02545	ortholog_one2one	CAA14921	CAA14921	rickettsia_prowazekii_str_madrid_e	8.57763	NULL	NULL	NULL	NULL	0	66257739
+UMAG_05776	KIS66994	ustilago_maydis	45.6311	ortholog_one2one	CAA14939	CAA14939	rickettsia_prowazekii_str_madrid_e	57.3171	NULL	NULL	NULL	NULL	1	58358496
+UMAG_11514	KIS67836	ustilago_maydis	11.3761	ortholog_many2many	CAA14548	CAA14548	rickettsia_prowazekii_str_madrid_e	14.8325	NULL	NULL	NULL	NULL	0	88334985
+UMAG_11514	KIS67836	ustilago_maydis	8.99083	ortholog_many2many	CAA15183	CAA15183	rickettsia_prowazekii_str_madrid_e	11.5023	NULL	NULL	NULL	NULL	0	88334994
+UMAG_11514	KIS67836	ustilago_maydis	12.844	ortholog_many2many	CAA15276	CAA15276	rickettsia_prowazekii_str_madrid_e	16.8675	NULL	NULL	NULL	NULL	0	88348188

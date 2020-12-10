@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.48331	ortholog_one2many	SO_2355	AAN55389	shewanella_oneidensis_mr_1	7.74194	NULL	NULL	NULL	NULL	0	1945726
+UMAG_05632	KIS66844	ustilago_maydis	41.3462	ortholog_one2one	SO_2265	AAN55305	shewanella_oneidensis_mr_1	67.7165	NULL	NULL	NULL	NULL	1	54346999
+UMAG_10719	KIS66850	ustilago_maydis	13.172	ortholog_one2many	SO_0900	AAN53975	shewanella_oneidensis_mr_1	14.1618	NULL	NULL	NULL	NULL	0	48863793
+UMAG_05644	KIS66858	ustilago_maydis	22.8169	ortholog_many2many	SO_4673	AAN57632	shewanella_oneidensis_mr_1	23.7537	NULL	NULL	NULL	NULL	0	42712969
+UMAG_05647	KIS66861	ustilago_maydis	4.49438	ortholog_many2many	SO_2045	AAN55092	shewanella_oneidensis_mr_1	9.13706	NULL	NULL	NULL	NULL	0	11106731
+UMAG_05665	KIS66879	ustilago_maydis	15.0649	ortholog_many2many	SO_1627	AAN54682	shewanella_oneidensis_mr_1	21.8868	NULL	NULL	NULL	NULL	0	31296937
+UMAG_10732	KIS66885	ustilago_maydis	10.5978	ortholog_one2many	SO_3120	AAN56125	shewanella_oneidensis_mr_1	8.49673	NULL	NULL	NULL	NULL	0	9407595
+UMAG_05671	KIS66886	ustilago_maydis	14.7186	ortholog_many2many	SO_2741	AAN55769	shewanella_oneidensis_mr_1	22.1258	NULL	NULL	NULL	NULL	0	11626539
+UMAG_10735	KIS66888	ustilago_maydis	38.9121	ortholog_one2one	SO_2339	AAN55373	shewanella_oneidensis_mr_1	47.449	NULL	NULL	NULL	NULL	1	64184574

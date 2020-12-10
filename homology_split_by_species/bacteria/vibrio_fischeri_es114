@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	61.7073	ortholog_one2one	VF_2118	AAW86613	vibrio_fischeri_es114	61.7827	NULL	NULL	NULL	NULL	1	15532421
+b0003	AAC73114	escherichia_coli_str_k_12_substr_mg1655	67.7419	ortholog_one2one	VF_2117	AAW86612	vibrio_fischeri_es114	66.0377	NULL	NULL	NULL	NULL	1	41222410
+b0004	AAC73115	escherichia_coli_str_k_12_substr_mg1655	67.5234	ortholog_one2one	VF_2116	AAW86611	vibrio_fischeri_es114	67.6815	NULL	NULL	NULL	NULL	1	67374184
+b0006	AAC73117	escherichia_coli_str_k_12_substr_mg1655	61.2403	ortholog_one2one	VF_2109	AAW86604	vibrio_fischeri_es114	61.0039	NULL	NULL	NULL	NULL	1	58881949
+b0007	AAC73118	escherichia_coli_str_k_12_substr_mg1655	47.2689	ortholog_one2one	VF_2059	AAW86554	vibrio_fischeri_es114	46.0123	NULL	NULL	NULL	NULL	1	69130487
+b0008	AAC73119	escherichia_coli_str_k_12_substr_mg1655	72.2397	ortholog_one2many	VF_A0685	AAW87755	vibrio_fischeri_es114	72.4684	NULL	NULL	NULL	NULL	1	58327265
+b0009	AAC73120	escherichia_coli_str_k_12_substr_mg1655	52.8205	ortholog_one2one	VF_A0565	AAW87635	vibrio_fischeri_es114	57.8652	NULL	NULL	NULL	NULL	0	13258772
+b0010	AAC73121	escherichia_coli_str_k_12_substr_mg1655	61.7021	ortholog_one2one	VF_1150	AAW85645	vibrio_fischeri_es114	59.4872	NULL	NULL	NULL	NULL	1	24458459
+b0014	AAC73125	escherichia_coli_str_k_12_substr_mg1655	81.8182	ortholog_one2many	VF_1994	AAW86489	vibrio_fischeri_es114	82.3344	NULL	NULL	NULL	NULL	1	64423650

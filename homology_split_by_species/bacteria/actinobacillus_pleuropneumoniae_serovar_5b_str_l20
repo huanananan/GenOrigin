@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05632	KIS66844	ustilago_maydis	40.8654	ortholog_one2one	APL_0930	ABN74026	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	66.9291	NULL	NULL	NULL	NULL	1	54388680
+UMAG_15021	KIS66846	ustilago_maydis	11.8343	ortholog_many2many	APL_0377	ABN73481	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	12.474	NULL	NULL	NULL	NULL	0	57097168
+UMAG_15021	KIS66846	ustilago_maydis	9.86193	ortholog_many2many	APL_1835	ABN74917	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	12.987	NULL	NULL	NULL	NULL	0	57097255
+UMAG_10719	KIS66850	ustilago_maydis	13.172	ortholog_one2many	APL_1412	ABN74496	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	16.3333	NULL	NULL	NULL	NULL	0	48990741
+UMAG_05644	KIS66858	ustilago_maydis	19.4366	ortholog_many2many	APL_1959	ABN75033	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	19.7708	NULL	NULL	NULL	NULL	0	38454142
+UMAG_05665	KIS66879	ustilago_maydis	15.0649	ortholog_many2many	APL_2030	ABN75104	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	21.6418	NULL	NULL	NULL	NULL	0	31296665
+UMAG_05671	KIS66886	ustilago_maydis	19.3362	ortholog_one2one	APL_0244	ABN73352	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	34.0967	NULL	NULL	NULL	NULL	0	73994305
+UMAG_05676	KIS66891	ustilago_maydis	10.4962	ortholog_many2many	APL_1043	ABN74137	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	13.5802	NULL	NULL	NULL	NULL	0	35619997
+UMAG_05689	KIS66904	ustilago_maydis	15.8025	ortholog_one2many	APL_1271	ABN74357	actinobacillus_pleuropneumoniae_serovar_5b_str_l20	14.9533	NULL	NULL	NULL	NULL	0	169032

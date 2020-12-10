@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	6.82148	ortholog_one2many	Mlut_01830	ACS29747	micrococcus_luteus_nctc_2665	14.5062	NULL	NULL	NULL	NULL	0	942452
+UMAG_05644	KIS66858	ustilago_maydis	21.9718	ortholog_many2many	Mlut_21430	ACS31611	micrococcus_luteus_nctc_2665	22.7405	NULL	NULL	NULL	NULL	0	38448688
+UMAG_05644	KIS66858	ustilago_maydis	21.9718	ortholog_many2many	Mlut_10580	ACS30570	micrococcus_luteus_nctc_2665	21.4286	NULL	NULL	NULL	NULL	0	42484981
+UMAG_05644	KIS66858	ustilago_maydis	25.0704	ortholog_many2many	Mlut_04320	ACS29973	micrococcus_luteus_nctc_2665	22.4181	NULL	NULL	NULL	NULL	0	42627264
+UMAG_05647	KIS66861	ustilago_maydis	5.24345	ortholog_one2many	Mlut_13910	ACS30895	micrococcus_luteus_nctc_2665	13.8614	NULL	NULL	NULL	NULL	0	11077422
+UMAG_05665	KIS66879	ustilago_maydis	14.026	ortholog_many2many	Mlut_16950	ACS31182	micrococcus_luteus_nctc_2665	19.2857	NULL	NULL	NULL	NULL	0	31185661
+UMAG_05671	KIS66886	ustilago_maydis	20.6349	ortholog_one2one	Mlut_14390	ACS30934	micrococcus_luteus_nctc_2665	33.4112	NULL	NULL	NULL	NULL	0	74325678
+UMAG_10735	KIS66888	ustilago_maydis	23.8494	ortholog_one2many	Mlut_06800	ACS30212	micrococcus_luteus_nctc_2665	29.6875	NULL	NULL	NULL	NULL	0	64659934
+UMAG_10735	KIS66888	ustilago_maydis	24.0586	ortholog_one2many	Mlut_17810	ACS31264	micrococcus_luteus_nctc_2665	28.75	NULL	NULL	NULL	NULL	0	64847973

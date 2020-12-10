@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05665	KIS66879	ustilago_maydis	12.987	ortholog_many2many	HP_1299	AAD08340	helicobacter_pylori_26695	19.7628	NULL	NULL	NULL	NULL	0	31185108
+UMAG_05676	KIS66891	ustilago_maydis	9.35114	ortholog_many2many	HP_0624	AAD07687	helicobacter_pylori_26695	13.0667	NULL	NULL	NULL	NULL	0	36994044
+UMAG_05776	KIS66994	ustilago_maydis	30.4854	ortholog_one2one	HP_0220	AAD07288	helicobacter_pylori_26695	40.5685	NULL	NULL	NULL	NULL	0	58911007
+UMAG_11514	KIS67836	ustilago_maydis	11.3761	ortholog_many2many	HP_1091	AAD08137	helicobacter_pylori_26695	14.554	NULL	NULL	NULL	NULL	0	85845292
+UMAG_03902	KIS67845	ustilago_maydis	17.25	ortholog_one2many	HP_0695	AAD07746	helicobacter_pylori_26695	19.3548	NULL	NULL	NULL	NULL	0	51841520
+UMAG_15063	KIS67851	ustilago_maydis	2.99456	ortholog_many2many	HP_1185	AAD08231	helicobacter_pylori_26695	8.4399	NULL	NULL	NULL	NULL	0	87518289
+UMAG_11521	KIS67901	ustilago_maydis	15.5089	ortholog_many2many	HP_0142	AAD07210	helicobacter_pylori_26695	29.2683	NULL	NULL	NULL	NULL	0	2920607
+UMAG_11973	KIS67930	ustilago_maydis	22.069	ortholog_one2one	HP_0309	AAD07375	helicobacter_pylori_26695	21.9178	NULL	NULL	NULL	NULL	0	66811904
+UMAG_03984	KIS67933	ustilago_maydis	9.81767	ortholog_one2one	HP_0640	AAD07702	helicobacter_pylori_26695	17.4129	NULL	NULL	NULL	NULL	0	52582172

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_04922	KIS67049	ustilago_maydis	18.9441	ortholog_many2many	CCC80190	CCC80190	lactobacillus_plantarum_wcfs1	34.0782	NULL	NULL	NULL	NULL	0	49139810
+UMAG_02151	KIS69616	ustilago_maydis	17.8322	ortholog_many2many	CCC80190	CCC80190	lactobacillus_plantarum_wcfs1	28.4916	NULL	NULL	NULL	NULL	0	49141113
+UMAG_03838	KIS68257	ustilago_maydis	22.8916	ortholog_one2one	CAG17843	CAG17843	lactobacillus_plantarum_wcfs1	13.1944	NULL	NULL	NULL	NULL	0	60004888
+TM_0173	AAD35266	thermotoga_maritima_msb8	8.15217	ortholog_many2many	CAG17853	CAG17853	lactobacillus_plantarum_wcfs1	12.6582	NULL	NULL	NULL	NULL	0	8701323
+TM_0934	AAD36015	thermotoga_maritima_msb8	19.2941	ortholog_one2many	CAG17844	CAG17844	lactobacillus_plantarum_wcfs1	19.0255	NULL	NULL	NULL	NULL	0	17118963
+TM_1009	AAD36074	thermotoga_maritima_msb8	31.4685	ortholog_one2many	CCC80190	CCC80190	lactobacillus_plantarum_wcfs1	50.2793	NULL	NULL	NULL	NULL	1	48950109
+TM_1045	AAD36122	thermotoga_maritima_msb8	18.2898	ortholog_one2many	CAG17844	CAG17844	lactobacillus_plantarum_wcfs1	17.8654	NULL	NULL	NULL	NULL	0	17157606
+PMI0024	CAR40264	proteus_mirabilis_hi4320	24.2754	ortholog_one2many	CCC80190	CCC80190	lactobacillus_plantarum_wcfs1	37.4302	NULL	NULL	NULL	NULL	0	49295449
+PMI0515	CAR41252	proteus_mirabilis_hi4320	18.1495	ortholog_one2one	CAG17835	CAG17835	lactobacillus_plantarum_wcfs1	19.1729	NULL	NULL	NULL	NULL	0	67149592

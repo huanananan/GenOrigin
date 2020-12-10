@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	6.1144	ortholog_one2many	CD630_16200	CAJ68485	clostridioides_difficile_630	7.45192	NULL	NULL	NULL	NULL	0	56988904
+UMAG_10719	KIS66850	ustilago_maydis	9.67742	ortholog_many2many	CD630_31910	CAJ70088	clostridioides_difficile_630	9.65147	NULL	NULL	NULL	NULL	0	39271597
+UMAG_05644	KIS66858	ustilago_maydis	25.3521	ortholog_many2many	CD630_23230	CAJ69210	clostridioides_difficile_630	26.2391	NULL	NULL	NULL	NULL	0	35044998
+UMAG_05644	KIS66858	ustilago_maydis	23.9437	ortholog_many2many	CD630_23240	CAJ69211	clostridioides_difficile_630	24.2857	NULL	NULL	NULL	NULL	0	42598941
+UMAG_05644	KIS66858	ustilago_maydis	23.0986	ortholog_many2many	CD630_04900	CAJ67319	clostridioides_difficile_630	23.4286	NULL	NULL	NULL	NULL	0	42598992
+UMAG_05644	KIS66858	ustilago_maydis	24.2254	ortholog_many2many	CD630_22790	CAJ69163	clostridioides_difficile_630	24.4318	NULL	NULL	NULL	NULL	0	42599036
+UMAG_05644	KIS66858	ustilago_maydis	14.6479	ortholog_many2many	CD630_28430	CAJ69731	clostridioides_difficile_630	15.6627	NULL	NULL	NULL	NULL	0	42679583
+UMAG_05665	KIS66879	ustilago_maydis	12.7273	ortholog_many2many	CD630_00920	CAJ66910	clostridioides_difficile_630	19.7581	NULL	NULL	NULL	NULL	0	31185993
+UMAG_05671	KIS66886	ustilago_maydis	18.9033	ortholog_one2one	CD630_20310	CAJ68916	clostridioides_difficile_630	33.1646	NULL	NULL	NULL	NULL	0	73994484

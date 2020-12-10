@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_10723	KIS66864	ustilago_maydis	9.67742	ortholog_many2many	Pro_1197	AAQ00242	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	30.6122	NULL	NULL	NULL	NULL	0	39573368
+UMAG_10723	KIS66864	ustilago_maydis	10	ortholog_many2many	Pro_0013	AAP99059	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	12.3016	NULL	NULL	NULL	NULL	0	39573411
+UMAG_05665	KIS66879	ustilago_maydis	12.987	ortholog_many2many	Pro_0475	AAP99520	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	17.9856	NULL	NULL	NULL	NULL	0	31185853
+UMAG_10732	KIS66885	ustilago_maydis	14.9457	ortholog_many2many	Pro_0857	AAP99901	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	14.8649	NULL	NULL	NULL	NULL	0	9411195
+UMAG_05671	KIS66886	ustilago_maydis	20.0577	ortholog_one2one	Pro_1375	AAQ00419	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	35.1899	NULL	NULL	NULL	NULL	0	74272452
+UMAG_05689	KIS66904	ustilago_maydis	15.3086	ortholog_many2many	Pro_0333	AAP99379	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	8.61111	NULL	NULL	NULL	NULL	0	203682
+UMAG_05689	KIS66904	ustilago_maydis	16.7901	ortholog_many2many	Pro_0096	AAP99142	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	17.2589	NULL	NULL	NULL	NULL	0	215234
+UMAG_05692	KIS66908	ustilago_maydis	5.50098	ortholog_one2one	Pro_0444	AAP99490	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	25.2252	NULL	NULL	NULL	NULL	0	59636108
+UMAG_05732	KIS66951	ustilago_maydis	4.70738	ortholog_one2one	Pro_1121	AAQ00166	prochlorococcus_marinus_subsp_marinus_str_ccmp1375	19.4226	NULL	NULL	NULL	NULL	0	66243242

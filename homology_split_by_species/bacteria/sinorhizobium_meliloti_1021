@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_10719	KIS66850	ustilago_maydis	16.129	ortholog_many2many	SMc00101	CAC45538	sinorhizobium_meliloti_1021	21.8182	NULL	NULL	NULL	NULL	0	33551212
+UMAG_10719	KIS66850	ustilago_maydis	12.6344	ortholog_many2many	SMa1410	AAK65429	sinorhizobium_meliloti_1021	16.9675	NULL	NULL	NULL	NULL	0	33551255
+UMAG_10719	KIS66850	ustilago_maydis	14.5161	ortholog_many2many	SM_b20500	CAC48882	sinorhizobium_meliloti_1021	16.3142	NULL	NULL	NULL	NULL	0	35102481
+UMAG_10719	KIS66850	ustilago_maydis	9.4086	ortholog_many2many	SM_b20656	CAC49763	sinorhizobium_meliloti_1021	12.1107	NULL	NULL	NULL	NULL	0	40258325
+UMAG_10719	KIS66850	ustilago_maydis	12.3656	ortholog_many2many	SMa2157	AAK65830	sinorhizobium_meliloti_1021	13.1054	NULL	NULL	NULL	NULL	0	40258363
+UMAG_10719	KIS66850	ustilago_maydis	12.0968	ortholog_many2many	SMc04252	CAC46501	sinorhizobium_meliloti_1021	13.1579	NULL	NULL	NULL	NULL	0	46353900
+UMAG_10719	KIS66850	ustilago_maydis	15.8602	ortholog_many2many	SMc01429	CAC46691	sinorhizobium_meliloti_1021	20.9964	NULL	NULL	NULL	NULL	0	48799207
+UMAG_10719	KIS66850	ustilago_maydis	15.8602	ortholog_many2many	SMc00570	CAC45719	sinorhizobium_meliloti_1021	17.0029	NULL	NULL	NULL	NULL	0	48865665
+UMAG_05644	KIS66858	ustilago_maydis	16.338	ortholog_many2many	SMa0041	AAK64677	sinorhizobium_meliloti_1021	17.6292	NULL	NULL	NULL	NULL	0	27083063

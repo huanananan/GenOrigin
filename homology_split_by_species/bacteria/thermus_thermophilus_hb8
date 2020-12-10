@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05644	KIS66858	ustilago_maydis	22.8169	ortholog_many2many	BAD70392	BAD70392	thermus_thermophilus_hb8	23.6152	NULL	NULL	NULL	NULL	0	42713409
+UMAG_05665	KIS66879	ustilago_maydis	13.2468	ortholog_many2many	BAD71493	BAD71493	thermus_thermophilus_hb8	20	NULL	NULL	NULL	NULL	0	31184770
+UMAG_05671	KIS66886	ustilago_maydis	19.7691	ortholog_one2many	BAD71578	BAD71578	thermus_thermophilus_hb8	34.6835	NULL	NULL	NULL	NULL	0	74561074
+UMAG_05671	KIS66886	ustilago_maydis	19.6248	ortholog_one2many	BAD70732	BAD70732	thermus_thermophilus_hb8	32.8502	NULL	NULL	NULL	NULL	0	74562186
+UMAG_10735	KIS66888	ustilago_maydis	25.1046	ortholog_one2many	BAD70052	BAD70052	thermus_thermophilus_hb8	32.6975	NULL	NULL	NULL	NULL	0	64395100
+UMAG_10735	KIS66888	ustilago_maydis	25.3138	ortholog_one2many	BAD70762	BAD70762	thermus_thermophilus_hb8	34.9711	NULL	NULL	NULL	NULL	0	64528935
+UMAG_05695	KIS66911	ustilago_maydis	11.1258	ortholog_many2many	BAD71321	BAD71321	thermus_thermophilus_hb8	12.766	NULL	NULL	NULL	NULL	0	37946897
+UMAG_10938	KIS66933	ustilago_maydis	19.5402	ortholog_many2many	BAD70483	BAD70483	thermus_thermophilus_hb8	19.3182	NULL	NULL	NULL	NULL	0	90186970
+UMAG_05740	KIS66957	ustilago_maydis	41.9672	ortholog_one2many	BAD71057	BAD71057	thermus_thermophilus_hb8	46.1261	NULL	NULL	NULL	NULL	0	62786734

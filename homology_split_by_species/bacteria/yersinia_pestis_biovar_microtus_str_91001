@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+b0002	AAC73113	escherichia_coli_str_k_12_substr_mg1655	81.5854	ortholog_one2one	YP_3723	AAS63871	yersinia_pestis_biovar_microtus_str_91001	81.8849	NULL	NULL	NULL	NULL	1	15527981
+b0003	AAC73114	escherichia_coli_str_k_12_substr_mg1655	76.129	ortholog_one2one	YP_3722	AAS63870	yersinia_pestis_biovar_microtus_str_91001	74.6835	NULL	NULL	NULL	NULL	1	41221632
+b0004	AAC73115	escherichia_coli_str_k_12_substr_mg1655	82.4766	ortholog_one2one	YP_3721	AAS63869	yersinia_pestis_biovar_microtus_str_91001	82.2844	NULL	NULL	NULL	NULL	1	67364396
+b0006	AAC73117	escherichia_coli_str_k_12_substr_mg1655	78.2946	ortholog_one2one	YP_3720	AAS63868	yersinia_pestis_biovar_microtus_str_91001	77.9923	NULL	NULL	NULL	NULL	1	58871794
+b0008	AAC73119	escherichia_coli_str_k_12_substr_mg1655	88.959	ortholog_one2one	YP_3718	AAS63866	yersinia_pestis_biovar_microtus_str_91001	85.4545	NULL	NULL	NULL	NULL	1	58314158
+b0009	AAC73120	escherichia_coli_str_k_12_substr_mg1655	87.1795	ortholog_one2one	YP_3716	AAS63864	yersinia_pestis_biovar_microtus_str_91001	87.1795	NULL	NULL	NULL	NULL	1	13251732
+b0010	AAC73121	escherichia_coli_str_k_12_substr_mg1655	71.2766	ortholog_one2one	YP_3713	AAS63861	yersinia_pestis_biovar_microtus_str_91001	68.3673	NULL	NULL	NULL	NULL	1	24458026
+b0014	AAC73125	escherichia_coli_str_k_12_substr_mg1655	90.9091	ortholog_one2one	YP_3712	AAS63860	yersinia_pestis_biovar_microtus_str_91001	91.195	NULL	NULL	NULL	NULL	1	64414805
+b0015	AAC73126	escherichia_coli_str_k_12_substr_mg1655	86.7021	ortholog_one2one	YP_3711	AAS63859	yersinia_pestis_biovar_microtus_str_91001	86.0158	NULL	NULL	NULL	NULL	1	54663311

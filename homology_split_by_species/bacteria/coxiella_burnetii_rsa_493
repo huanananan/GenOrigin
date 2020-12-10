@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05644	KIS66858	ustilago_maydis	25.9155	ortholog_many2many	CBU_0112	AAO89676	coxiella_burnetii_rsa_493	26.9006	NULL	NULL	NULL	NULL	0	42713231
+UMAG_05647	KIS66861	ustilago_maydis	4.49438	ortholog_many2many	CBU_0352	AAO89907	coxiella_burnetii_rsa_493	12.1212	NULL	NULL	NULL	NULL	0	11073372
+UMAG_05665	KIS66879	ustilago_maydis	14.8052	ortholog_many2many	CBU_1388	AAO90891	coxiella_burnetii_rsa_493	21.1111	NULL	NULL	NULL	NULL	0	31296133
+UMAG_10732	KIS66885	ustilago_maydis	14.6739	ortholog_many2many	CBU_0828	AAO90362	coxiella_burnetii_rsa_493	10.4449	NULL	NULL	NULL	NULL	0	9437260
+UMAG_10735	KIS66888	ustilago_maydis	21.5481	ortholog_one2one	CBU_0640	AAO90184	coxiella_burnetii_rsa_493	27.9891	NULL	NULL	NULL	NULL	0	64544433
+UMAG_05692	KIS66908	ustilago_maydis	5.23903	ortholog_one2one	CBU_0996	AAO90517	coxiella_burnetii_rsa_493	26.2295	NULL	NULL	NULL	NULL	0	59641157
+UMAG_05754	KIS66972	ustilago_maydis	42	ortholog_one2one	CBU_1117	AAO90630	coxiella_burnetii_rsa_493	46.8153	NULL	NULL	NULL	NULL	1	70916257
+UMAG_05776	KIS66994	ustilago_maydis	28.3495	ortholog_one2one	CBU_1182	AAO90691	coxiella_burnetii_rsa_493	38.4211	NULL	NULL	NULL	NULL	0	59166615
+UMAG_11513	KIS67833	ustilago_maydis	14.0049	ortholog_one2many	CBU_0807	AAO90341	coxiella_burnetii_rsa_493	15.0396	NULL	NULL	NULL	NULL	0	2648227

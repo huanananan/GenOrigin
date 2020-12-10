@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_10719	KIS66850	ustilago_maydis	14.7849	ortholog_many2many	SP_0791	AAK74928	streptococcus_pneumoniae_tigr4	17.8571	NULL	NULL	NULL	NULL	0	48990105
+UMAG_05644	KIS66858	ustilago_maydis	22.5352	ortholog_many2many	SP_0285	AAK74463	streptococcus_pneumoniae_tigr4	23.5988	NULL	NULL	NULL	NULL	0	38450509
+UMAG_05644	KIS66858	ustilago_maydis	26.7606	ortholog_many2many	SP_2055	AAK76119	streptococcus_pneumoniae_tigr4	26.9886	NULL	NULL	NULL	NULL	0	42696863
+UMAG_05665	KIS66879	ustilago_maydis	11.4286	ortholog_many2many	SP_1084	AAK75197	streptococcus_pneumoniae_tigr4	15.3846	NULL	NULL	NULL	NULL	0	31186051
+UMAG_05676	KIS66891	ustilago_maydis	11.8321	ortholog_many2many	SP_1994	AAK76061	streptococcus_pneumoniae_tigr4	15.3465	NULL	NULL	NULL	NULL	0	35582632
+UMAG_05676	KIS66891	ustilago_maydis	10.4962	ortholog_many2many	SP_1393	AAK75491	streptococcus_pneumoniae_tigr4	13.0024	NULL	NULL	NULL	NULL	0	41340511
+UMAG_05740	KIS66957	ustilago_maydis	42.459	ortholog_one2many	SP_2126	AAK76184	streptococcus_pneumoniae_tigr4	45.679	NULL	NULL	NULL	NULL	0	62696304
+UMAG_05776	KIS66994	ustilago_maydis	23.8835	ortholog_one2many	SP_1094	AAK75206	streptococcus_pneumoniae_tigr4	34.1667	NULL	NULL	NULL	NULL	0	59017571
+UMAG_05776	KIS66994	ustilago_maydis	25.0485	ortholog_one2many	SP_0880	AAK75007	streptococcus_pneumoniae_tigr4	33.9474	NULL	NULL	NULL	NULL	0	59089991

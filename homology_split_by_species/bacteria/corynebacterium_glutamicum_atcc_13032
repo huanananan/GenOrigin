@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	50.9542	ortholog_one2one	Rv0001	CCP42723	mycobacterium_tuberculosis_h37rv	52.6627	NULL	NULL	NULL	NULL	1	46881073
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	45.6107	ortholog_one2one	Mlut_00010	ACS29576	micrococcus_luteus_nctc_2665	46.4078	NULL	NULL	NULL	NULL	1	46881615
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	42.7481	ortholog_one2one	PPA0001	AAT81766	propionibacterium_acnes_kpa171202	44.8	NULL	NULL	NULL	NULL	1	46881906
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	37.7863	ortholog_one2one	BL0640	AAN24462	bifidobacterium_longum_ncc2705	39.6	NULL	NULL	NULL	NULL	1	46882372
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	38.5496	ortholog_one2one	CGSMWGv0288E_01259	EIK78037	gardnerella_vaginalis_0288e	37.757	NULL	NULL	NULL	NULL	1	46882894
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	30.916	ortholog_one2one	SP_0001	AAK74194	streptococcus_pneumoniae_tigr4	35.7616	NULL	NULL	NULL	NULL	1	46885282
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	34.542	ortholog_one2one	L0274	AAK04099	lactococcus_lactis_subsp_lactis_il1403	39.7802	NULL	NULL	NULL	NULL	1	46885397
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	34.542	ortholog_one2one	EF_0001	AAO79886	enterococcus_faecalis_v583	40.4922	NULL	NULL	NULL	NULL	1	46885785
+cg0001	CAF18566	corynebacterium_glutamicum_atcc_13032	40.0763	ortholog_one2one	Moth_0002	ABC18342	moorella_thermoacetica_atcc_39073	47.5113	NULL	NULL	NULL	NULL	0	46889045

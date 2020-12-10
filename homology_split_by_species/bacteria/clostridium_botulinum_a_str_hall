@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_one2many	CLC_1123	ABS36972	clostridium_botulinum_a_str_hall	13.2584	NULL	NULL	NULL	NULL	0	57098735
+UMAG_10719	KIS66850	ustilago_maydis	14.5161	ortholog_many2many	CLC_1542	ABS36625	clostridium_botulinum_a_str_hall	14.2857	NULL	NULL	NULL	NULL	0	39274785
+UMAG_10719	KIS66850	ustilago_maydis	17.2043	ortholog_many2many	CLC_1037	ABS38367	clostridium_botulinum_a_str_hall	22.7758	NULL	NULL	NULL	NULL	0	49071894
+UMAG_05644	KIS66858	ustilago_maydis	23.9437	ortholog_many2many	CLC_3363	ABS35939	clostridium_botulinum_a_str_hall	24.3553	NULL	NULL	NULL	NULL	0	42600314
+UMAG_05665	KIS66879	ustilago_maydis	14.2857	ortholog_many2many	CLC_3403	ABS37611	clostridium_botulinum_a_str_hall	22.0884	NULL	NULL	NULL	NULL	0	31185705
+UMAG_05676	KIS66891	ustilago_maydis	10.1145	ortholog_many2many	CLC_1959	ABS36067	clostridium_botulinum_a_str_hall	11.8304	NULL	NULL	NULL	NULL	0	41373015
+UMAG_05676	KIS66891	ustilago_maydis	10.1145	ortholog_many2many	CLC_1067	ABS37258	clostridium_botulinum_a_str_hall	13.4518	NULL	NULL	NULL	NULL	0	42515011
+UMAG_05676	KIS66891	ustilago_maydis	11.2595	ortholog_many2many	CLC_3064	ABS36880	clostridium_botulinum_a_str_hall	15.1671	NULL	NULL	NULL	NULL	0	44015223
+UMAG_05676	KIS66891	ustilago_maydis	9.54198	ortholog_many2many	CLC_1980	ABS36259	clostridium_botulinum_a_str_hall	10.7759	NULL	NULL	NULL	NULL	0	45566960

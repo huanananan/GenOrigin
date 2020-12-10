@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05644	KIS66858	ustilago_maydis	19.7183	ortholog_one2many	MPN_564	AAB95926	mycoplasma_pneumoniae_m129	19.943	NULL	NULL	NULL	NULL	0	42696533
+UMAG_05665	KIS66879	ustilago_maydis	9.87013	ortholog_many2many	MPN_186	AAB96293	mycoplasma_pneumoniae_m129	15.3226	NULL	NULL	NULL	NULL	0	31184935
+UMAG_15008	KIS67959	ustilago_maydis	9.8081	ortholog_one2one	MPN_250	AAB96230	mycoplasma_pneumoniae_m129	10.6977	NULL	NULL	NULL	NULL	0	62451929
+UMAG_04960	KIS67091	ustilago_maydis	42.8571	ortholog_one2one	MPN_225	AAB96254	mycoplasma_pneumoniae_m129	51.7986	NULL	NULL	NULL	NULL	1	57434310
+UMAG_05018	KIS67151	ustilago_maydis	10.7759	ortholog_one2one	MPN_446	AAB96043	mycoplasma_pneumoniae_m129	24.3902	NULL	NULL	NULL	NULL	0	56697818
+UMAG_05019	KIS67152	ustilago_maydis	36.2468	ortholog_one2one	MPN_060	AAB95742	mycoplasma_pneumoniae_m129	36.8146	NULL	NULL	NULL	NULL	0	76037972
+UMAG_04320	KIS67214	ustilago_maydis	8.67769	ortholog_one2many	MPN_247	AAB96233	mycoplasma_pneumoniae_m129	16.2162	NULL	NULL	NULL	NULL	0	33096079
+UMAG_11750	KIS67219	ustilago_maydis	12.754	ortholog_one2one	MPN_324	AAB96160	mycoplasma_pneumoniae_m129	15.6727	NULL	NULL	NULL	NULL	0	69930720
+UMAG_04330	KIS67226	ustilago_maydis	22.8758	ortholog_one2many	MPN_179	AAB96300	mycoplasma_pneumoniae_m129	24.6479	NULL	NULL	NULL	NULL	0	74967945

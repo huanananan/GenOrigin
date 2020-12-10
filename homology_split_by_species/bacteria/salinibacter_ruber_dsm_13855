@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	2.90276	ortholog_many2many	SRU_1315	ABC45064	salinibacter_ruber_dsm_13855	6.23053	NULL	NULL	NULL	NULL	0	2239863
+UMAG_05629	KIS66840	ustilago_maydis	3.33817	ortholog_many2many	SRU_1314	ABC44804	salinibacter_ruber_dsm_13855	6.59026	NULL	NULL	NULL	NULL	0	2239923
+UMAG_05629	KIS66840	ustilago_maydis	3.77358	ortholog_many2many	SRU_1736	ABC45642	salinibacter_ruber_dsm_13855	8.41424	NULL	NULL	NULL	NULL	0	2239972
+UMAG_05644	KIS66858	ustilago_maydis	21.4085	ortholog_many2many	SRU_0710	ABC45275	salinibacter_ruber_dsm_13855	21.4085	NULL	NULL	NULL	NULL	0	38445736
+UMAG_05644	KIS66858	ustilago_maydis	17.1831	ortholog_many2many	SRU_1372	ABC44356	salinibacter_ruber_dsm_13855	18.1009	NULL	NULL	NULL	NULL	0	42679072
+UMAG_05644	KIS66858	ustilago_maydis	16.0563	ortholog_many2many	SRU_1509	ABC45451	salinibacter_ruber_dsm_13855	16.6667	NULL	NULL	NULL	NULL	0	42700856
+UMAG_05665	KIS66879	ustilago_maydis	10.1299	ortholog_many2many	SRU_1055	ABC45235	salinibacter_ruber_dsm_13855	14.2336	NULL	NULL	NULL	NULL	0	31185054
+UMAG_10732	KIS66885	ustilago_maydis	9.23913	ortholog_many2many	SRU_2534	ABC43917	salinibacter_ruber_dsm_13855	9.36639	NULL	NULL	NULL	NULL	0	9425815
+UMAG_10732	KIS66885	ustilago_maydis	15.4891	ortholog_many2many	SRU_2532	ABC45811	salinibacter_ruber_dsm_13855	15.4472	NULL	NULL	NULL	NULL	0	9452171

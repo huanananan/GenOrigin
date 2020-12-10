@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	12.0316	ortholog_one2many	Pden_1011	ABL69122	paracoccus_denitrificans_pd1222	14.0553	NULL	NULL	NULL	NULL	0	56983954
+UMAG_10719	KIS66850	ustilago_maydis	15.0538	ortholog_many2many	Pden_2824	ABL70908	paracoccus_denitrificans_pd1222	13.6919	NULL	NULL	NULL	NULL	0	48863058
+UMAG_05644	KIS66858	ustilago_maydis	17.1831	ortholog_many2many	Pden_4206	ABL72270	paracoccus_denitrificans_pd1222	18.6544	NULL	NULL	NULL	NULL	0	21764219
+UMAG_05644	KIS66858	ustilago_maydis	22.5352	ortholog_many2many	Pden_4931	ABL72991	paracoccus_denitrificans_pd1222	23.7389	NULL	NULL	NULL	NULL	0	35042109
+UMAG_05644	KIS66858	ustilago_maydis	23.0986	ortholog_many2many	Pden_4980	ABL73040	paracoccus_denitrificans_pd1222	22.9692	NULL	NULL	NULL	NULL	0	35042158
+UMAG_05644	KIS66858	ustilago_maydis	21.4085	ortholog_many2many	Pden_2367	ABL70457	paracoccus_denitrificans_pd1222	22.093	NULL	NULL	NULL	NULL	0	38446024
+UMAG_05644	KIS66858	ustilago_maydis	18.5915	ortholog_many2many	Pden_4840	ABL72900	paracoccus_denitrificans_pd1222	20	NULL	NULL	NULL	NULL	0	42598397
+UMAG_05644	KIS66858	ustilago_maydis	26.1972	ortholog_many2many	Pden_1186	ABL69291	paracoccus_denitrificans_pd1222	23.6041	NULL	NULL	NULL	NULL	0	42627187
+UMAG_05644	KIS66858	ustilago_maydis	16.0563	ortholog_many2many	Pden_3873	ABL71939	paracoccus_denitrificans_pd1222	13.2867	NULL	NULL	NULL	NULL	0	42639618

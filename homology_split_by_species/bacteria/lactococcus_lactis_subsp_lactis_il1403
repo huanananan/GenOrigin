@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	10.2564	ortholog_one2many	L148346	AAK04653	lactococcus_lactis_subsp_lactis_il1403	12.0092	NULL	NULL	NULL	NULL	0	57098305
+UMAG_10719	KIS66850	ustilago_maydis	12.0968	ortholog_many2many	L48789	AAK06084	lactococcus_lactis_subsp_lactis_il1403	15.6794	NULL	NULL	NULL	NULL	0	46337780
+UMAG_10719	KIS66850	ustilago_maydis	15.3226	ortholog_many2many	L132617	AAK04431	lactococcus_lactis_subsp_lactis_il1403	20.9559	NULL	NULL	NULL	NULL	0	49071665
+UMAG_05644	KIS66858	ustilago_maydis	20	ortholog_many2many	L55758	AAK05905	lactococcus_lactis_subsp_lactis_il1403	20.8824	NULL	NULL	NULL	NULL	0	38447346
+UMAG_05644	KIS66858	ustilago_maydis	16.6197	ortholog_many2many	L123116	AAK04815	lactococcus_lactis_subsp_lactis_il1403	17.9878	NULL	NULL	NULL	NULL	0	42619990
+UMAG_05665	KIS66879	ustilago_maydis	11.6883	ortholog_many2many	L883	AAK04710	lactococcus_lactis_subsp_lactis_il1403	15.8451	NULL	NULL	NULL	NULL	0	31185369
+UMAG_10732	KIS66885	ustilago_maydis	14.9457	ortholog_many2many	L63684	AAK04363	lactococcus_lactis_subsp_lactis_il1403	15.4062	NULL	NULL	NULL	NULL	0	9420503
+UMAG_05671	KIS66886	ustilago_maydis	19.9134	ortholog_one2one	L0106	AAK04897	lactococcus_lactis_subsp_lactis_il1403	36.6048	NULL	NULL	NULL	NULL	0	73995522
+UMAG_10735	KIS66888	ustilago_maydis	21.5481	ortholog_one2one	L0033	AAK04160	lactococcus_lactis_subsp_lactis_il1403	27.5401	NULL	NULL	NULL	NULL	0	64910081

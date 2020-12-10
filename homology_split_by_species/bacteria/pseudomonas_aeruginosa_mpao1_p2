@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	3.19303	ortholog_many2many	O1Q_11931	EHS42350	pseudomonas_aeruginosa_mpao1_p2	7.66551	NULL	NULL	NULL	NULL	0	1943735
+UMAG_05629	KIS66840	ustilago_maydis	3.48331	ortholog_many2many	O1Q_14660	EHS41797	pseudomonas_aeruginosa_mpao1_p2	15.894	NULL	NULL	NULL	NULL	0	1943792
+UMAG_05632	KIS66844	ustilago_maydis	41.3462	ortholog_one2one	O1Q_04498	EHS43830	pseudomonas_aeruginosa_mpao1_p2	67.1875	NULL	NULL	NULL	NULL	1	54653443
+UMAG_15021	KIS66846	ustilago_maydis	11.6371	ortholog_many2many	O1Q_05948	EHS43539	pseudomonas_aeruginosa_mpao1_p2	12.9103	NULL	NULL	NULL	NULL	0	56982058
+UMAG_15021	KIS66846	ustilago_maydis	9.07298	ortholog_many2many	O1Q_00872	EHS44445	pseudomonas_aeruginosa_mpao1_p2	11.0843	NULL	NULL	NULL	NULL	0	56982300
+UMAG_15021	KIS66846	ustilago_maydis	10.8481	ortholog_many2many	O1Q_16362	EHS41481	pseudomonas_aeruginosa_mpao1_p2	12.4717	NULL	NULL	NULL	NULL	0	56982472
+UMAG_15021	KIS66846	ustilago_maydis	9.86193	ortholog_many2many	O1Q_07037	EHS43148	pseudomonas_aeruginosa_mpao1_p2	11.2613	NULL	NULL	NULL	NULL	0	57096049
+UMAG_15021	KIS66846	ustilago_maydis	9.46746	ortholog_many2many	O1Q_17627	EHS41174	pseudomonas_aeruginosa_mpao1_p2	10.5263	NULL	NULL	NULL	NULL	0	57096171
+UMAG_15021	KIS66846	ustilago_maydis	12.2288	ortholog_many2many	O1Q_04875	EHS43709	pseudomonas_aeruginosa_mpao1_p2	13.8393	NULL	NULL	NULL	NULL	0	57096312

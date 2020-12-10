@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_15021	KIS66846	ustilago_maydis	10.4536	ortholog_many2many	CAD01029	CAD01029	listeria_monocytogenes_egd_e	13.3501	NULL	NULL	NULL	NULL	0	56985048
+UMAG_15021	KIS66846	ustilago_maydis	11.8343	ortholog_many2many	CAC98916	CAC98916	listeria_monocytogenes_egd_e	13.0152	NULL	NULL	NULL	NULL	0	57040266
+UMAG_10719	KIS66850	ustilago_maydis	13.7097	ortholog_many2many	CAC98718	CAC98718	listeria_monocytogenes_egd_e	16.7213	NULL	NULL	NULL	NULL	0	48990903
+UMAG_10719	KIS66850	ustilago_maydis	15.5914	ortholog_many2many	CAC98901	CAC98901	listeria_monocytogenes_egd_e	21.1679	NULL	NULL	NULL	NULL	0	49071838
+UMAG_05644	KIS66858	ustilago_maydis	22.2535	ortholog_many2many	CAD00876	CAD00876	listeria_monocytogenes_egd_e	23.0321	NULL	NULL	NULL	NULL	0	35047455
+UMAG_05644	KIS66858	ustilago_maydis	22.8169	ortholog_many2many	CAC98585	CAC98585	listeria_monocytogenes_egd_e	23.2759	NULL	NULL	NULL	NULL	0	42599921
+UMAG_05644	KIS66858	ustilago_maydis	19.1549	ortholog_many2many	CAD00877	CAD00877	listeria_monocytogenes_egd_e	19.4286	NULL	NULL	NULL	NULL	0	42599964
+UMAG_05644	KIS66858	ustilago_maydis	19.1549	ortholog_many2many	CAD01049	CAD01049	listeria_monocytogenes_egd_e	19.4286	NULL	NULL	NULL	NULL	0	42600009
+UMAG_05644	KIS66858	ustilago_maydis	17.4648	ortholog_many2many	CAD00651	CAD00651	listeria_monocytogenes_egd_e	18.6747	NULL	NULL	NULL	NULL	0	42620744

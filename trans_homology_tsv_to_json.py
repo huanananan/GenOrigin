@@ -155,7 +155,7 @@ def pan_homology(homologyB, species_list, species):
     return homologyB
 
 
-def run(species, division):
+def run_above(species, division):
     # See the file in https://github.com/huanananan/GenOrigin/blob/master/homology_split_by_species.rar
     homology_dir = work_dir + 'homology_split_by_species'+division+'/' + species
 
@@ -174,3 +174,31 @@ def run(species, division):
     outfile.write(file_content)
     outfile.close()
 
+def make_pan_homology_json():
+    pan_homology_species_list = []
+    # 用的pan_homology简化后的文件。源文件homology_all/pan_homology.tsv
+    # 仅简化成在我们物种树上有的物种。可以忽略该注释。
+
+    with open(work_dir + 'genorigin_species_list/pan_homology') as f:
+        species_to_make_species_list = [line.strip() for line in f.readlines()]
+
+    judge_gene = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: []))))
+    with open(work_dir+"homology_split_by_species/pan_homology.tsv") as f:
+        for line in f:
+            line = line.strip()
+            line = line.split("\t")
+            if line[2] != line[7] and "_".join(
+                    line[2].split("_")[0:2]).capitalize() in pan_homology_species_list and "_".join(
+                line[2].split("_")[0:2]).capitalize() in pan_homology_species_list:
+                sim_species_name = "_".join(line[2].split("_")[0:2]).capitalize()
+                sim_homology_name = "_".join(line[7].split("_")[0:2]).capitalize()
+                judge_gene[sim_species_name][line[0]][sim_homology_name][line[3]].append(line[5])
+                judge_gene[sim_homology_name][line[5]][sim_species_name][line[8]].append(line[0])
+
+    for species in judge_gene:  
+        function_dir = work_dir + 'homology_json/pan_homology/' + species
+        file_content = """%s""" % json.dumps(judge_gene[species])
+        outfile = open(function_dir, "w")
+        outfile.write(file_content)
+        outfile.close()
+    

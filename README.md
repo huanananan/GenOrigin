@@ -1,7 +1,7 @@
 # [GenOrigin](http://genorigin.chenzxlab.cn/#!/)
 web: http://genorigin.chenzxlab.cn/#!/
 
-
+#Collect data 
 ## Step 1 Ensembl homology data
 Download the homology data from Ensembl FTP. release 98/45.  
 ftp://ftp.ensemblgenomes.org/pub/plants/release-45/tsv/ensembl-compara/homologies/  
@@ -32,11 +32,13 @@ But it show the same taxonomy id in [UniProt](www.uniprot.org).
 So we uniform it to Ensembl scientific name first two word.  
 See [change_time_tree_nwk_file_to_ensembl_species_name.txt](https://github.com/huanananan/GenOrigin/blob/master/change_time_tree_nwk_file_to_ensembl_species_name.txt)  
 
-## Step 6 split the Ensembl homology data
+## Step 6 split the Ensembl homology data & make it to json file
 Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) splits the homology data by species.  
 The output file, see [homology_split_by_species.rar](https://github.com/huanananan/GenOrigin/blob/master/homology_split_by_species.rar)  
+Also [homology_split_by_species](https://github.com/huanananan/GenOrigin/tree/master/homology_split_by_species)
 Split it could save memory and improve parallel efficiency.  
 Some species even split it as 100 genes to run pipeline.  
+Then, make it to the json file. [trans_homology_tsv_to_json.py](https://github.com/huanananan/GenOrigin/blob/master/trans_homology_tsv_to_json.py)
 
 ## Step 7 split the annotation json file (Optional)
 Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) split it by gene id, organism or assembly.  
@@ -46,9 +48,10 @@ Because reading and writing a large number of files at the same time will seriou
 But, it use disk place replace memory.  
 The biggest json file is about 44GB memory.  
 So, we provide and use the split annotation json in this project.  
-You can easy to change it, because i will provide the convert method in the python script as comment.  
 
+#Infer origin
 ## Step 8 species connect to pan-taxonomy compara
+Using
 
 ## Step 9 pan-taxonomy species to pan-taxonomy species
 

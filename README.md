@@ -1,7 +1,7 @@
 # [GenOrigin](http://genorigin.chenzxlab.cn/#!/)
 web: http://genorigin.chenzxlab.cn/#!/
 
-##Collect data 
+## Collect data 
 ### Step 1 Ensembl homology data
 Download the homology data from Ensembl FTP. release 98/45.  
 ftp://ftp.ensemblgenomes.org/pub/plants/release-45/tsv/ensembl-compara/homologies/  
@@ -49,7 +49,7 @@ But, it use disk place replace memory.
 The biggest json file is about 44GB memory.  
 So, we provide and use the split annotation json in this project.  
 
-##Infer origin
+## Infer origin
 ### Step 8 species connect to pan-taxonomy compara
 Using
 

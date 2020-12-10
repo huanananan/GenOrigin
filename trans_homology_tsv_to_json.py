@@ -180,7 +180,7 @@ def make_pan_homology_json():
     # 仅简化成在我们物种树上有的物种。可以忽略该注释。
 
     with open(work_dir + 'genorigin_species_list/pan_homology') as f:
-        species_to_make_species_list = [line.strip() for line in f.readlines()]
+        pan_homology_species_list = [line.strip() for line in f.readlines()]
 
     judge_gene = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: []))))
     with open(work_dir+"homology_split_by_species/pan_homology.tsv") as f:

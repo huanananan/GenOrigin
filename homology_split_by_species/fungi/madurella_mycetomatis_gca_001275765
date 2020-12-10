@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	17.7419	ortholog_one2one	MMYC01_206470	KXX78243	madurella_mycetomatis_gca_001275765	24.3363	NULL	NULL	NULL	NULL	NULL	259617713
+UMAG_05625	KIS66836	ustilago_maydis	31.0078	ortholog_one2many	MMYC01_208273	KXX74728	madurella_mycetomatis_gca_001275765	40.404	NULL	NULL	NULL	NULL	1	114294668
+UMAG_05625	KIS66836	ustilago_maydis	31.0078	ortholog_one2many	MMYC01_207309	KXX74677	madurella_mycetomatis_gca_001275765	40.404	NULL	NULL	NULL	NULL	1	114300474
+UMAG_05628	KIS66839	ustilago_maydis	6.13027	ortholog_one2many	MMYC01_203824	KXX80745	madurella_mycetomatis_gca_001275765	16	NULL	NULL	NULL	NULL	0	109820090
+UMAG_05628	KIS66839	ustilago_maydis	12.2605	ortholog_one2many	MMYC01_203823	KXX80741	madurella_mycetomatis_gca_001275765	15.9204	NULL	NULL	NULL	NULL	0	109824078
+UMAG_05629	KIS66840	ustilago_maydis	15.82	ortholog_one2one	MMYC01_207523	KXX75511	madurella_mycetomatis_gca_001275765	15.0345	NULL	NULL	NULL	NULL	0	158444890
+UMAG_12019	KIS66842	ustilago_maydis	22.549	ortholog_one2one	MMYC01_209221	KXX74543	madurella_mycetomatis_gca_001275765	16.9118	NULL	NULL	NULL	NULL	0	152499462
+UMAG_10718	KIS66849	ustilago_maydis	50.3808	ortholog_one2one	MMYC01_202955	KXX81780	madurella_mycetomatis_gca_001275765	51.0474	NULL	NULL	NULL	NULL	1	197185727
+UMAG_10719	KIS66850	ustilago_maydis	25.5376	ortholog_one2one	MMYC01_206925	KXX75996	madurella_mycetomatis_gca_001275765	29.4118	NULL	NULL	NULL	NULL	0	360113269

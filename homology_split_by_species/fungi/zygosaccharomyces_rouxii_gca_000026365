@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+sr12040	CBQ71647	sporisorium_reilianum	27.907	ortholog_one2one	ZYRO0G05852g	CAR29318	zygosaccharomyces_rouxii_gca_000026365	29.2683	NULL	NULL	NULL	NULL	1	73770167
+sr15976	CBQ72278	sporisorium_reilianum	21.4217	ortholog_one2one	ZYRO0G18062g	CAR29833	zygosaccharomyces_rouxii_gca_000026365	33.3832	NULL	NULL	NULL	NULL	0	325444550
+sr15975	CBQ72279	sporisorium_reilianum	32.8889	ortholog_one2one	ZYRO0C05720g	CAR26971	zygosaccharomyces_rouxii_gca_000026365	33.6364	NULL	NULL	NULL	NULL	NULL	235937973
+sr13621	CBQ72272	sporisorium_reilianum	18.2898	ortholog_one2one	ZYRO0B14916g	CAR26655	zygosaccharomyces_rouxii_gca_000026365	25.8389	NULL	NULL	NULL	NULL	0	143000592
+sr10958	CBQ72876	sporisorium_reilianum	25.7015	ortholog_one2many	ZYRO0B05918g	CAR26276	zygosaccharomyces_rouxii_gca_000026365	24.1561	NULL	NULL	NULL	NULL	NULL	223780959
+sr10958	CBQ72876	sporisorium_reilianum	25.2525	ortholog_one2many	ZYRO0G13640g	CAR29645	zygosaccharomyces_rouxii_gca_000026365	24.2196	NULL	NULL	NULL	NULL	NULL	223783474
+sr10960.2	CBQ72878	sporisorium_reilianum	48.25	ortholog_one2many	ZYRO0D09130g	CAR27898	zygosaccharomyces_rouxii_gca_000026365	40.2923	NULL	NULL	NULL	NULL	NULL	216146091
+sr10960.2	CBQ72878	sporisorium_reilianum	49.625	ortholog_one2many	ZYRO0B08140g	CAR26370	zygosaccharomyces_rouxii_gca_000026365	40.3455	NULL	NULL	NULL	NULL	NULL	216147546
+sr10962	CBQ72879	sporisorium_reilianum	10.7717	ortholog_one2one	ZYRO0G17094g	CAR29792	zygosaccharomyces_rouxii_gca_000026365	17.8667	NULL	NULL	NULL	NULL	NULL	229044334

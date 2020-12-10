@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	45.7364	ortholog_one2one	LACBIDRAFT_246507	EDR12751	laccaria_bicolor_s238n_h82_gca_000143565	62.766	NULL	NULL	NULL	NULL	1	109658131
+UMAG_05626	KIS66837	ustilago_maydis	32.5342	ortholog_one2one	LACBIDRAFT_292682	EDR12155	laccaria_bicolor_s238n_h82_gca_000143565	26.0989	NULL	NULL	NULL	NULL	1	355347012
+UMAG_05627	KIS66838	ustilago_maydis	40.9449	ortholog_one2one	LACBIDRAFT_244339	EDR14107	laccaria_bicolor_s238n_h82_gca_000143565	50.4854	NULL	NULL	NULL	NULL	1	122453546
+UMAG_05628	KIS66839	ustilago_maydis	24.1379	ortholog_one2one	LACBIDRAFT_297173	EDR08468	laccaria_bicolor_s238n_h82_gca_000143565	30	NULL	NULL	NULL	NULL	0	107393010
+UMAG_05629	KIS66840	ustilago_maydis	24.238	ortholog_one2one	LACBIDRAFT_309214	EDR13805	laccaria_bicolor_s238n_h82_gca_000143565	26.6348	NULL	NULL	NULL	NULL	0	152936526
+UMAG_12019	KIS66842	ustilago_maydis	28.3224	ortholog_one2one	LACBIDRAFT_305781	EDR14756	laccaria_bicolor_s238n_h82_gca_000143565	25.012	NULL	NULL	NULL	NULL	1	148498783
+UMAG_05631	KIS66843	ustilago_maydis	19.9569	ortholog_one2one	LACBIDRAFT_311598	EDR12314	laccaria_bicolor_s238n_h82_gca_000143565	20.3962	NULL	NULL	NULL	NULL	0	106720470
+UMAG_05632	KIS66844	ustilago_maydis	49.0385	ortholog_one2one	LACBIDRAFT_163221	EDR12505	laccaria_bicolor_s238n_h82_gca_000143565	80.9524	NULL	NULL	NULL	NULL	1	111279403
+UMAG_15021	KIS66846	ustilago_maydis	37.0809	ortholog_one2many	LACBIDRAFT_314483	EDR00321	laccaria_bicolor_s238n_h82_gca_000143565	39.3305	NULL	NULL	NULL	NULL	0	348121825

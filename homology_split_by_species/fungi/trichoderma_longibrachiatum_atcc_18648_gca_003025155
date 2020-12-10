@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	M440DRAFT_1400066	PTB77152	trichoderma_longibrachiatum_atcc_18648_gca_003025155	39.8058	NULL	NULL	NULL	NULL	1	114275146
+UMAG_05628	KIS66839	ustilago_maydis	17.6245	ortholog_one2one	M440DRAFT_1374301	PTB77265	trichoderma_longibrachiatum_atcc_18648_gca_003025155	14.791	NULL	NULL	NULL	NULL	0	109837373
+UMAG_05629	KIS66840	ustilago_maydis	15.6749	ortholog_one2one	M440DRAFT_1438237	PTB77786	trichoderma_longibrachiatum_atcc_18648_gca_003025155	15.2975	NULL	NULL	NULL	NULL	0	156946050
+UMAG_12019	KIS66842	ustilago_maydis	21.8954	ortholog_one2one	M440DRAFT_1438650	PTB76943	trichoderma_longibrachiatum_atcc_18648_gca_003025155	18.0269	NULL	NULL	NULL	NULL	0	153729812
+UMAG_10719	KIS66850	ustilago_maydis	22.3118	ortholog_one2many	M440DRAFT_1460537	PTB80690	trichoderma_longibrachiatum_atcc_18648_gca_003025155	29.3286	NULL	NULL	NULL	NULL	0	360116111
+UMAG_10719	KIS66850	ustilago_maydis	26.0753	ortholog_one2many	M440DRAFT_1370776	PTB79130	trichoderma_longibrachiatum_atcc_18648_gca_003025155	31.2903	NULL	NULL	NULL	NULL	0	360116643
+UMAG_10722	KIS66856	ustilago_maydis	34.7305	ortholog_one2one	M440DRAFT_1399164	PTB77990	trichoderma_longibrachiatum_atcc_18648_gca_003025155	38.5382	NULL	NULL	NULL	NULL	NULL	201264635
+UMAG_05644	KIS66858	ustilago_maydis	46.7606	ortholog_one2one	M440DRAFT_1323204	PTB81939	trichoderma_longibrachiatum_atcc_18648_gca_003025155	46.7606	NULL	NULL	NULL	NULL	NULL	237524627
+UMAG_05659	KIS66873	ustilago_maydis	16.9569	ortholog_one2many	M440DRAFT_9015	PTB71424	trichoderma_longibrachiatum_atcc_18648_gca_003025155	18.9549	NULL	NULL	NULL	NULL	0	178345344

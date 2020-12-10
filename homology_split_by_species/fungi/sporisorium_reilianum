@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+sr05445	CBQ72271	sporisorium_reilianum	8.80062	ortholog_one2one	UMAG_05313	KIS66313	ustilago_maydis	22.8745	NULL	NULL	NULL	NULL	0	21425112
+sr05445	CBQ72271	sporisorium_reilianum	5.60748	ortholog_one2one	UHOR_12247	CCF47943	ustilago_hordei_gca_000286035	51.0638	NULL	NULL	NULL	NULL	0	21425343
+sr05445	CBQ72271	sporisorium_reilianum	15.6542	ortholog_many2many	CPUR_04004	CCE30156	claviceps_purpurea_20_1_gca_000347355	23.8717	NULL	NULL	NULL	NULL	0	21478775
+sr05445	CBQ72271	sporisorium_reilianum	7.39875	ortholog_one2many	B9Z19DRAFT_1155236	PUU75073	tuber_borchii_gca_003070745	15.9396	NULL	NULL	NULL	NULL	0	21502107
+sr05445	CBQ72271	sporisorium_reilianum	14.486	ortholog_many2many	CPUR_05377	CCE31524	claviceps_purpurea_20_1_gca_000347355	20.7589	NULL	NULL	NULL	NULL	0	21524202
+sr17267	CBQ72270	sporisorium_reilianum	43.8134	ortholog_one2one	UHOR_12387	CCF47971	ustilago_hordei_gca_000286035	100	NULL	NULL	NULL	NULL	1	61275313
+sr17267	CBQ72270	sporisorium_reilianum	18.6613	ortholog_one2one	CDV58_03610	OXN07785	aspergillus_fumigatus_gca_002234985	20	NULL	NULL	NULL	NULL	0	61354205
+sr17267	CBQ72270	sporisorium_reilianum	19.0669	ortholog_one2one	Bcin08g02740	Bcin08p02740.1	botrytis_cinerea	19.6653	NULL	NULL	NULL	NULL	0	61355328
+sr17267	CBQ72270	sporisorium_reilianum	17.4442	ortholog_one2one	NEOLEDRAFT_1158713	KZT20414	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	18.6551	NULL	NULL	NULL	NULL	0	61356781

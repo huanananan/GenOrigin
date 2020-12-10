@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	15.8065	ortholog_one2one	NOR_06341	OAA39081	metarhizium_rileyi_rcef_4871_gca_001636745	21.6814	NULL	NULL	NULL	NULL	NULL	261497472
+UMAG_05625	KIS66836	ustilago_maydis	31.0078	ortholog_one2one	NOR_01437	OAA49514	metarhizium_rileyi_rcef_4871_gca_001636745	39.604	NULL	NULL	NULL	NULL	1	114270843
+UMAG_05628	KIS66839	ustilago_maydis	19.5402	ortholog_one2one	NOR_01537	OAA49614	metarhizium_rileyi_rcef_4871_gca_001636745	18.2796	NULL	NULL	NULL	NULL	0	109808323
+UMAG_05629	KIS66840	ustilago_maydis	15.82	ortholog_one2one	NOR_00456	OAA51863	metarhizium_rileyi_rcef_4871_gca_001636745	15.0761	NULL	NULL	NULL	NULL	0	158306036
+UMAG_12019	KIS66842	ustilago_maydis	23.7473	ortholog_one2one	NOR_06484	OAA38831	metarhizium_rileyi_rcef_4871_gca_001636745	18.2198	NULL	NULL	NULL	NULL	0	153567547
+UMAG_05632	KIS66844	ustilago_maydis	42.7885	ortholog_one2one	NOR_06974	OAA37897	metarhizium_rileyi_rcef_4871_gca_001636745	50.8571	NULL	NULL	NULL	NULL	1	112578380
+UMAG_10718	KIS66849	ustilago_maydis	51.2514	ortholog_one2one	NOR_05029	OAA42180	metarhizium_rileyi_rcef_4871_gca_001636745	50.974	NULL	NULL	NULL	NULL	1	197199709
+UMAG_10719	KIS66850	ustilago_maydis	27.1505	ortholog_one2one	NOR_04417	OAA43842	metarhizium_rileyi_rcef_4871_gca_001636745	32.5806	NULL	NULL	NULL	NULL	0	360112503
+UMAG_05642	KIS66854	ustilago_maydis	46.5576	ortholog_one2one	NOR_01142	OAA50692	metarhizium_rileyi_rcef_4871_gca_001636745	46.4942	NULL	NULL	NULL	NULL	1	151272639

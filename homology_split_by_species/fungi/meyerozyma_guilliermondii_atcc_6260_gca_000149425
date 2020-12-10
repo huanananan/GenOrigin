@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	25.5814	ortholog_one2one	PGUG_03432	EDK39334	meyerozyma_guilliermondii_atcc_6260_gca_000149425	30.8411	NULL	NULL	NULL	NULL	1	114272154
+UMAG_05627	KIS66838	ustilago_maydis	37.4016	ortholog_one2one	PGUG_02996	EDK38898	meyerozyma_guilliermondii_atcc_6260_gca_000149425	44.6009	NULL	NULL	NULL	NULL	1	125171601
+UMAG_05629	KIS66840	ustilago_maydis	13.9332	ortholog_one2one	PGUG_05476	EDK41378	meyerozyma_guilliermondii_atcc_6260_gca_000149425	20.5567	NULL	NULL	NULL	NULL	0	158673689
+UMAG_12019	KIS66842	ustilago_maydis	14.9237	ortholog_one2one	PGUG_05356	EDK41258	meyerozyma_guilliermondii_atcc_6260_gca_000149425	18.7671	NULL	NULL	NULL	NULL	0	161491313
+UMAG_05632	KIS66844	ustilago_maydis	51.4423	ortholog_one2one	PGUG_04065	EDK39967	meyerozyma_guilliermondii_atcc_6260_gca_000149425	58.4699	NULL	NULL	NULL	NULL	1	112572771
+UMAG_05636	KIS66848	ustilago_maydis	12.1908	ortholog_one2one	PGUG_00143	EDK36045	meyerozyma_guilliermondii_atcc_6260_gca_000149425	11.0754	NULL	NULL	NULL	NULL	0	172414897
+UMAG_10720	KIS66851	ustilago_maydis	9.01391	ortholog_one2one	PGUG_01484	EDK37386	meyerozyma_guilliermondii_atcc_6260_gca_000149425	17.823	NULL	NULL	NULL	NULL	0	306953938
+UMAG_05640	KIS66852	ustilago_maydis	30.9524	ortholog_one2one	PGUG_00296	EDK36198	meyerozyma_guilliermondii_atcc_6260_gca_000149425	34.0314	NULL	NULL	NULL	NULL	1	124348364
+UMAG_05641	KIS66853	ustilago_maydis	22.8856	ortholog_one2one	PGUG_01454	EDK37356	meyerozyma_guilliermondii_atcc_6260_gca_000149425	29.2063	NULL	NULL	NULL	NULL	NULL	298277492

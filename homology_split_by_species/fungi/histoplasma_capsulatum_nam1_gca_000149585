@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	HCAG_03523	EDN06992	histoplasma_capsulatum_nam1_gca_000149585	28.0576	NULL	NULL	NULL	NULL	1	114302209
+UMAG_05628	KIS66839	ustilago_maydis	16.4751	ortholog_one2one	HCAG_04345	EDN07835	histoplasma_capsulatum_nam1_gca_000149585	15.8672	NULL	NULL	NULL	NULL	0	109841602
+UMAG_12019	KIS66842	ustilago_maydis	11.8736	ortholog_one2one	HCAG_02921	EDN06318	histoplasma_capsulatum_nam1_gca_000149585	16.428	NULL	NULL	NULL	NULL	0	155970482
+UMAG_15021	KIS66846	ustilago_maydis	38.856	ortholog_one2one	HCAG_01598	EDN03733	histoplasma_capsulatum_nam1_gca_000149585	35.2415	NULL	NULL	NULL	NULL	1	349599950
+UMAG_10718	KIS66849	ustilago_maydis	51.3602	ortholog_one2one	HCAG_08883	EDN05233	histoplasma_capsulatum_nam1_gca_000149585	51.7544	NULL	NULL	NULL	NULL	1	197199272
+UMAG_10719	KIS66850	ustilago_maydis	27.957	ortholog_one2one	HCAG_04906	EDN08407	histoplasma_capsulatum_nam1_gca_000149585	32.9114	NULL	NULL	NULL	NULL	0	360116276
+UMAG_10722	KIS66856	ustilago_maydis	31.1377	ortholog_one2one	HCAG_03641	EDN07110	histoplasma_capsulatum_nam1_gca_000149585	33.657	NULL	NULL	NULL	NULL	NULL	201286968
+UMAG_05656	KIS66871	ustilago_maydis	9.22367	ortholog_one2one	HCAG_05577	EDN09078	histoplasma_capsulatum_nam1_gca_000149585	19.0476	NULL	NULL	NULL	NULL	0	140183388
+UMAG_05658	KIS66872	ustilago_maydis	18.1992	ortholog_one2one	HCAG_06748	EDN09581	histoplasma_capsulatum_nam1_gca_000149585	16.436	NULL	NULL	NULL	NULL	0	63993989

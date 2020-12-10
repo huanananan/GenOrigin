@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05627	KIS66838	ustilago_maydis	37.0079	ortholog_one2one	KLLA0_C06655g	CAH01345	kluyveromyces_lactis_gca_000002515	43.7209	NULL	NULL	NULL	NULL	1	125554421
+UMAG_12019	KIS66842	ustilago_maydis	12.6362	ortholog_one2one	KLLA0_A11594g	CAH03092	kluyveromyces_lactis_gca_000002515	15.1634	NULL	NULL	NULL	NULL	0	161293839
+UMAG_05632	KIS66844	ustilago_maydis	50	ortholog_one2one	KLLA0_D07161g	CAH00476	kluyveromyces_lactis_gca_000002515	57.7778	NULL	NULL	NULL	NULL	1	112585634
+UMAG_05636	KIS66848	ustilago_maydis	12.0141	ortholog_one2one	KLLA0_A07975g	CAH02943	kluyveromyces_lactis_gca_000002515	12.4542	NULL	NULL	NULL	NULL	0	173155770
+UMAG_10720	KIS66851	ustilago_maydis	8.77193	ortholog_one2one	KLLA0_F11319g	CAG98303	kluyveromyces_lactis_gca_000002515	17.2005	NULL	NULL	NULL	NULL	0	307847673
+UMAG_05640	KIS66852	ustilago_maydis	33.8095	ortholog_one2one	KLLA0_F27313g	CAG99003	kluyveromyces_lactis_gca_000002515	37.5661	NULL	NULL	NULL	NULL	1	124408526
+UMAG_05645	KIS66859	ustilago_maydis	31.6964	ortholog_one2one	KLLA0_B10285g	CAH02380	kluyveromyces_lactis_gca_000002515	32.1267	NULL	NULL	NULL	NULL	NULL	236850993
+UMAG_05646	KIS66860	ustilago_maydis	22.0404	ortholog_one2one	KLLA0_E05853g	CAG99297	kluyveromyces_lactis_gca_000002515	36.407	NULL	NULL	NULL	NULL	0	326101198
+UMAG_10724	KIS66865	ustilago_maydis	50	ortholog_one2one	KLLA0_D08437g	CAH00534	kluyveromyces_lactis_gca_000002515	50.3356	NULL	NULL	NULL	NULL	NULL	220393902

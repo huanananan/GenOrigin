@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	12.2581	ortholog_one2many	S40288_04621	KFA80127	stachybotrys_chartarum_ibt_40288_gca_000732765	22.8916	NULL	NULL	NULL	NULL	NULL	259249060
+UMAG_12017	KIS66834	ustilago_maydis	20.3226	ortholog_one2many	S40288_01303	KFA77315	stachybotrys_chartarum_ibt_40288_gca_000732765	31.6583	NULL	NULL	NULL	NULL	NULL	260355270
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	S40288_05620	KFA72389	stachybotrys_chartarum_ibt_40288_gca_000732765	39.8058	NULL	NULL	NULL	NULL	1	114272425
+UMAG_05628	KIS66839	ustilago_maydis	16.4751	ortholog_one2one	S40288_02167	KFA72856	stachybotrys_chartarum_ibt_40288_gca_000732765	15.6364	NULL	NULL	NULL	NULL	0	109825658
+UMAG_05629	KIS66840	ustilago_maydis	16.9811	ortholog_one2one	S40288_09795	KFA70830	stachybotrys_chartarum_ibt_40288_gca_000732765	15.8108	NULL	NULL	NULL	NULL	0	158359094
+UMAG_12019	KIS66842	ustilago_maydis	24.3464	ortholog_one2one	S40288_09170	KFA71382	stachybotrys_chartarum_ibt_40288_gca_000732765	18.2972	NULL	NULL	NULL	NULL	0	153977635
+UMAG_10718	KIS66849	ustilago_maydis	51.3602	ortholog_one2one	S40288_05939	KFA75631	stachybotrys_chartarum_ibt_40288_gca_000732765	51.8112	NULL	NULL	NULL	NULL	1	197198752
+UMAG_10719	KIS66850	ustilago_maydis	27.6882	ortholog_one2one	S40288_05286	KFA77130	stachybotrys_chartarum_ibt_40288_gca_000732765	33.2258	NULL	NULL	NULL	NULL	0	360113434
+UMAG_05644	KIS66858	ustilago_maydis	46.7606	ortholog_one2one	S40288_00197	KFA75318	stachybotrys_chartarum_ibt_40288_gca_000732765	43.7995	NULL	NULL	NULL	NULL	NULL	236510327

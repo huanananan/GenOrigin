@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	41.6129	ortholog_one2one	SEPMUDRAFT_92810	EMF08719	sphaerulina_musiva_so2202_gca_000320565	54.661	NULL	NULL	NULL	NULL	NULL	252719375
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	SEPMUDRAFT_151885	EMF09030	sphaerulina_musiva_so2202_gca_000320565	42	NULL	NULL	NULL	NULL	1	114275387
+UMAG_05628	KIS66839	ustilago_maydis	18.7739	ortholog_one2one	SEPMUDRAFT_166501	EMF08860	sphaerulina_musiva_so2202_gca_000320565	19.5219	NULL	NULL	NULL	NULL	0	109845389
+UMAG_15021	KIS66846	ustilago_maydis	33.5306	ortholog_one2one	SEPMUDRAFT_136899	EMF08092	sphaerulina_musiva_so2202_gca_000320565	34.1365	NULL	NULL	NULL	NULL	0	354514808
+UMAG_10719	KIS66850	ustilago_maydis	29.0323	ortholog_one2one	SEPMUDRAFT_69755	EMF10542	sphaerulina_musiva_so2202_gca_000320565	36.9863	NULL	NULL	NULL	NULL	0	360115191
+UMAG_10722	KIS66856	ustilago_maydis	33.8323	ortholog_one2one	SEPMUDRAFT_149340	EMF12783	sphaerulina_musiva_so2202_gca_000320565	35.4788	NULL	NULL	NULL	NULL	NULL	201271887
+UMAG_05644	KIS66858	ustilago_maydis	50.7042	ortholog_one2one	SEPMUDRAFT_150942	EMF09806	sphaerulina_musiva_so2202_gca_000320565	48.913	NULL	NULL	NULL	NULL	NULL	235779262
+UMAG_05646	KIS66860	ustilago_maydis	20.308	ortholog_one2one	SEPMUDRAFT_31128	EMF16237	sphaerulina_musiva_so2202_gca_000320565	30.8931	NULL	NULL	NULL	NULL	0	327380784
+UMAG_05647	KIS66861	ustilago_maydis	17.7278	ortholog_one2one	SEPMUDRAFT_131183	EMF15507	sphaerulina_musiva_so2202_gca_000320565	28.5714	NULL	NULL	NULL	NULL	0	156452610

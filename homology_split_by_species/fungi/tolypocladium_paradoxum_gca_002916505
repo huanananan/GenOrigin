@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	11.6129	ortholog_one2one	TPAR_07203	POR32592	tolypocladium_paradoxum_gca_002916505	20.8092	NULL	NULL	NULL	NULL	NULL	261611165
+UMAG_05625	KIS66836	ustilago_maydis	27.1318	ortholog_one2one	TPAR_02896	POR36895	tolypocladium_paradoxum_gca_002916505	13.5135	NULL	NULL	NULL	NULL	0	114306200
+UMAG_05628	KIS66839	ustilago_maydis	17.2414	ortholog_one2one	TPAR_08643	POR31135	tolypocladium_paradoxum_gca_002916505	16.0142	NULL	NULL	NULL	NULL	0	109802524
+UMAG_05629	KIS66840	ustilago_maydis	16.2554	ortholog_one2one	TPAR_04646	POR35160	tolypocladium_paradoxum_gca_002916505	15.6206	NULL	NULL	NULL	NULL	0	156915403
+UMAG_12019	KIS66842	ustilago_maydis	24.1285	ortholog_one2one	TPAR_00200	POR39612	tolypocladium_paradoxum_gca_002916505	18.0964	NULL	NULL	NULL	NULL	0	153771122
+UMAG_05632	KIS66844	ustilago_maydis	36.5385	ortholog_one2one	TPAR_05266	POR34519	tolypocladium_paradoxum_gca_002916505	59.375	NULL	NULL	NULL	NULL	1	112590477
+UMAG_10718	KIS66849	ustilago_maydis	50.3808	ortholog_one2one	TPAR_05340	POR34464	tolypocladium_paradoxum_gca_002916505	39.2706	NULL	NULL	NULL	NULL	1	197189979
+UMAG_10719	KIS66850	ustilago_maydis	28.2258	ortholog_one2one	TPAR_01629	POR38177	tolypocladium_paradoxum_gca_002916505	33.9806	NULL	NULL	NULL	NULL	0	360120922
+UMAG_05642	KIS66854	ustilago_maydis	46.5576	ortholog_one2one	TPAR_04928	POR34879	tolypocladium_paradoxum_gca_002916505	46.431	NULL	NULL	NULL	NULL	1	150988261

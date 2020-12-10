@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	38.7597	ortholog_one2one	POSPLDRAFT_42785	EED78369	postia_placenta_mad_698_r_gca_000006255	62.5	NULL	NULL	NULL	NULL	1	109855799
+UMAG_05626	KIS66837	ustilago_maydis	30.137	ortholog_one2one	POSPLDRAFT_88900	EED82860	postia_placenta_mad_698_r_gca_000006255	37.6068	NULL	NULL	NULL	NULL	1	355345179
+UMAG_05629	KIS66840	ustilago_maydis	20.4644	ortholog_one2many	POSPLDRAFT_95841	EED82294	postia_placenta_mad_698_r_gca_000006255	24.6504	NULL	NULL	NULL	NULL	0	152748571
+UMAG_05629	KIS66840	ustilago_maydis	25.254	ortholog_one2many	POSPLDRAFT_91453	EED85989	postia_placenta_mad_698_r_gca_000006255	33.2061	NULL	NULL	NULL	NULL	1	152949507
+UMAG_05629	KIS66840	ustilago_maydis	16.9811	ortholog_one2many	POSPLDRAFT_95839	EED82292	postia_placenta_mad_698_r_gca_000006255	16.6193	NULL	NULL	NULL	NULL	0	153112980
+UMAG_05632	KIS66844	ustilago_maydis	46.6346	ortholog_one2one	POSPLDRAFT_37548	EED77242	postia_placenta_mad_698_r_gca_000006255	72.3881	NULL	NULL	NULL	NULL	1	111321416
+UMAG_10719	KIS66850	ustilago_maydis	29.5699	ortholog_one2one	POSPLDRAFT_90627	EED81558	postia_placenta_mad_698_r_gca_000006255	39.8551	NULL	NULL	NULL	NULL	1	359754758
+UMAG_10720	KIS66851	ustilago_maydis	12.9462	ortholog_one2many	POSPLDRAFT_102354	EED82711	postia_placenta_mad_698_r_gca_000006255	21.7259	NULL	NULL	NULL	NULL	0	305574687
+UMAG_10720	KIS66851	ustilago_maydis	15.4265	ortholog_one2many	POSPLDRAFT_102356	EED82712	postia_placenta_mad_698_r_gca_000006255	21.7949	NULL	NULL	NULL	NULL	0	305582086

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	49.6124	ortholog_one2one	NEOLEDRAFT_1135017	KZT24586	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	59.2593	NULL	NULL	NULL	NULL	1	109954443
+UMAG_05626	KIS66837	ustilago_maydis	30.137	ortholog_one2one	NEOLEDRAFT_1128243	KZT29476	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	27.7603	NULL	NULL	NULL	NULL	1	355351213
+UMAG_05627	KIS66838	ustilago_maydis	44.8819	ortholog_one2one	NEOLEDRAFT_1130318	KZT27833	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	55.6098	NULL	NULL	NULL	NULL	1	122463525
+UMAG_05628	KIS66839	ustilago_maydis	22.6054	ortholog_one2one	NEOLEDRAFT_1138609	KZT22051	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	32.7778	NULL	NULL	NULL	NULL	0	107382707
+UMAG_05629	KIS66840	ustilago_maydis	23.8026	ortholog_one2one	NEOLEDRAFT_1069487	KZT23422	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	35.4212	NULL	NULL	NULL	NULL	0	152727050
+UMAG_12019	KIS66842	ustilago_maydis	28.4858	ortholog_one2one	NEOLEDRAFT_1177220	KZT27051	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	25.2901	NULL	NULL	NULL	NULL	1	148498530
+UMAG_05631	KIS66843	ustilago_maydis	19.0237	ortholog_one2one	NEOLEDRAFT_1175007	KZT29298	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	21.1492	NULL	NULL	NULL	NULL	0	106693475
+UMAG_05632	KIS66844	ustilago_maydis	59.6154	ortholog_one2one	NEOLEDRAFT_1074843	KZT20767	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	67.027	NULL	NULL	NULL	NULL	1	111539702
+UMAG_10718	KIS66849	ustilago_maydis	60.2829	ortholog_one2one	NEOLEDRAFT_1056523	KZT29322	neolentinus_lepideus_hhb14362_ss_1_gca_001632425	62.1773	NULL	NULL	NULL	NULL	1	196528075

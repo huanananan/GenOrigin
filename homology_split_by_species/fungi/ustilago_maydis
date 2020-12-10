@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05621	KIS66831	ustilago_maydis	95.3939	within_species_paralog	UMAG_03635	KIS68548	ustilago_maydis	95.0483	NULL	NULL	NULL	NULL	NULL	30096005
+UMAG_05621	KIS66831	ustilago_maydis	67.5152	within_species_paralog	UMAG_01443	KIS70267	ustilago_maydis	59.764	NULL	NULL	NULL	NULL	NULL	30097657
+UMAG_05621	KIS66831	ustilago_maydis	66.9091	within_species_paralog	UMAG_04693	KIS66631	ustilago_maydis	59.9349	NULL	NULL	NULL	NULL	NULL	30098659
+UMAG_05621	KIS66831	ustilago_maydis	12.7273	within_species_paralog	UMAG_00827	KIS70899	ustilago_maydis	75.5396	NULL	NULL	NULL	NULL	NULL	30104937
+UMAG_05621	KIS66831	ustilago_maydis	12.6061	within_species_paralog	UMAG_03636	KIS68053	ustilago_maydis	41.1067	NULL	NULL	NULL	NULL	NULL	30106366
+UMAG_05621	KIS66831	ustilago_maydis	48.8485	within_species_paralog	UMAG_04689	KIS67590	ustilago_maydis	55.2055	NULL	NULL	NULL	NULL	NULL	30109508
+UMAG_05621	KIS66831	ustilago_maydis	67.1515	within_species_paralog	UMAG_04887	KIS66827	ustilago_maydis	56.8788	NULL	NULL	NULL	NULL	NULL	30115868
+UMAG_05621	KIS66831	ustilago_maydis	63.6364	within_species_paralog	UMAG_05066	KIS67200	ustilago_maydis	54.8589	NULL	NULL	NULL	NULL	NULL	30126451
+UMAG_05621	KIS66831	ustilago_maydis	16.2424	ortholog_many2many	UHOR_04813	CCF52669	ustilago_hordei_gca_000286035	27.1805	NULL	NULL	NULL	NULL	0	30140671

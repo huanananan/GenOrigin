@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	39.5349	ortholog_one2one	GSTUM_00000273001	CAZ79648	tuber_melanosporum	31.875	NULL	NULL	NULL	NULL	1	114300775
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	GSTUM_00007961001	CAZ84000	tuber_melanosporum	20.2335	NULL	NULL	NULL	NULL	0	107820901
+UMAG_12019	KIS66842	ustilago_maydis	25.2179	ortholog_one2one	GSTUM_00004905001	CAZ80986	tuber_melanosporum	20.2537	NULL	NULL	NULL	NULL	0	155019506
+UMAG_05632	KIS66844	ustilago_maydis	41.8269	ortholog_one2one	GSTUM_00005519001	CAZ81901	tuber_melanosporum	64.9254	NULL	NULL	NULL	NULL	1	112588589
+UMAG_15021	KIS66846	ustilago_maydis	41.0256	ortholog_one2one	GSTUM_00005583001	CAZ81943	tuber_melanosporum	42.9752	NULL	NULL	NULL	NULL	1	349601831
+UMAG_10718	KIS66849	ustilago_maydis	49.9456	ortholog_one2one	GSTUM_00005561001	CAZ81926	tuber_melanosporum	51.5152	NULL	NULL	NULL	NULL	1	197209064
+UMAG_10719	KIS66850	ustilago_maydis	29.0323	ortholog_one2one	GSTUM_00008548001	CAZ84355	tuber_melanosporum	35.2941	NULL	NULL	NULL	NULL	0	360112412
+UMAG_05641	KIS66853	ustilago_maydis	32.5871	ortholog_one2one	GSTUM_00009440001	CAZ84943	tuber_melanosporum	41.5873	NULL	NULL	NULL	NULL	NULL	297857514
+UMAG_05642	KIS66854	ustilago_maydis	43.2174	ortholog_one2one	GSTUM_00007904001	CAZ83944	tuber_melanosporum	45.1246	NULL	NULL	NULL	NULL	1	151326915

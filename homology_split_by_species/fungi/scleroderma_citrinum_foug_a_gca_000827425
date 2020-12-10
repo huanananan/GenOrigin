@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	45.7364	ortholog_one2one	SCLCIDRAFT_1219566	KIM57354	scleroderma_citrinum_foug_a_gca_000827425	54.1284	NULL	NULL	NULL	NULL	1	109900364
+UMAG_05626	KIS66837	ustilago_maydis	31.8493	ortholog_one2one	SCLCIDRAFT_127596	KIM58750	scleroderma_citrinum_foug_a_gca_000827425	33.3333	NULL	NULL	NULL	NULL	1	355350720
+UMAG_05627	KIS66838	ustilago_maydis	44.4882	ortholog_one2one	SCLCIDRAFT_906561	KIM61297	scleroderma_citrinum_foug_a_gca_000827425	54.5894	NULL	NULL	NULL	NULL	1	122464362
+UMAG_05628	KIS66839	ustilago_maydis	11.8774	ortholog_one2one	SCLCIDRAFT_1210239	KIM67592	scleroderma_citrinum_foug_a_gca_000827425	40.7895	NULL	NULL	NULL	NULL	0	107382022
+UMAG_05629	KIS66840	ustilago_maydis	23.8026	ortholog_one2one	SCLCIDRAFT_1223456	KIM52719	scleroderma_citrinum_foug_a_gca_000827425	26.3666	NULL	NULL	NULL	NULL	0	152837777
+UMAG_12019	KIS66842	ustilago_maydis	28.3769	ortholog_one2one	SCLCIDRAFT_1209932	KIM67794	scleroderma_citrinum_foug_a_gca_000827425	24.7624	NULL	NULL	NULL	NULL	0	148502116
+UMAG_05631	KIS66843	ustilago_maydis	20.5312	ortholog_one2one	SCLCIDRAFT_13583	KIM68848	scleroderma_citrinum_foug_a_gca_000827425	23.1018	NULL	NULL	NULL	NULL	0	107007716
+UMAG_05632	KIS66844	ustilago_maydis	52.8846	ortholog_one2one	SCLCIDRAFT_105062	KIM68694	scleroderma_citrinum_foug_a_gca_000827425	61.7978	NULL	NULL	NULL	NULL	1	111679563
+UMAG_10718	KIS66849	ustilago_maydis	58.6507	ortholog_one2one	SCLCIDRAFT_880007	KIM68567	scleroderma_citrinum_foug_a_gca_000827425	59.558	NULL	NULL	NULL	NULL	1	196531824

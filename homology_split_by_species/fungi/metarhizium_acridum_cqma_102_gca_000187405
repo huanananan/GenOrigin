@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	MAC_00128	EFY93637	metarhizium_acridum_cqma_102_gca_000187405	41.5842	NULL	NULL	NULL	NULL	1	114259269
+UMAG_05628	KIS66839	ustilago_maydis	19.1571	ortholog_one2one	MAC_04645	EFY89264	metarhizium_acridum_cqma_102_gca_000187405	17.9211	NULL	NULL	NULL	NULL	0	109819086
+UMAG_05629	KIS66840	ustilago_maydis	16.5457	ortholog_one2one	MAC_03486	EFY90492	metarhizium_acridum_cqma_102_gca_000187405	15.7459	NULL	NULL	NULL	NULL	0	158946533
+UMAG_12019	KIS66842	ustilago_maydis	24.1285	ortholog_one2one	MAC_07834	EFY86100	metarhizium_acridum_cqma_102_gca_000187405	18.5201	NULL	NULL	NULL	NULL	0	153065305
+UMAG_05632	KIS66844	ustilago_maydis	42.7885	ortholog_one2one	MAC_07819	EFY86154	metarhizium_acridum_cqma_102_gca_000187405	44.7236	NULL	NULL	NULL	NULL	1	112593909
+UMAG_10718	KIS66849	ustilago_maydis	50.5985	ortholog_one2one	MAC_03818	EFY90060	metarhizium_acridum_cqma_102_gca_000187405	49.9463	NULL	NULL	NULL	NULL	1	197206433
+UMAG_10719	KIS66850	ustilago_maydis	22.043	ortholog_one2many	MAC_09649	EFY84298	metarhizium_acridum_cqma_102_gca_000187405	25.2308	NULL	NULL	NULL	NULL	0	360113037
+UMAG_10719	KIS66850	ustilago_maydis	27.1505	ortholog_one2many	MAC_06556	EFY87448	metarhizium_acridum_cqma_102_gca_000187405	32.5806	NULL	NULL	NULL	NULL	0	360120829
+UMAG_10722	KIS66856	ustilago_maydis	34.2814	ortholog_one2one	MAC_07729	EFY86206	metarhizium_acridum_cqma_102_gca_000187405	29.0241	NULL	NULL	NULL	NULL	NULL	201253373

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05627	KIS66838	ustilago_maydis	37.0079	ortholog_one2one	NCAS_0A12000	CCC67758	naumovozyma_castellii_cbs_4309_gca_000237345	43.7209	NULL	NULL	NULL	NULL	1	125500378
+UMAG_12019	KIS66842	ustilago_maydis	14.2702	ortholog_one2one	NCAS_0G02250	CCC71112	naumovozyma_castellii_cbs_4309_gca_000237345	16.2229	NULL	NULL	NULL	NULL	0	158756265
+UMAG_05632	KIS66844	ustilago_maydis	46.6346	ortholog_one2many	NCAS_0B01390	CCC68223	naumovozyma_castellii_cbs_4309_gca_000237345	60.625	NULL	NULL	NULL	NULL	1	112582280
+UMAG_05632	KIS66844	ustilago_maydis	47.1154	ortholog_one2many	NCAS_0C01540	CCC69144	naumovozyma_castellii_cbs_4309_gca_000237345	60.8696	NULL	NULL	NULL	NULL	1	112584811
+UMAG_05636	KIS66848	ustilago_maydis	11.3074	ortholog_one2one	NCAS_0G00430	CCC70930	naumovozyma_castellii_cbs_4309_gca_000237345	9.96885	NULL	NULL	NULL	NULL	0	172939743
+UMAG_05640	KIS66852	ustilago_maydis	33.3333	ortholog_one2one	NCAS_0A03620	CCC66920	naumovozyma_castellii_cbs_4309_gca_000237345	30.303	NULL	NULL	NULL	NULL	1	124857435
+UMAG_05645	KIS66859	ustilago_maydis	32.1429	ortholog_one2one	NCAS_0D04280	CCC70009	naumovozyma_castellii_cbs_4309_gca_000237345	32	NULL	NULL	NULL	NULL	NULL	236085594
+UMAG_05646	KIS66860	ustilago_maydis	20.9817	ortholog_one2one	NCAS_0H00430	CCC71353	naumovozyma_castellii_cbs_4309_gca_000237345	33.4869	NULL	NULL	NULL	NULL	0	324396553
+UMAG_10724	KIS66865	ustilago_maydis	48.6667	ortholog_one2one	NCAS_0G01810	CCC71068	naumovozyma_castellii_cbs_4309_gca_000237345	48.9933	NULL	NULL	NULL	NULL	NULL	221200456

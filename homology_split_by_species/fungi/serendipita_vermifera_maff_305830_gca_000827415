@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	41.8605	ortholog_one2one	M408DRAFT_328741	KIM29486	serendipita_vermifera_maff_305830_gca_000827415	20.3774	NULL	NULL	NULL	NULL	0	109960442
+UMAG_05626	KIS66837	ustilago_maydis	28.4247	ortholog_one2one	M408DRAFT_177752	KIM26789	serendipita_vermifera_maff_305830_gca_000827415	34.0164	NULL	NULL	NULL	NULL	1	355344715
+UMAG_05627	KIS66838	ustilago_maydis	45.2756	ortholog_one2one	M408DRAFT_93534	KIM34294	serendipita_vermifera_maff_305830_gca_000827415	58.0808	NULL	NULL	NULL	NULL	1	122466170
+UMAG_05628	KIS66839	ustilago_maydis	22.9885	ortholog_one2one	M408DRAFT_326294	KIM33621	serendipita_vermifera_maff_305830_gca_000827415	27.5229	NULL	NULL	NULL	NULL	0	107393294
+UMAG_05629	KIS66840	ustilago_maydis	23.9478	ortholog_one2one	M408DRAFT_329071	KIM29046	serendipita_vermifera_maff_305830_gca_000827415	30.4991	NULL	NULL	NULL	NULL	0	153126619
+UMAG_12019	KIS66842	ustilago_maydis	24.4009	ortholog_one2one	M408DRAFT_24454	KIM27521	serendipita_vermifera_maff_305830_gca_000827415	23.2365	NULL	NULL	NULL	NULL	0	148493153
+UMAG_05631	KIS66843	ustilago_maydis	19.1673	ortholog_one2one	M408DRAFT_330906	KIM25909	serendipita_vermifera_maff_305830_gca_000827415	21.0071	NULL	NULL	NULL	NULL	0	106964225
+UMAG_05632	KIS66844	ustilago_maydis	31.7308	ortholog_one2one	M408DRAFT_326082	KIM33322	serendipita_vermifera_maff_305830_gca_000827415	62.8571	NULL	NULL	NULL	NULL	1	111268457
+UMAG_15021	KIS66846	ustilago_maydis	43.3925	ortholog_one2one	M408DRAFT_16780	KIM26945	serendipita_vermifera_maff_305830_gca_000827415	45.1745	NULL	NULL	NULL	NULL	1	347489840

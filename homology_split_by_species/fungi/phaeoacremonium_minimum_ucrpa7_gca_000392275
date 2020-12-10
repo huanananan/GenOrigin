@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	UCRPA7_1964	EOO02581	phaeoacremonium_minimum_ucrpa7_gca_000392275	39.3939	NULL	NULL	NULL	NULL	1	114274810
+UMAG_05628	KIS66839	ustilago_maydis	10.728	ortholog_one2one	UCRPA7_2489	EOO02007	phaeoacremonium_minimum_ucrpa7_gca_000392275	14.6597	NULL	NULL	NULL	NULL	0	109820787
+UMAG_05629	KIS66840	ustilago_maydis	12.9173	ortholog_one2one	UCRPA7_779	EOO03698	phaeoacremonium_minimum_ucrpa7_gca_000392275	21.4458	NULL	NULL	NULL	NULL	0	160730044
+UMAG_12019	KIS66842	ustilago_maydis	19.9346	ortholog_one2one	UCRPA7_1361	EOO03102	phaeoacremonium_minimum_ucrpa7_gca_000392275	24.6797	NULL	NULL	NULL	NULL	0	156369537
+UMAG_15021	KIS66846	ustilago_maydis	39.0533	ortholog_one2one	UCRPA7_4414	EOO00099	phaeoacremonium_minimum_ucrpa7_gca_000392275	40	NULL	NULL	NULL	NULL	1	349578800
+UMAG_10719	KIS66850	ustilago_maydis	27.1505	ortholog_one2many	UCRPA7_4458	EOO00074	phaeoacremonium_minimum_ucrpa7_gca_000392275	30.0595	NULL	NULL	NULL	NULL	0	360117332
+UMAG_10719	KIS66850	ustilago_maydis	24.4624	ortholog_one2many	UCRPA7_6000	EON98434	phaeoacremonium_minimum_ucrpa7_gca_000392275	28.9809	NULL	NULL	NULL	NULL	0	360122056
+UMAG_05642	KIS66854	ustilago_maydis	47.1711	ortholog_one2one	UCRPA7_2289	EOO02215	phaeoacremonium_minimum_ucrpa7_gca_000392275	46.568	NULL	NULL	NULL	NULL	1	150975306
+UMAG_05644	KIS66858	ustilago_maydis	45.0704	ortholog_one2one	UCRPA7_6382	EON98151	phaeoacremonium_minimum_ucrpa7_gca_000392275	48.1928	NULL	NULL	NULL	NULL	NULL	235957587

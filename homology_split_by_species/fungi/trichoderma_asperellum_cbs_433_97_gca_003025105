@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	21.2903	ortholog_one2one	M441DRAFT_453462	PTB43940	trichoderma_asperellum_cbs_433_97_gca_003025105	25.8824	NULL	NULL	NULL	NULL	NULL	261703111
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	M441DRAFT_132391	PTB44771	trichoderma_asperellum_cbs_433_97_gca_003025105	42.5743	NULL	NULL	NULL	NULL	1	114269300
+UMAG_05628	KIS66839	ustilago_maydis	18.0077	ortholog_one2one	M441DRAFT_24772	PTB44642	trichoderma_asperellum_cbs_433_97_gca_003025105	15.3094	NULL	NULL	NULL	NULL	0	109802956
+UMAG_05629	KIS66840	ustilago_maydis	15.5298	ortholog_one2one	M441DRAFT_44194	PTB44095	trichoderma_asperellum_cbs_433_97_gca_003025105	14.538	NULL	NULL	NULL	NULL	0	160653783
+UMAG_12019	KIS66842	ustilago_maydis	23.6928	ortholog_one2one	M441DRAFT_402686	PTB41674	trichoderma_asperellum_cbs_433_97_gca_003025105	17.5971	NULL	NULL	NULL	NULL	0	153852515
+UMAG_10719	KIS66850	ustilago_maydis	27.1505	ortholog_one2one	M441DRAFT_189454	PTB43481	trichoderma_asperellum_cbs_433_97_gca_003025105	32.4759	NULL	NULL	NULL	NULL	0	360121996
+UMAG_10722	KIS66856	ustilago_maydis	35.0299	ortholog_one2one	M441DRAFT_61534	PTB36809	trichoderma_asperellum_cbs_433_97_gca_003025105	38.9351	NULL	NULL	NULL	NULL	NULL	201288671
+UMAG_05644	KIS66858	ustilago_maydis	40.5634	ortholog_one2many	M441DRAFT_151661	PTB36275	trichoderma_asperellum_cbs_433_97_gca_003025105	36.3636	NULL	NULL	NULL	NULL	NULL	236889712
+UMAG_05644	KIS66858	ustilago_maydis	45.9155	ortholog_one2many	M441DRAFT_71466	PTB37991	trichoderma_asperellum_cbs_433_97_gca_003025105	45.9155	NULL	NULL	NULL	NULL	NULL	238286891

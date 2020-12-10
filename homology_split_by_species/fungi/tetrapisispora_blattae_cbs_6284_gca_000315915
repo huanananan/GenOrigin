@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05627	KIS66838	ustilago_maydis	36.6142	ortholog_one2one	TBLA_0A02490	CCH58048	tetrapisispora_blattae_cbs_6284_gca_000315915	43.2558	NULL	NULL	NULL	NULL	1	125422736
+UMAG_12019	KIS66842	ustilago_maydis	12.6362	ortholog_one2one	TBLA_0D00320	CCH60542	tetrapisispora_blattae_cbs_6284_gca_000315915	13.8839	NULL	NULL	NULL	NULL	0	159191710
+UMAG_05632	KIS66844	ustilago_maydis	46.6346	ortholog_one2one	TBLA_0D03900	CCH60889	tetrapisispora_blattae_cbs_6284_gca_000315915	63.3987	NULL	NULL	NULL	NULL	1	112585089
+UMAG_05636	KIS66848	ustilago_maydis	11.1307	ortholog_one2one	TBLA_0E00900	CCH61151	tetrapisispora_blattae_cbs_6284_gca_000315915	8.83591	NULL	NULL	NULL	NULL	0	173068431
+UMAG_10720	KIS66851	ustilago_maydis	9.98185	ortholog_one2one	TBLA_0B03860	CCH59225	tetrapisispora_blattae_cbs_6284_gca_000315915	16.7004	NULL	NULL	NULL	NULL	0	307046506
+UMAG_05640	KIS66852	ustilago_maydis	30.9524	ortholog_one2one	TBLA_0D02700	CCH60773	tetrapisispora_blattae_cbs_6284_gca_000315915	33.6788	NULL	NULL	NULL	NULL	1	124653958
+UMAG_05645	KIS66859	ustilago_maydis	30.3571	ortholog_one2one	TBLA_0G01760	CCH62119	tetrapisispora_blattae_cbs_6284_gca_000315915	29.6943	NULL	NULL	NULL	NULL	NULL	236197510
+UMAG_05646	KIS66860	ustilago_maydis	20.1155	ortholog_one2one	TBLA_0F02770	CCH61816	tetrapisispora_blattae_cbs_6284_gca_000315915	24.6753	NULL	NULL	NULL	NULL	0	325588132
+UMAG_10724	KIS66865	ustilago_maydis	47.3333	ortholog_one2one	TBLA_0B09750	CCH59791	tetrapisispora_blattae_cbs_6284_gca_000315915	47.973	NULL	NULL	NULL	NULL	NULL	220873920

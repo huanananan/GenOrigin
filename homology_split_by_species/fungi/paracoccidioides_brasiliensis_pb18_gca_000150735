@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	PADG_05905	EEH49826	paracoccidioides_brasiliensis_pb18_gca_000150735	28.0576	NULL	NULL	NULL	NULL	1	114265645
+UMAG_05628	KIS66839	ustilago_maydis	20.3065	ortholog_one2one	PADG_04238	EEH48154	paracoccidioides_brasiliensis_pb18_gca_000150735	18.7279	NULL	NULL	NULL	NULL	0	109828730
+UMAG_15021	KIS66846	ustilago_maydis	43.3925	ortholog_one2many	PADG_01684	EEH45534	paracoccidioides_brasiliensis_pb18_gca_000150735	40.4412	NULL	NULL	NULL	NULL	1	349602484
+UMAG_15021	KIS66846	ustilago_maydis	36.8836	ortholog_one2many	PADG_08430	EEH43505	paracoccidioides_brasiliensis_pb18_gca_000150735	39.6186	NULL	NULL	NULL	NULL	1	349602988
+UMAG_10719	KIS66850	ustilago_maydis	30.3763	ortholog_one2one	PADG_02407	EEH46309	paracoccidioides_brasiliensis_pb18_gca_000150735	35.4232	NULL	NULL	NULL	NULL	0	360116744
+UMAG_10722	KIS66856	ustilago_maydis	32.9341	ortholog_one2one	PADG_03834	EEH47750	paracoccidioides_brasiliensis_pb18_gca_000150735	36.3636	NULL	NULL	NULL	NULL	NULL	201297074
+UMAG_05644	KIS66858	ustilago_maydis	44.2254	ortholog_one2one	PADG_01454	EEH45304	paracoccidioides_brasiliensis_pb18_gca_000150735	44.1011	NULL	NULL	NULL	NULL	NULL	237746337
+UMAG_05656	KIS66871	ustilago_maydis	9.3774	ortholog_one2one	PADG_08313	EEH43388	paracoccidioides_brasiliensis_pb18_gca_000150735	20.2995	NULL	NULL	NULL	NULL	0	140177812
+UMAG_05658	KIS66872	ustilago_maydis	21.0728	ortholog_one2one	PADG_00733	EEH44444	paracoccidioides_brasiliensis_pb18_gca_000150735	18.8679	NULL	NULL	NULL	NULL	0	63958721

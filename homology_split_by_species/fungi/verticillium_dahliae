@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+YAL067C	YAL067C	saccharomyces_cerevisiae	23.7774	ortholog_one2many	VDAG_09819	EGY19359	verticillium_dahliae	28.4274	NULL	NULL	NULL	NULL	NULL	246937620
+YAL053W	YAL053W	saccharomyces_cerevisiae	16.7305	ortholog_one2many	VDAG_08767	EGY18433	verticillium_dahliae	18.8489	NULL	NULL	NULL	NULL	0	164768127
+YAL046C	YAL046C	saccharomyces_cerevisiae	34.7458	ortholog_one2one	VDAG_03687	EGY22249	verticillium_dahliae	27.3333	NULL	NULL	NULL	NULL	1	92568454
+YAL043C	YAL043C	saccharomyces_cerevisiae	15.9236	ortholog_one2one	VDAG_03300	EGY21860	verticillium_dahliae	17.3853	NULL	NULL	NULL	NULL	NULL	263652912
+YAL038W	YAL038W	saccharomyces_cerevisiae	62	ortholog_one2many	VDAG_01206	EGY17524	verticillium_dahliae	58.8235	NULL	NULL	NULL	NULL	NULL	225012905
+YAL034C	YAL034C	saccharomyces_cerevisiae	21.7918	ortholog_one2many	VDAG_01653	EGY19637	verticillium_dahliae	23.2558	NULL	NULL	NULL	NULL	0	103850333
+YAL026C	YAL026C	saccharomyces_cerevisiae	51.7343	ortholog_one2one	VDAG_06574	EGY15084	verticillium_dahliae	50.9448	NULL	NULL	NULL	NULL	NULL	278539082
+YAL024C	YAL024C	saccharomyces_cerevisiae	0.696864	ortholog_one2one	VDAG_07087	EGY15923	verticillium_dahliae	6.94444	NULL	NULL	NULL	NULL	0	194006501
+YAL023C	YAL023C	saccharomyces_cerevisiae	47.9578	ortholog_one2many	VDAG_03930	EGY22492	verticillium_dahliae	48.9247	NULL	NULL	NULL	NULL	NULL	215499101

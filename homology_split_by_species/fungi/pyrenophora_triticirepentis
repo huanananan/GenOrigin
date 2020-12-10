@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	22.5806	ortholog_one2one	PTRG_08718	EDU41769	pyrenophora_triticirepentis	29.661	NULL	NULL	NULL	NULL	NULL	260437536
+UMAG_05625	KIS66836	ustilago_maydis	34.1085	ortholog_one2one	PTRG_03282	EDU45805	pyrenophora_triticirepentis	44.4444	NULL	NULL	NULL	NULL	1	114259765
+UMAG_05628	KIS66839	ustilago_maydis	21.0728	ortholog_one2one	PTRG_06270	EDU49190	pyrenophora_triticirepentis	20.1465	NULL	NULL	NULL	NULL	0	109821598
+UMAG_15021	KIS66846	ustilago_maydis	46.7456	ortholog_one2one	PTRG_02351	EDU44874	pyrenophora_triticirepentis	48.6653	NULL	NULL	NULL	NULL	1	349590324
+UMAG_10722	KIS66856	ustilago_maydis	34.8802	ortholog_one2one	PTRG_11445	EDU44495	pyrenophora_triticirepentis	40.8772	NULL	NULL	NULL	NULL	NULL	201295400
+UMAG_05644	KIS66858	ustilago_maydis	47.3239	ortholog_one2one	PTRG_00278	EDU39716	pyrenophora_triticirepentis	47.0588	NULL	NULL	NULL	NULL	NULL	238149089
+UMAG_05647	KIS66861	ustilago_maydis	19.975	ortholog_one2one	PTRG_00594	EDU40032	pyrenophora_triticirepentis	35.0109	NULL	NULL	NULL	NULL	0	156476355
+UMAG_05656	KIS66871	ustilago_maydis	10.3766	ortholog_one2one	PTRG_03871	EDU46709	pyrenophora_triticirepentis	20.1493	NULL	NULL	NULL	NULL	0	140199500
+UMAG_05658	KIS66872	ustilago_maydis	22.0307	ortholog_one2one	PTRG_02386	EDU44909	pyrenophora_triticirepentis	23.614	NULL	NULL	NULL	NULL	0	63965661

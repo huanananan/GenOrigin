@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	44.186	ortholog_one2one	PLEOSDRAFT_1055720	KDQ29732	pleurotus_ostreatus_pc15_gca_000697685	53.271	NULL	NULL	NULL	NULL	1	110016250
+UMAG_05626	KIS66837	ustilago_maydis	32.5342	ortholog_one2one	PLEOSDRAFT_1089246	KDQ29771	pleurotus_ostreatus_pc15_gca_000697685	28.3582	NULL	NULL	NULL	NULL	1	355352794
+UMAG_05627	KIS66838	ustilago_maydis	43.3071	ortholog_one2one	PLEOSDRAFT_1113316	KDQ27018	pleurotus_ostreatus_pc15_gca_000697685	52.8846	NULL	NULL	NULL	NULL	1	122462795
+UMAG_05628	KIS66839	ustilago_maydis	23.7548	ortholog_one2one	PLEOSDRAFT_1046437	KDQ24425	pleurotus_ostreatus_pc15_gca_000697685	33.6957	NULL	NULL	NULL	NULL	0	107389564
+UMAG_05629	KIS66840	ustilago_maydis	15.2395	ortholog_one2one	PLEOSDRAFT_1090172	KDQ25850	pleurotus_ostreatus_pc15_gca_000697685	46.875	NULL	NULL	NULL	NULL	0	153070376
+UMAG_12019	KIS66842	ustilago_maydis	28.8671	ortholog_one2one	PLEOSDRAFT_1112056	KDQ29033	pleurotus_ostreatus_pc15_gca_000697685	25.5176	NULL	NULL	NULL	NULL	1	148497660
+UMAG_05631	KIS66843	ustilago_maydis	19.6698	ortholog_one2one	PLEOSDRAFT_1103336	KDQ29308	pleurotus_ostreatus_pc15_gca_000697685	21.142	NULL	NULL	NULL	NULL	0	107040102
+UMAG_15021	KIS66846	ustilago_maydis	42.8008	ortholog_one2many	PLEOSDRAFT_30340	KDQ26566	pleurotus_ostreatus_pc15_gca_000697685	45.5882	NULL	NULL	NULL	NULL	1	347490016
+UMAG_15021	KIS66846	ustilago_maydis	42.0118	ortholog_one2many	PLEOSDRAFT_1102187	KDQ31207	pleurotus_ostreatus_pc15_gca_000697685	44.2827	NULL	NULL	NULL	NULL	1	347490290

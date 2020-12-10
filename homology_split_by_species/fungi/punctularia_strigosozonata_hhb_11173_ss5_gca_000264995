@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_10720	KIS66851	ustilago_maydis	16.5154	ortholog_one2one	PUNSTDRAFT_55427	EIN04721	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	20.9356	NULL	NULL	NULL	NULL	0	305596040
+UMAG_05676	KIS66891	ustilago_maydis	26.3359	ortholog_one2many	PUNSTDRAFT_139507	EIN03513	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	32.7014	NULL	NULL	NULL	NULL	1	166547261
+UMAG_05676	KIS66891	ustilago_maydis	28.626	ortholog_one2many	PUNSTDRAFT_93622	EIN03876	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	33.9367	NULL	NULL	NULL	NULL	1	166547942
+UMAG_10738	KIS66900	ustilago_maydis	31.1266	ortholog_one2one	PUNSTDRAFT_92329	EIN04885	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	33.7107	NULL	NULL	NULL	NULL	1	117750532
+UMAG_05700	KIS66916	ustilago_maydis	22.7459	ortholog_one2many	PUNSTDRAFT_116641	EIN04183	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	12.2517	NULL	NULL	NULL	NULL	0	17384990
+UMAG_05700	KIS66916	ustilago_maydis	23.3607	ortholog_one2many	PUNSTDRAFT_146661	EIN04175	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	17.1429	NULL	NULL	NULL	NULL	0	17660673
+UMAG_05709	KIS66925	ustilago_maydis	44.4169	ortholog_one2one	PUNSTDRAFT_55922	EIN03826	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	53.1157	NULL	NULL	NULL	NULL	1	113181264
+UMAG_05718	KIS66936	ustilago_maydis	30.3387	ortholog_one2many	PUNSTDRAFT_75773	EIN04597	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	34.2193	NULL	NULL	NULL	NULL	NULL	294024321
+UMAG_05739	KIS66956	ustilago_maydis	25.2358	ortholog_one2one	PUNSTDRAFT_116743	EIN04025	punctularia_strigosozonata_hhb_11173_ss5_gca_000264995	35.1396	NULL	NULL	NULL	NULL	1	307328489

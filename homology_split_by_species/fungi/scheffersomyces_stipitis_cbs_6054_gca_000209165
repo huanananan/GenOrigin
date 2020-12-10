@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	24.031	ortholog_one2one	PICST_79236	ABN67837	scheffersomyces_stipitis_cbs_6054_gca_000209165	28.972	NULL	NULL	NULL	NULL	0	114258259
+UMAG_05627	KIS66838	ustilago_maydis	39.7638	ortholog_one2one	PICST_66841	ABN64312	scheffersomyces_stipitis_cbs_6054_gca_000209165	46.5438	NULL	NULL	NULL	NULL	1	124059546
+UMAG_05629	KIS66840	ustilago_maydis	15.0943	ortholog_one2one	PICST_74592	EAZ63257	scheffersomyces_stipitis_cbs_6054_gca_000209165	21.6667	NULL	NULL	NULL	NULL	0	159417668
+UMAG_12019	KIS66842	ustilago_maydis	15.6318	ortholog_one2one	PICST_58253	ABN65984	scheffersomyces_stipitis_cbs_6054_gca_000209165	18.2338	NULL	NULL	NULL	NULL	0	158376267
+UMAG_05632	KIS66844	ustilago_maydis	50	ortholog_one2one	PICST_41017	ABN65049	scheffersomyces_stipitis_cbs_6054_gca_000209165	57.1429	NULL	NULL	NULL	NULL	1	112593691
+UMAG_05636	KIS66848	ustilago_maydis	12.7208	ortholog_one2one	PICST_85276	ABN68010	scheffersomyces_stipitis_cbs_6054_gca_000209165	14.2012	NULL	NULL	NULL	NULL	0	172735555
+UMAG_10720	KIS66851	ustilago_maydis	9.43739	ortholog_one2one	PICST_67669	ABN66556	scheffersomyces_stipitis_cbs_6054_gca_000209165	16.25	NULL	NULL	NULL	NULL	0	306528992
+UMAG_05640	KIS66852	ustilago_maydis	31.9048	ortholog_one2one	PICST_85787	ABN68508	scheffersomyces_stipitis_cbs_6054_gca_000209165	35.2632	NULL	NULL	NULL	NULL	1	123344212
+UMAG_05641	KIS66853	ustilago_maydis	23.6318	ortholog_one2one	PICST_83712	ABN66895	scheffersomyces_stipitis_cbs_6054_gca_000209165	28.8754	NULL	NULL	NULL	NULL	NULL	298278521

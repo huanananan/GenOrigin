@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	38.7097	ortholog_one2many	MYCFIDRAFT_216820	EME77595	pseudocercospora_fijiensis_cirad86_gca_000340215	51.9481	NULL	NULL	NULL	NULL	NULL	252718883
+UMAG_12017	KIS66834	ustilago_maydis	39.0323	ortholog_one2many	MYCFIDRAFT_121120	EME89158	pseudocercospora_fijiensis_cirad86_gca_000340215	65.0538	NULL	NULL	NULL	NULL	NULL	252723370
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	MYCFIDRAFT_191072	EME77612	pseudocercospora_fijiensis_cirad86_gca_000340215	42	NULL	NULL	NULL	NULL	1	114294430
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	MYCFIDRAFT_63880	EME78095	pseudocercospora_fijiensis_cirad86_gca_000340215	20.7171	NULL	NULL	NULL	NULL	0	109806416
+UMAG_15021	KIS66846	ustilago_maydis	32.1499	ortholog_one2many	MYCFIDRAFT_152793	EME84568	pseudocercospora_fijiensis_cirad86_gca_000340215	33.6082	NULL	NULL	NULL	NULL	0	354352295
+UMAG_15021	KIS66846	ustilago_maydis	33.1361	ortholog_one2many	MYCFIDRAFT_63186	EME86963	pseudocercospora_fijiensis_cirad86_gca_000340215	33.9394	NULL	NULL	NULL	NULL	0	354392956
+UMAG_10718	KIS66849	ustilago_maydis	49.9456	ortholog_one2one	MYCFIDRAFT_203370	EME82706	pseudocercospora_fijiensis_cirad86_gca_000340215	50.8869	NULL	NULL	NULL	NULL	1	197207185
+UMAG_10719	KIS66850	ustilago_maydis	29.8387	ortholog_one2one	MYCFIDRAFT_85270	EME85205	pseudocercospora_fijiensis_cirad86_gca_000340215	37.7551	NULL	NULL	NULL	NULL	0	360112039
+UMAG_10722	KIS66856	ustilago_maydis	33.5329	ortholog_one2one	MYCFIDRAFT_198002	EME81219	pseudocercospora_fijiensis_cirad86_gca_000340215	39.8577	NULL	NULL	NULL	NULL	NULL	201266881

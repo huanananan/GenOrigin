@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05627	KIS66838	ustilago_maydis	36.2205	ortholog_one2one	KAFR_0E03540	CCF58505	kazachstania_africana_cbs_2517_gca_000304475	42.5926	NULL	NULL	NULL	NULL	1	124786506
+UMAG_12019	KIS66842	ustilago_maydis	14.1612	ortholog_one2one	KAFR_0J02300	CCF60294	kazachstania_africana_cbs_2517_gca_000304475	17.038	NULL	NULL	NULL	NULL	0	158024072
+UMAG_05632	KIS66844	ustilago_maydis	48.5577	ortholog_one2many	KAFR_0G01870	CCF59221	kazachstania_africana_cbs_2517_gca_000304475	63.522	NULL	NULL	NULL	NULL	1	112580591
+UMAG_05632	KIS66844	ustilago_maydis	48.0769	ortholog_one2many	KAFR_0H02580	CCF59667	kazachstania_africana_cbs_2517_gca_000304475	57.8035	NULL	NULL	NULL	NULL	1	112590239
+UMAG_05636	KIS66848	ustilago_maydis	11.1307	ortholog_one2one	KAFR_0D02420	CCF57889	kazachstania_africana_cbs_2517_gca_000304475	9.78261	NULL	NULL	NULL	NULL	0	173279351
+UMAG_10720	KIS66851	ustilago_maydis	8.95342	ortholog_one2one	KAFR_0H02510	CCF59660	kazachstania_africana_cbs_2517_gca_000304475	16.8373	NULL	NULL	NULL	NULL	0	307353642
+UMAG_05640	KIS66852	ustilago_maydis	27.619	ortholog_one2one	KAFR_0B01780	CCF56477	kazachstania_africana_cbs_2517_gca_000304475	30.5263	NULL	NULL	NULL	NULL	1	124028454
+UMAG_05645	KIS66859	ustilago_maydis	34.8214	ortholog_one2one	KAFR_0J02350	CCF60299	kazachstania_africana_cbs_2517_gca_000304475	35.7798	NULL	NULL	NULL	NULL	NULL	236534178
+UMAG_10724	KIS66865	ustilago_maydis	46.6667	ortholog_one2one	KAFR_0A07570	CCF56191	kazachstania_africana_cbs_2517_gca_000304475	46.9799	NULL	NULL	NULL	NULL	NULL	220819843

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+YAL061W	YAL061W	saccharomyces_cerevisiae	29.4964	ortholog_many2many	WOLCODRAFT_92136	PCH36785	wolfiporia_cocos_md_104_ss10_gca_000344635	34.2618	NULL	NULL	NULL	NULL	0	340621523
+YAL061W	YAL061W	saccharomyces_cerevisiae	28.777	ortholog_many2many	WOLCODRAFT_157473	PCH36784	wolfiporia_cocos_md_104_ss10_gca_000344635	32.8767	NULL	NULL	NULL	NULL	0	340625303
+YAL061W	YAL061W	saccharomyces_cerevisiae	31.6547	ortholog_many2many	WOLCODRAFT_158213	PCH37496	wolfiporia_cocos_md_104_ss10_gca_000344635	34.375	NULL	NULL	NULL	NULL	0	340627877
+YAL060W	YAL060W	saccharomyces_cerevisiae	33.5079	ortholog_many2many	WOLCODRAFT_92136	PCH36785	wolfiporia_cocos_md_104_ss10_gca_000344635	35.6546	NULL	NULL	NULL	NULL	0	341021745
+YAL060W	YAL060W	saccharomyces_cerevisiae	35.8639	ortholog_many2many	WOLCODRAFT_157473	PCH36784	wolfiporia_cocos_md_104_ss10_gca_000344635	37.5342	NULL	NULL	NULL	NULL	0	341025635
+YAL060W	YAL060W	saccharomyces_cerevisiae	34.555	ortholog_many2many	WOLCODRAFT_158213	PCH37496	wolfiporia_cocos_md_104_ss10_gca_000344635	34.375	NULL	NULL	NULL	NULL	0	341028583
+YAL058W	YAL058W	saccharomyces_cerevisiae	28.0877	ortholog_one2one	WOLCODRAFT_22456	PCH34096	wolfiporia_cocos_md_104_ss10_gca_000344635	25.7299	NULL	NULL	NULL	NULL	0	139752202
+YAL054C	YAL054C	saccharomyces_cerevisiae	51.0519	ortholog_one2many	WOLCODRAFT_28777	PCH36830	wolfiporia_cocos_md_104_ss10_gca_000344635	55.0681	NULL	NULL	NULL	NULL	NULL	288572443
+YAL053W	YAL053W	saccharomyces_cerevisiae	17.8799	ortholog_one2many	WOLCODRAFT_138510	PCH43665	wolfiporia_cocos_md_104_ss10_gca_000344635	17.5219	NULL	NULL	NULL	NULL	0	168487949

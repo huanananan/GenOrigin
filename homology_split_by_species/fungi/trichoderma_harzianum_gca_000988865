@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	20	ortholog_one2many	THAR02_02997	KKP04896	trichoderma_harzianum_gca_000988865	28.8372	NULL	NULL	NULL	NULL	NULL	258513819
+UMAG_12017	KIS66834	ustilago_maydis	17.0968	ortholog_one2many	THAR02_08404	KKO99489	trichoderma_harzianum_gca_000988865	22.8448	NULL	NULL	NULL	NULL	NULL	262049175
+UMAG_05628	KIS66839	ustilago_maydis	18.0077	ortholog_one2one	THAR02_00121	KKP07732	trichoderma_harzianum_gca_000988865	15.3595	NULL	NULL	NULL	NULL	0	109842286
+UMAG_05629	KIS66840	ustilago_maydis	15.9652	ortholog_one2one	THAR02_05628	KKP02264	trichoderma_harzianum_gca_000988865	14.9457	NULL	NULL	NULL	NULL	0	159913305
+UMAG_12019	KIS66842	ustilago_maydis	24.0741	ortholog_one2one	THAR02_09084	KKO98815	trichoderma_harzianum_gca_000988865	17.7225	NULL	NULL	NULL	NULL	0	156773217
+UMAG_10718	KIS66849	ustilago_maydis	50.3808	ortholog_one2one	THAR02_03796	KKP04070	trichoderma_harzianum_gca_000988865	38.9076	NULL	NULL	NULL	NULL	1	197203604
+UMAG_10719	KIS66850	ustilago_maydis	26.6129	ortholog_one2many	THAR02_06659	KKP01221	trichoderma_harzianum_gca_000988865	31.9355	NULL	NULL	NULL	NULL	0	360117420
+UMAG_10719	KIS66850	ustilago_maydis	22.3118	ortholog_one2many	THAR02_10085	KKO97817	trichoderma_harzianum_gca_000988865	29.021	NULL	NULL	NULL	NULL	0	360118766
+UMAG_10722	KIS66856	ustilago_maydis	34.7305	ortholog_one2one	THAR02_04709	KKP03190	trichoderma_harzianum_gca_000988865	38.1579	NULL	NULL	NULL	NULL	NULL	201270230

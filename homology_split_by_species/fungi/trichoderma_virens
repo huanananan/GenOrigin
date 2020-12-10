@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	17.0968	ortholog_one2one	TRIVIDRAFT_138090	EHK23982	trichoderma_virens	24.2009	NULL	NULL	NULL	NULL	NULL	259595789
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	TRIVIDRAFT_37419	EHK23225	trichoderma_virens	41.1765	NULL	NULL	NULL	NULL	1	114263372
+UMAG_05628	KIS66839	ustilago_maydis	18.0077	ortholog_one2one	TRIVIDRAFT_129721	EHK23339	trichoderma_virens	16.0959	NULL	NULL	NULL	NULL	0	109824837
+UMAG_05629	KIS66840	ustilago_maydis	15.6749	ortholog_one2one	TRIVIDRAFT_133226	EHK23839	trichoderma_virens	15.2975	NULL	NULL	NULL	NULL	0	160411585
+UMAG_12019	KIS66842	ustilago_maydis	23.9651	ortholog_one2one	TRIVIDRAFT_112147	EHK20876	trichoderma_virens	18.1743	NULL	NULL	NULL	NULL	0	155929176
+UMAG_10719	KIS66850	ustilago_maydis	22.8495	ortholog_one2many	TRIVIDRAFT_52445	EHK26500	trichoderma_virens	27.9605	NULL	NULL	NULL	NULL	0	360117789
+UMAG_10719	KIS66850	ustilago_maydis	27.1505	ortholog_one2many	TRIVIDRAFT_54409	EHK24389	trichoderma_virens	32.5806	NULL	NULL	NULL	NULL	0	360119850
+UMAG_05642	KIS66854	ustilago_maydis	46.6939	ortholog_one2one	TRIVIDRAFT_37194	EHK23587	trichoderma_virens	47.1438	NULL	NULL	NULL	NULL	1	151461035
+UMAG_10722	KIS66856	ustilago_maydis	34.5808	ortholog_one2one	TRIVIDRAFT_77864	EHK26581	trichoderma_virens	38.4359	NULL	NULL	NULL	NULL	NULL	201291746

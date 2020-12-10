@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	16.7742	ortholog_one2one	SNOG_03941	SNOT_03941	phaeosphaeria_nodorum	25.7426	NULL	NULL	NULL	NULL	NULL	259550339
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	SNOG_14610	SNOT_14610	phaeosphaeria_nodorum	42.4242	NULL	NULL	NULL	NULL	1	114303782
+UMAG_15021	KIS66846	ustilago_maydis	37.4753	ortholog_one2many	SNOG_08094	SNOT_08094	phaeosphaeria_nodorum	38.6965	NULL	NULL	NULL	NULL	1	349572462
+UMAG_15021	KIS66846	ustilago_maydis	39.4477	ortholog_one2many	SNOG_10870	SNOT_10870	phaeosphaeria_nodorum	40.0802	NULL	NULL	NULL	NULL	1	349592098
+UMAG_10722	KIS66856	ustilago_maydis	20.9581	ortholog_one2one	SNOG_09670	SNOT_09670	phaeosphaeria_nodorum	58.8235	NULL	NULL	NULL	NULL	NULL	201294437
+UMAG_05644	KIS66858	ustilago_maydis	44.507	ortholog_one2one	SNOG_14667	SNOT_14667	phaeosphaeria_nodorum	47.1642	NULL	NULL	NULL	NULL	NULL	237595684
+UMAG_05647	KIS66861	ustilago_maydis	19.226	ortholog_one2one	SNOG_09445	SNOT_09445	phaeosphaeria_nodorum	32.0833	NULL	NULL	NULL	NULL	0	156452887
+UMAG_05656	KIS66871	ustilago_maydis	10.2229	ortholog_one2one	SNOG_05381	SNOT_05381	phaeosphaeria_nodorum	19.7917	NULL	NULL	NULL	NULL	0	140168494
+UMAG_05658	KIS66872	ustilago_maydis	22.0307	ortholog_one2one	SNOG_06286	SNOT_06286	phaeosphaeria_nodorum	23.9085	NULL	NULL	NULL	NULL	0	63967632

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	17.0968	ortholog_one2one	MAM_03788	KHN98664	metarhizium_album_arsef_1941_gca_000804445	23.2456	NULL	NULL	NULL	NULL	NULL	259270120
+UMAG_05629	KIS66840	ustilago_maydis	16.1103	ortholog_one2one	MAM_00746	KHO01745	metarhizium_album_arsef_1941_gca_000804445	15.3953	NULL	NULL	NULL	NULL	0	157626662
+UMAG_12019	KIS66842	ustilago_maydis	23.5839	ortholog_one2one	MAM_02674	KHN99821	metarhizium_album_arsef_1941_gca_000804445	18.0191	NULL	NULL	NULL	NULL	0	153525173
+UMAG_05632	KIS66844	ustilago_maydis	44.2308	ortholog_one2one	MAM_01389	KHO00611	metarhizium_album_arsef_1941_gca_000804445	42.7907	NULL	NULL	NULL	NULL	1	112585809
+UMAG_10719	KIS66850	ustilago_maydis	27.1505	ortholog_one2one	MAM_00990	KHO01989	metarhizium_album_arsef_1941_gca_000804445	32.5806	NULL	NULL	NULL	NULL	0	360115270
+UMAG_10722	KIS66856	ustilago_maydis	35.1796	ortholog_one2one	MAM_05653	KHN96364	metarhizium_album_arsef_1941_gca_000804445	36.7188	NULL	NULL	NULL	NULL	NULL	201305482
+UMAG_05644	KIS66858	ustilago_maydis	38.8732	ortholog_one2one	MAM_01656	KHO00878	metarhizium_album_arsef_1941_gca_000804445	47.2603	NULL	NULL	NULL	NULL	NULL	236779140
+UMAG_05658	KIS66872	ustilago_maydis	19.3487	ortholog_one2one	MAM_08074	KHN94065	metarhizium_album_arsef_1941_gca_000804445	21.4437	NULL	NULL	NULL	NULL	0	63975090
+UMAG_05659	KIS66873	ustilago_maydis	16.3153	ortholog_one2many	MAM_04229	KHN97840	metarhizium_album_arsef_1941_gca_000804445	18.4265	NULL	NULL	NULL	NULL	0	178390716

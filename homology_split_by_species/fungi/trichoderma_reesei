@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	19.0323	ortholog_one2one	TRIREDRAFT_108714	EGR47394	trichoderma_reesei	23.1373	NULL	NULL	NULL	NULL	NULL	261629058
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	TRIREDRAFT_47510	EGR48857	trichoderma_reesei	39.8058	NULL	NULL	NULL	NULL	1	114284697
+UMAG_05628	KIS66839	ustilago_maydis	18.0077	ortholog_one2one	TRIREDRAFT_77505	EGR49103	trichoderma_reesei	14.8265	NULL	NULL	NULL	NULL	0	109834455
+UMAG_05629	KIS66840	ustilago_maydis	15.5298	ortholog_one2one	TRIREDRAFT_4705	EGR47247	trichoderma_reesei	15.2422	NULL	NULL	NULL	NULL	0	159244149
+UMAG_12019	KIS66842	ustilago_maydis	24.183	ortholog_one2one	TRIREDRAFT_23181	EGR45407	trichoderma_reesei	18.4003	NULL	NULL	NULL	NULL	0	154857492
+UMAG_10719	KIS66850	ustilago_maydis	26.6129	ortholog_one2many	TRIREDRAFT_53331	EGR52347	trichoderma_reesei	31.9355	NULL	NULL	NULL	NULL	0	360116325
+UMAG_10719	KIS66850	ustilago_maydis	23.3871	ortholog_one2many	TRIREDRAFT_56093	EGR51791	trichoderma_reesei	30.7421	NULL	NULL	NULL	NULL	0	360119303
+UMAG_10722	KIS66856	ustilago_maydis	34.7305	ortholog_one2one	TRIREDRAFT_123422	EGR45923	trichoderma_reesei	39.6581	NULL	NULL	NULL	NULL	NULL	201273232
+UMAG_05644	KIS66858	ustilago_maydis	47.8873	ortholog_one2one	TRIREDRAFT_76218	EGR50075	trichoderma_reesei	47.8873	NULL	NULL	NULL	NULL	NULL	236619949

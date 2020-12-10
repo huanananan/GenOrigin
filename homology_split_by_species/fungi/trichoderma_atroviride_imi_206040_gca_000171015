@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	18.0645	ortholog_one2one	TRIATDRAFT_285068	EHK44410	trichoderma_atroviride_imi_206040_gca_000171015	24.4541	NULL	NULL	NULL	NULL	NULL	258787388
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	TRIATDRAFT_300139	EHK43657	trichoderma_atroviride_imi_206040_gca_000171015	42.5743	NULL	NULL	NULL	NULL	1	114305321
+UMAG_05628	KIS66839	ustilago_maydis	18.7739	ortholog_one2one	TRIATDRAFT_222426	EHK43773	trichoderma_atroviride_imi_206040_gca_000171015	15.9609	NULL	NULL	NULL	NULL	0	109823843
+UMAG_05629	KIS66840	ustilago_maydis	15.0943	ortholog_one2one	TRIATDRAFT_245458	EHK44274	trichoderma_atroviride_imi_206040_gca_000171015	14.6479	NULL	NULL	NULL	NULL	0	158201859
+UMAG_12019	KIS66842	ustilago_maydis	23.6383	ortholog_one2one	TRIATDRAFT_241884	EHK45961	trichoderma_atroviride_imi_206040_gca_000171015	17.5	NULL	NULL	NULL	NULL	0	155094493
+UMAG_10718	KIS66849	ustilago_maydis	50.5985	ortholog_one2one	TRIATDRAFT_143107	EHK39721	trichoderma_atroviride_imi_206040_gca_000171015	51.2679	NULL	NULL	NULL	NULL	1	197208493
+UMAG_10719	KIS66850	ustilago_maydis	27.4194	ortholog_one2one	TRIATDRAFT_235832	EHK49091	trichoderma_atroviride_imi_206040_gca_000171015	32.9032	NULL	NULL	NULL	NULL	0	360120506
+UMAG_10722	KIS66856	ustilago_maydis	35.0299	ortholog_one2one	TRIATDRAFT_151303	EHK45539	trichoderma_atroviride_imi_206040_gca_000171015	38.9351	NULL	NULL	NULL	NULL	NULL	201290138
+UMAG_05644	KIS66858	ustilago_maydis	47.3239	ortholog_one2many	TRIATDRAFT_299257	EHK46752	trichoderma_atroviride_imi_206040_gca_000171015	47.3239	NULL	NULL	NULL	NULL	NULL	237904264

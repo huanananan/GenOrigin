@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	PAS_chr1-4_0039	CAY67870	komagataella_pastoris	35.1351	NULL	NULL	NULL	NULL	1	114308076
+UMAG_05627	KIS66838	ustilago_maydis	33.8583	ortholog_one2one	PAS_chr3_0887	CAY70944	komagataella_pastoris	41.1483	NULL	NULL	NULL	NULL	1	124137293
+UMAG_05629	KIS66840	ustilago_maydis	13.4978	ortholog_one2one	PAS_chr3_0577	CAY70625	komagataella_pastoris	18.7879	NULL	NULL	NULL	NULL	0	159938847
+UMAG_12019	KIS66842	ustilago_maydis	15.8497	ortholog_one2one	PAS_chr1-1_0255	CAY67625	komagataella_pastoris	17.7873	NULL	NULL	NULL	NULL	0	161812124
+UMAG_05632	KIS66844	ustilago_maydis	51.4423	ortholog_one2one	PAS_chr2-1_0143	CAY68750	komagataella_pastoris	59.4444	NULL	NULL	NULL	NULL	1	112580005
+UMAG_05636	KIS66848	ustilago_maydis	10.9541	ortholog_one2one	PAS_chr1-3_0219	CAY67282	komagataella_pastoris	12.5	NULL	NULL	NULL	NULL	0	173451329
+UMAG_10720	KIS66851	ustilago_maydis	8.34846	ortholog_one2one	PAS_chr4_0457	CAY71710	komagataella_pastoris	16.6667	NULL	NULL	NULL	NULL	0	306800656
+UMAG_05640	KIS66852	ustilago_maydis	34.7619	ortholog_one2one	PAS_chr1-4_0317	CAY68158	komagataella_pastoris	38.4211	NULL	NULL	NULL	NULL	1	123533382
+UMAG_05641	KIS66853	ustilago_maydis	21.393	ortholog_one2one	PAS_chr2-2_0107	CAY69820	komagataella_pastoris	28.4768	NULL	NULL	NULL	NULL	NULL	298280408

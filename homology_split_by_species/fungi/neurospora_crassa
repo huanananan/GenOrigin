@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	12.5806	ortholog_one2one	NCU05116	EAA27866	neurospora_crassa	21.1957	NULL	NULL	NULL	NULL	NULL	258641197
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	NCU11258	EDO65273	neurospora_crassa	41.4141	NULL	NULL	NULL	NULL	1	114262189
+UMAG_05628	KIS66839	ustilago_maydis	21.8391	ortholog_one2one	NCU06084	EAA30310	neurospora_crassa	16.4265	NULL	NULL	NULL	NULL	0	109841137
+UMAG_05629	KIS66840	ustilago_maydis	16.1103	ortholog_one2one	NCU04807	ESA42147	neurospora_crassa	14.9194	NULL	NULL	NULL	NULL	0	159536280
+UMAG_12019	KIS66842	ustilago_maydis	22.9303	ortholog_one2one	NCU07002	EAA33406	neurospora_crassa	16.471	NULL	NULL	NULL	NULL	0	154821650
+UMAG_10718	KIS66849	ustilago_maydis	49.8368	ortholog_one2one	NCU03611	EAA32102	neurospora_crassa	49.9455	NULL	NULL	NULL	NULL	1	197213836
+UMAG_10719	KIS66850	ustilago_maydis	25.8065	ortholog_one2one	NCU01703	EAA27673	neurospora_crassa	19.3939	NULL	NULL	NULL	NULL	0	360113706
+UMAG_10722	KIS66856	ustilago_maydis	34.7305	ortholog_one2one	NCU04241	EAA31996	neurospora_crassa	38.9916	NULL	NULL	NULL	NULL	NULL	201282070
+UMAG_05644	KIS66858	ustilago_maydis	47.8873	ortholog_one2one	NCU00028	ESA43233	neurospora_crassa	46.7033	NULL	NULL	NULL	NULL	NULL	237325421

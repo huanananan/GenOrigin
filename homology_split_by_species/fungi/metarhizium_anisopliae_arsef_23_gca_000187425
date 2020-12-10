@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	14.5161	ortholog_one2one	MAA_10889	KHO11374	metarhizium_anisopliae_arsef_23_gca_000187425	20.9302	NULL	NULL	NULL	NULL	NULL	262222488
+UMAG_05628	KIS66839	ustilago_maydis	18.3908	ortholog_one2one	MAA_04578	EFY99649	metarhizium_anisopliae_arsef_23_gca_000187425	17.4545	NULL	NULL	NULL	NULL	0	109838793
+UMAG_05629	KIS66840	ustilago_maydis	16.4006	ortholog_one2one	MAA_02220	EFZ02638	metarhizium_anisopliae_arsef_23_gca_000187425	15.6077	NULL	NULL	NULL	NULL	0	160251714
+UMAG_12019	KIS66842	ustilago_maydis	23.8562	ortholog_one2one	MAA_04827	EFY99898	metarhizium_anisopliae_arsef_23_gca_000187425	18.2881	NULL	NULL	NULL	NULL	0	155205670
+UMAG_05632	KIS66844	ustilago_maydis	35.5769	ortholog_one2one	MAA_03363	EFZ00767	metarhizium_anisopliae_arsef_23_gca_000187425	56.9231	NULL	NULL	NULL	NULL	1	112577896
+UMAG_10718	KIS66849	ustilago_maydis	51.5778	ortholog_one2one	MAA_02999	EFZ01770	metarhizium_anisopliae_arsef_23_gca_000187425	51.5217	NULL	NULL	NULL	NULL	1	197191610
+UMAG_10719	KIS66850	ustilago_maydis	19.3548	ortholog_one2many	MAA_00680	EFZ03606	metarhizium_anisopliae_arsef_23_gca_000187425	22.3602	NULL	NULL	NULL	NULL	0	360114800
+UMAG_10719	KIS66850	ustilago_maydis	26.8817	ortholog_one2many	MAA_07629	EFY96816	metarhizium_anisopliae_arsef_23_gca_000187425	32.2581	NULL	NULL	NULL	NULL	0	360119559
+UMAG_10722	KIS66856	ustilago_maydis	34.5808	ortholog_one2one	MAA_00032	EFZ02958	metarhizium_anisopliae_arsef_23_gca_000187425	38.1818	NULL	NULL	NULL	NULL	NULL	201257399

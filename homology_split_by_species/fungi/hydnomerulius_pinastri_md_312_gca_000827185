@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05629	KIS66840	ustilago_maydis	24.9637	ortholog_one2one	HYDPIDRAFT_177188	KIJ61146	hydnomerulius_pinastri_md_312_gca_000827185	28.619	NULL	NULL	NULL	NULL	0	153052412
+UMAG_10720	KIS66851	ustilago_maydis	13.4301	ortholog_one2one	HYDPIDRAFT_94948	KIJ62272	hydnomerulius_pinastri_md_312_gca_000827185	23.5669	NULL	NULL	NULL	NULL	0	305586752
+UMAG_05651	KIS66866	ustilago_maydis	41.8743	ortholog_one2one	HYDPIDRAFT_96475	KIJ61427	hydnomerulius_pinastri_md_312_gca_000827185	44.6835	NULL	NULL	NULL	NULL	1	331660174
+UMAG_05653	KIS66868	ustilago_maydis	17.6991	ortholog_one2one	HYDPIDRAFT_31147	KIJ61536	hydnomerulius_pinastri_md_312_gca_000827185	16.5517	NULL	NULL	NULL	NULL	0	315247471
+UMAG_05656	KIS66871	ustilago_maydis	16.372	ortholog_one2one	HYDPIDRAFT_94005	KIJ62572	hydnomerulius_pinastri_md_312_gca_000827185	28.1374	NULL	NULL	NULL	NULL	0	137517779
+UMAG_05658	KIS66872	ustilago_maydis	25.4789	ortholog_one2one	HYDPIDRAFT_113215	KIJ63250	hydnomerulius_pinastri_md_312_gca_000827185	30.4348	NULL	NULL	NULL	NULL	0	63002614
+UMAG_05660	KIS66874	ustilago_maydis	21.9283	ortholog_one2one	HYDPIDRAFT_177738	KIJ59700	hydnomerulius_pinastri_md_312_gca_000827185	25.9858	NULL	NULL	NULL	NULL	0	43463957
+UMAG_10726	KIS66875	ustilago_maydis	30.2703	ortholog_one2one	HYDPIDRAFT_100660	KIJ59457	hydnomerulius_pinastri_md_312_gca_000827185	42.1053	NULL	NULL	NULL	NULL	1	183248073
+UMAG_05662	KIS66876	ustilago_maydis	63.6364	ortholog_one2one	HYDPIDRAFT_176417	KIJ62614	hydnomerulius_pinastri_md_312_gca_000827185	64.2857	NULL	NULL	NULL	NULL	1	122390567

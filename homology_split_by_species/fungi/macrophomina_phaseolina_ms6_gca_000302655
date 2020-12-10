@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	22.2581	ortholog_one2one	MPH_08033	EKG14758	macrophomina_phaseolina_ms6_gca_000302655	28.6307	NULL	NULL	NULL	NULL	NULL	261821783
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	MPH_12220	EKG10736	macrophomina_phaseolina_ms6_gca_000302655	42	NULL	NULL	NULL	NULL	1	114274273
+UMAG_05628	KIS66839	ustilago_maydis	7.27969	ortholog_one2one	MPH_05917	EKG16936	macrophomina_phaseolina_ms6_gca_000302655	14.3939	NULL	NULL	NULL	NULL	0	107959065
+UMAG_10719	KIS66850	ustilago_maydis	28.4946	ortholog_one2one	MPH_12569	EKG10289	macrophomina_phaseolina_ms6_gca_000302655	34.5277	NULL	NULL	NULL	NULL	0	360114753
+UMAG_10722	KIS66856	ustilago_maydis	34.7305	ortholog_one2one	MPH_01534	EKG21141	macrophomina_phaseolina_ms6_gca_000302655	42.8835	NULL	NULL	NULL	NULL	NULL	201268934
+UMAG_05644	KIS66858	ustilago_maydis	47.0423	ortholog_one2one	MPH_05488	EKG17278	macrophomina_phaseolina_ms6_gca_000302655	47.0423	NULL	NULL	NULL	NULL	NULL	237897033
+UMAG_05647	KIS66861	ustilago_maydis	19.8502	ortholog_one2one	MPH_11388	EKG11499	macrophomina_phaseolina_ms6_gca_000302655	33.6864	NULL	NULL	NULL	NULL	0	156469194
+UMAG_05656	KIS66871	ustilago_maydis	9.99231	ortholog_one2one	MPH_00767	EKG21847	macrophomina_phaseolina_ms6_gca_000302655	16.6667	NULL	NULL	NULL	NULL	0	140194728
+UMAG_05658	KIS66872	ustilago_maydis	16.8582	ortholog_one2one	MPH_07165	EKG15730	macrophomina_phaseolina_ms6_gca_000302655	20.8038	NULL	NULL	NULL	NULL	0	63963750

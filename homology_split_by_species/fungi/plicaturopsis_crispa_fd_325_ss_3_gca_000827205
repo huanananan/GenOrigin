@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05628	KIS66839	ustilago_maydis	23.3716	ortholog_one2one	PLICRDRAFT_178934	KII85192	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	30.0493	NULL	NULL	NULL	NULL	0	107380096
+UMAG_05665	KIS66879	ustilago_maydis	41.8182	ortholog_one2one	PLICRDRAFT_45151	KII85040	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	41.0714	NULL	NULL	NULL	NULL	1	121896932
+UMAG_05676	KIS66891	ustilago_maydis	22.9008	ortholog_one2many	PLICRDRAFT_179782	KII84100	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	33.8983	NULL	NULL	NULL	NULL	0	166663174
+UMAG_05676	KIS66891	ustilago_maydis	17.3664	ortholog_one2many	PLICRDRAFT_374221	KII84198	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	29.2605	NULL	NULL	NULL	NULL	0	166724326
+UMAG_05773	KIS66991	ustilago_maydis	18.5255	ortholog_one2one	PLICRDRAFT_701268	KII85081	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	14.5185	NULL	NULL	NULL	NULL	NULL	266415256
+UMAG_05777	KIS66995	ustilago_maydis	23.5619	ortholog_one2one	PLICRDRAFT_349447	KII84961	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	33.4826	NULL	NULL	NULL	NULL	NULL	247428894
+UMAG_05791	KIS67009	ustilago_maydis	28.0919	ortholog_one2one	PLICRDRAFT_432908	KII83948	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	27.8459	NULL	NULL	NULL	NULL	NULL	211700682
+UMAG_03886	KIS67828	ustilago_maydis	19.8041	ortholog_one2one	PLICRDRAFT_95612	KII83923	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	16.3669	NULL	NULL	NULL	NULL	NULL	241977577
+UMAG_11513	KIS67833	ustilago_maydis	33.1695	ortholog_many2many	PLICRDRAFT_47336	KII83285	plicaturopsis_crispa_fd_325_ss_3_gca_000827205	32.4519	NULL	NULL	NULL	NULL	0	304303227

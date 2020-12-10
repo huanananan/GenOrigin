@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	17.7419	ortholog_one2many	SPBPB21E7.02c	SPBPB21E7.02c.1:pep	schizosaccharomyces_pombe	25.8216	NULL	NULL	NULL	NULL	NULL	258400971
+UMAG_12017	KIS66834	ustilago_maydis	15.4839	ortholog_one2many	SPAC513.02	SPAC513.02.1:pep	schizosaccharomyces_pombe	22.2222	NULL	NULL	NULL	NULL	NULL	259487020
+UMAG_12017	KIS66834	ustilago_maydis	17.7419	ortholog_one2many	SPAC5H10.03	SPAC5H10.03.1:pep	schizosaccharomyces_pombe	25.1142	NULL	NULL	NULL	NULL	NULL	260084208
+UMAG_05626	KIS66837	ustilago_maydis	19.863	ortholog_one2one	SPAP8A3.02c	SPAP8A3.02c.1:pep	schizosaccharomyces_pombe	25.7778	NULL	NULL	NULL	NULL	0	355808135
+UMAG_05627	KIS66838	ustilago_maydis	40.5512	ortholog_one2one	SPAC23C11.13c	SPAC23C11.13c.1:pep	schizosaccharomyces_pombe	50	NULL	NULL	NULL	NULL	1	125255165
+UMAG_05629	KIS66840	ustilago_maydis	13.4978	ortholog_one2one	SPAC167.05	SPAC167.05.1:pep	schizosaccharomyces_pombe	15.4742	NULL	NULL	NULL	NULL	0	158277345
+UMAG_12019	KIS66842	ustilago_maydis	21.841	ortholog_one2one	SPAC1D4.14	SPAC1D4.14.1:pep	schizosaccharomyces_pombe	24.6314	NULL	NULL	NULL	NULL	0	150172208
+UMAG_05631	KIS66843	ustilago_maydis	11.1271	ortholog_one2one	SPAC31A2.16	SPAC31A2.16.1:pep	schizosaccharomyces_pombe	14.0781	NULL	NULL	NULL	NULL	0	107508807
+UMAG_05632	KIS66844	ustilago_maydis	51.4423	ortholog_one2one	SPAC227.13c	SPAC227.13c.1:pep	schizosaccharomyces_pombe	55.7292	NULL	NULL	NULL	NULL	1	112586249

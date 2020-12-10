@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	40.6452	ortholog_one2one	Mycgr3G49444	Mycgr3P49444	zymoseptoria_tritici	52.9412	NULL	NULL	NULL	NULL	NULL	252720193
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	Mycgr3G29525	Mycgr3P29525	zymoseptoria_tritici	49.3976	NULL	NULL	NULL	NULL	1	114280481
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	Mycgr3G88148	Mycgr3P88148	zymoseptoria_tritici	20.7171	NULL	NULL	NULL	NULL	0	109843321
+UMAG_15021	KIS66846	ustilago_maydis	36.2919	ortholog_one2one	Mycgr3G41625	Mycgr3P41625	zymoseptoria_tritici	38.6555	NULL	NULL	NULL	NULL	1	349581197
+UMAG_10719	KIS66850	ustilago_maydis	29.3011	ortholog_one2one	Mycgr3G92168	Mycgr3P92168	zymoseptoria_tritici	27.3183	NULL	NULL	NULL	NULL	0	360119985
+UMAG_10722	KIS66856	ustilago_maydis	33.2335	ortholog_one2one	Mycgr3G72874	Mycgr3P72874	zymoseptoria_tritici	37.4368	NULL	NULL	NULL	NULL	NULL	201267605
+UMAG_05644	KIS66858	ustilago_maydis	49.5775	ortholog_one2one	Mycgr3G74291	Mycgr3P74291	zymoseptoria_tritici	48.0874	NULL	NULL	NULL	NULL	NULL	237317380
+UMAG_05646	KIS66860	ustilago_maydis	21.1742	ortholog_one2one	Mycgr3G21242	Mycgr3P21242	zymoseptoria_tritici	32.7381	NULL	NULL	NULL	NULL	0	327381152
+UMAG_05647	KIS66861	ustilago_maydis	18.8514	ortholog_one2one	Mycgr3G68771	Mycgr3P68771	zymoseptoria_tritici	31.3929	NULL	NULL	NULL	NULL	0	156483026

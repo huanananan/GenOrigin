@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	40.3101	ortholog_one2one	C7212DRAFT_308374	PWW80547	tuber_magnatum_gca_003182015	53.0612	NULL	NULL	NULL	NULL	1	114285084
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	C7212DRAFT_346182	PWW74242	tuber_magnatum_gca_003182015	20.155	NULL	NULL	NULL	NULL	0	107821610
+UMAG_05629	KIS66840	ustilago_maydis	12.9173	ortholog_one2many	C7212DRAFT_232697	PWW71620	tuber_magnatum_gca_003182015	29.5681	NULL	NULL	NULL	NULL	0	157060034
+UMAG_05629	KIS66840	ustilago_maydis	5.51524	ortholog_one2many	C7212DRAFT_341436	PWW78700	tuber_magnatum_gca_003182015	17.5115	NULL	NULL	NULL	NULL	0	159329986
+UMAG_12019	KIS66842	ustilago_maydis	25.3813	ortholog_one2one	C7212DRAFT_275370	PWW79019	tuber_magnatum_gca_003182015	20.3405	NULL	NULL	NULL	NULL	0	156328773
+UMAG_05632	KIS66844	ustilago_maydis	45.6731	ortholog_one2one	C7212DRAFT_321605	PWW75849	tuber_magnatum_gca_003182015	54.5977	NULL	NULL	NULL	NULL	1	112582436
+UMAG_15021	KIS66846	ustilago_maydis	38.6588	ortholog_one2one	C7212DRAFT_352248	PWW75906	tuber_magnatum_gca_003182015	42.1505	NULL	NULL	NULL	NULL	1	349582205
+UMAG_10718	KIS66849	ustilago_maydis	50.9249	ortholog_one2one	C7212DRAFT_295925	PWW75888	tuber_magnatum_gca_003182015	52.5253	NULL	NULL	NULL	NULL	1	197200755
+UMAG_10719	KIS66850	ustilago_maydis	29.5699	ortholog_one2one	C7212DRAFT_285475	PWW73077	tuber_magnatum_gca_003182015	35.9477	NULL	NULL	NULL	NULL	0	360112120

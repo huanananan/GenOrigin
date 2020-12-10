@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	18.3871	ortholog_one2one	BBK36DRAFT_1167605	PTB68358	trichoderma_citrinoviride_gca_003025115	22.3529	NULL	NULL	NULL	NULL	NULL	258219545
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	BBK36DRAFT_1136599	PTB62497	trichoderma_citrinoviride_gca_003025115	42.1569	NULL	NULL	NULL	NULL	1	114265426
+UMAG_05628	KIS66839	ustilago_maydis	18.7739	ortholog_one2one	BBK36DRAFT_1129237	PTB62392	trichoderma_citrinoviride_gca_003025115	15.655	NULL	NULL	NULL	NULL	0	109802182
+UMAG_05629	KIS66840	ustilago_maydis	16.1103	ortholog_one2one	BBK36DRAFT_1166837	PTB68966	trichoderma_citrinoviride_gca_003025115	15.2893	NULL	NULL	NULL	NULL	0	158005427
+UMAG_12019	KIS66842	ustilago_maydis	23.4205	ortholog_one2one	BBK36DRAFT_1135925	PTB64799	trichoderma_citrinoviride_gca_003025115	18.4154	NULL	NULL	NULL	NULL	0	153372403
+UMAG_10719	KIS66850	ustilago_maydis	27.1505	ortholog_one2one	BBK36DRAFT_1158419	PTB67586	trichoderma_citrinoviride_gca_003025115	32.2684	NULL	NULL	NULL	NULL	0	360119033
+UMAG_10722	KIS66856	ustilago_maydis	33.8323	ortholog_one2one	BBK36DRAFT_1134409	PTB70007	trichoderma_citrinoviride_gca_003025115	37.8559	NULL	NULL	NULL	NULL	NULL	201283213
+UMAG_05644	KIS66858	ustilago_maydis	47.8873	ortholog_one2one	BBK36DRAFT_1203779	PTB64987	trichoderma_citrinoviride_gca_003025115	47.8873	NULL	NULL	NULL	NULL	NULL	237930106
+UMAG_05658	KIS66872	ustilago_maydis	20.8812	ortholog_one2one	BBK36DRAFT_1155683	PTB70902	trichoderma_citrinoviride_gca_003025115	20.7224	NULL	NULL	NULL	NULL	0	63987386

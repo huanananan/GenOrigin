@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05627	KIS66838	ustilago_maydis	37.4016	ortholog_one2one	NDAI_0A04270	CCD22584	naumovozyma_dairenensis_cbs_421_gca_000227115	44.186	NULL	NULL	NULL	NULL	1	125227201
+UMAG_12019	KIS66842	ustilago_maydis	13.3442	ortholog_one2one	NDAI_0F03030	CCD25621	naumovozyma_dairenensis_cbs_421_gca_000227115	14.8126	NULL	NULL	NULL	NULL	0	158567852
+UMAG_05632	KIS66844	ustilago_maydis	49.0385	ortholog_one2many	NDAI_0E01370	CCD24953	naumovozyma_dairenensis_cbs_421_gca_000227115	62.963	NULL	NULL	NULL	NULL	1	112583510
+UMAG_05632	KIS66844	ustilago_maydis	47.1154	ortholog_one2many	NDAI_0E02280	CCD25045	naumovozyma_dairenensis_cbs_421_gca_000227115	52.973	NULL	NULL	NULL	NULL	1	112590053
+UMAG_05636	KIS66848	ustilago_maydis	11.6608	ortholog_one2one	NDAI_0F00480	CCD25367	naumovozyma_dairenensis_cbs_421_gca_000227115	10.0152	NULL	NULL	NULL	NULL	0	172866197
+UMAG_10720	KIS66851	ustilago_maydis	8.89292	ortholog_one2one	NDAI_0E02390	CCD25056	naumovozyma_dairenensis_cbs_421_gca_000227115	16.6478	NULL	NULL	NULL	NULL	0	307761746
+UMAG_05640	KIS66852	ustilago_maydis	29.5238	ortholog_one2one	NDAI_0C06150	CCD24274	naumovozyma_dairenensis_cbs_421_gca_000227115	31.3131	NULL	NULL	NULL	NULL	1	124503904
+UMAG_05645	KIS66859	ustilago_maydis	30.8036	ortholog_one2one	NDAI_0I00660	CCD26635	naumovozyma_dairenensis_cbs_421_gca_000227115	30.2632	NULL	NULL	NULL	NULL	NULL	236743495
+UMAG_05646	KIS66860	ustilago_maydis	20.308	ortholog_one2one	NDAI_0D00380	CCD24352	naumovozyma_dairenensis_cbs_421_gca_000227115	28.5521	NULL	NULL	NULL	NULL	0	326060087

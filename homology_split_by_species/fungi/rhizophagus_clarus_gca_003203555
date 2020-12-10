@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	RclHR1_05200019	GBC03608	rhizophagus_clarus_gca_003203555	41.3462	NULL	NULL	NULL	NULL	1	117658704
+UMAG_05626	KIS66837	ustilago_maydis	22.9452	ortholog_one2one	RclHR1_09770005	GBC10602	rhizophagus_clarus_gca_003203555	25.0936	NULL	NULL	NULL	NULL	0	355973908
+UMAG_05627	KIS66838	ustilago_maydis	34.6457	ortholog_one2one	RclHR1_14570002	GBB88033	rhizophagus_clarus_gca_003203555	46.5608	NULL	NULL	NULL	NULL	1	125621417
+UMAG_05628	KIS66839	ustilago_maydis	11.8774	ortholog_one2one	RclHR1_00200029	GBB92396	rhizophagus_clarus_gca_003203555	25	NULL	NULL	NULL	NULL	0	107980670
+UMAG_12019	KIS66842	ustilago_maydis	21.6776	ortholog_one2one	RclHR1_08590004	GBC09053	rhizophagus_clarus_gca_003203555	26.2187	NULL	NULL	NULL	NULL	0	149362209
+UMAG_05632	KIS66844	ustilago_maydis	51.9231	ortholog_one2one	RclHR1_06850002	GBC06454	rhizophagus_clarus_gca_003203555	61.0169	NULL	NULL	NULL	NULL	1	115171914
+UMAG_05636	KIS66848	ustilago_maydis	21.7314	ortholog_one2one	RclHR1_31860002	GBB98266	rhizophagus_clarus_gca_003203555	40.3279	NULL	NULL	NULL	NULL	0	170729463
+UMAG_10720	KIS66851	ustilago_maydis	12.2202	ortholog_one2one	RclHR1_11490005	GBB84895	rhizophagus_clarus_gca_003203555	16.5982	NULL	NULL	NULL	NULL	0	309974993
+UMAG_05640	KIS66852	ustilago_maydis	49.0476	ortholog_one2one	RclHR1_13920007	GBB87456	rhizophagus_clarus_gca_003203555	57.2222	NULL	NULL	NULL	NULL	1	126180241

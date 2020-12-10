@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	42.6357	ortholog_one2one	M404DRAFT_152956	KIO00387	pisolithus_tinctorius_marx_270_gca_000827335	61.7978	NULL	NULL	NULL	NULL	1	110002403
+UMAG_05626	KIS66837	ustilago_maydis	33.5616	ortholog_one2one	M404DRAFT_993426	KIO12438	pisolithus_tinctorius_marx_270_gca_000827335	34.2657	NULL	NULL	NULL	NULL	1	355351826
+UMAG_05627	KIS66838	ustilago_maydis	42.5197	ortholog_one2one	M404DRAFT_997862	KIO07720	pisolithus_tinctorius_marx_270_gca_000827335	52.1739	NULL	NULL	NULL	NULL	1	122453919
+UMAG_05628	KIS66839	ustilago_maydis	22.6054	ortholog_one2one	M404DRAFT_991902	KIO15189	pisolithus_tinctorius_marx_270_gca_000827335	30.5699	NULL	NULL	NULL	NULL	0	107394267
+UMAG_05629	KIS66840	ustilago_maydis	24.8186	ortholog_one2one	M404DRAFT_1005869	KIN97697	pisolithus_tinctorius_marx_270_gca_000827335	27.6699	NULL	NULL	NULL	NULL	0	153182778
+UMAG_12019	KIS66842	ustilago_maydis	28.7582	ortholog_one2one	M404DRAFT_165183	KIN95690	pisolithus_tinctorius_marx_270_gca_000827335	25.0237	NULL	NULL	NULL	NULL	1	148497898
+UMAG_05631	KIS66843	ustilago_maydis	19.4544	ortholog_one2one	M404DRAFT_123800	KIO12661	pisolithus_tinctorius_marx_270_gca_000827335	21.5593	NULL	NULL	NULL	NULL	0	106889393
+UMAG_05632	KIS66844	ustilago_maydis	52.8846	ortholog_one2one	M404DRAFT_695757	KIO12801	pisolithus_tinctorius_marx_270_gca_000827335	61.1111	NULL	NULL	NULL	NULL	1	111200387
+UMAG_10718	KIS66849	ustilago_maydis	58.7595	ortholog_one2one	M404DRAFT_960255	KIO12923	pisolithus_tinctorius_marx_270_gca_000827335	61.294	NULL	NULL	NULL	NULL	1	196508842

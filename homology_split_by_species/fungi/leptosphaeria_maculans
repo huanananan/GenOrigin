@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	25.4839	ortholog_one2one	LEMA_P102540.1	CBX97123	leptosphaeria_maculans	31.8548	NULL	NULL	NULL	NULL	NULL	261761783
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	LEMA_P094510.1	CBX98042	leptosphaeria_maculans	43.4343	NULL	NULL	NULL	NULL	1	114260995
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	LEMA_P096610.1	CBX98252	leptosphaeria_maculans	19.4757	NULL	NULL	NULL	NULL	0	109817451
+UMAG_15021	KIS66846	ustilago_maydis	46.7456	ortholog_one2one	LEMA_P000630.1	CBY01276	leptosphaeria_maculans	48.6653	NULL	NULL	NULL	NULL	1	349579660
+UMAG_10719	KIS66850	ustilago_maydis	29.5699	ortholog_one2one	LEMA_P111480.1	CBX96229	leptosphaeria_maculans	36.3036	NULL	NULL	NULL	NULL	0	360111153
+UMAG_10722	KIS66856	ustilago_maydis	35.1796	ortholog_one2one	LEMA_P030300.1	CBX95878	leptosphaeria_maculans	39.2321	NULL	NULL	NULL	NULL	NULL	201276239
+UMAG_05644	KIS66858	ustilago_maydis	47.0423	ortholog_one2one	LEMA_P016870.1	CBY00557	leptosphaeria_maculans	41.2346	NULL	NULL	NULL	NULL	NULL	236089157
+UMAG_05647	KIS66861	ustilago_maydis	17.8527	ortholog_one2one	LEMA_P020940.1	CBY00964	leptosphaeria_maculans	32.2799	NULL	NULL	NULL	NULL	0	156480982
+UMAG_05656	KIS66871	ustilago_maydis	9.30054	ortholog_one2one	LEMA_P046110.1	CBX91905	leptosphaeria_maculans	17.9792	NULL	NULL	NULL	NULL	0	140179724

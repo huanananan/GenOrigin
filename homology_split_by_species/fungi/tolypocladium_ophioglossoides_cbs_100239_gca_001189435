@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	23.2558	ortholog_one2one	TOPH_02168	KND93293	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	23.622	NULL	NULL	NULL	NULL	0	114293911
+UMAG_05628	KIS66839	ustilago_maydis	18.3908	ortholog_one2one	TOPH_02054	KND92931	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	16.9611	NULL	NULL	NULL	NULL	0	109828270
+UMAG_05629	KIS66840	ustilago_maydis	16.1103	ortholog_one2one	TOPH_04802	KND90580	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	15.4596	NULL	NULL	NULL	NULL	0	158835963
+UMAG_12019	KIS66842	ustilago_maydis	24.0741	ortholog_one2one	TOPH_02997	KND92146	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	18.1296	NULL	NULL	NULL	NULL	0	155894061
+UMAG_05632	KIS66844	ustilago_maydis	42.3077	ortholog_one2one	TOPH_03048	KND92375	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	50	NULL	NULL	NULL	NULL	1	112588210
+UMAG_10718	KIS66849	ustilago_maydis	50.0544	ortholog_one2one	TOPH_03614	KND91526	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	50.2183	NULL	NULL	NULL	NULL	1	197212862
+UMAG_10719	KIS66850	ustilago_maydis	27.957	ortholog_one2one	TOPH_01020	KND94608	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	33.121	NULL	NULL	NULL	NULL	0	360115223
+UMAG_05642	KIS66854	ustilago_maydis	46.1486	ortholog_one2one	TOPH_08439	KND86922	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	45.8362	NULL	NULL	NULL	NULL	1	151014222
+UMAG_10722	KIS66856	ustilago_maydis	34.4311	ortholog_one2one	TOPH_06444	KND88858	tolypocladium_ophioglossoides_cbs_100239_gca_001189435	38.1426	NULL	NULL	NULL	NULL	NULL	201299131

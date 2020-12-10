@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	37.4194	ortholog_one2one	PHACADRAFT_249189	EKM59026	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	49.1525	NULL	NULL	NULL	NULL	NULL	252960191
+UMAG_05625	KIS66836	ustilago_maydis	47.2868	ortholog_one2one	PHACADRAFT_25395	EKM59277	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	53.0435	NULL	NULL	NULL	NULL	1	109974995
+UMAG_05626	KIS66837	ustilago_maydis	30.4795	ortholog_one2one	PHACADRAFT_87635	EKM59912	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	33.4586	NULL	NULL	NULL	NULL	1	355340569
+UMAG_05627	KIS66838	ustilago_maydis	42.9134	ortholog_one2one	PHACADRAFT_264449	EKM49984	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	55.8974	NULL	NULL	NULL	NULL	1	122451818
+UMAG_05628	KIS66839	ustilago_maydis	17.6245	ortholog_one2one	PHACADRAFT_252401	EKM58229	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	42.5926	NULL	NULL	NULL	NULL	0	107386682
+UMAG_05629	KIS66840	ustilago_maydis	24.9637	ortholog_one2one	PHACADRAFT_265063	EKM49530	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	28.4768	NULL	NULL	NULL	NULL	0	152670891
+UMAG_12019	KIS66842	ustilago_maydis	27.9956	ortholog_one2one	PHACADRAFT_191704	EKM59356	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	24.1769	NULL	NULL	NULL	NULL	0	148494478
+UMAG_05631	KIS66843	ustilago_maydis	18.3776	ortholog_one2one	PHACADRAFT_88401	EKM59750	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	19.2048	NULL	NULL	NULL	NULL	0	107059105
+UMAG_05632	KIS66844	ustilago_maydis	56.7308	ortholog_one2one	PHACADRAFT_249906	EKM59426	phanerochaete_carnosa_hhb_10118_sp_gca_000300595	65.5556	NULL	NULL	NULL	NULL	1	111299792

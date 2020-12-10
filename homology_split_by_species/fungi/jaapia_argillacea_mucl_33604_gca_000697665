@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	48.8372	ortholog_one2one	JAAARDRAFT_28050	KDQ64420	jaapia_argillacea_mucl_33604_gca_000697665	57.7982	NULL	NULL	NULL	NULL	1	109806479
+UMAG_05626	KIS66837	ustilago_maydis	23.2877	ortholog_one2many	JAAARDRAFT_89332	KDQ64048	jaapia_argillacea_mucl_33604_gca_000697665	33.1707	NULL	NULL	NULL	NULL	0	355343017
+UMAG_05626	KIS66837	ustilago_maydis	20.2055	ortholog_one2many	JAAARDRAFT_98991	KDQ50081	jaapia_argillacea_mucl_33604_gca_000697665	30.5699	NULL	NULL	NULL	NULL	0	355345654
+UMAG_05627	KIS66838	ustilago_maydis	45.2756	ortholog_one2one	JAAARDRAFT_31004	KDQ61551	jaapia_argillacea_mucl_33604_gca_000697665	56.0976	NULL	NULL	NULL	NULL	1	122464943
+UMAG_05628	KIS66839	ustilago_maydis	9.96169	ortholog_one2many	JAAARDRAFT_413073	KDQ54151	jaapia_argillacea_mucl_33604_gca_000697665	35.1351	NULL	NULL	NULL	NULL	0	107381841
+UMAG_05628	KIS66839	ustilago_maydis	12.2605	ortholog_one2many	JAAARDRAFT_38750	KDQ54132	jaapia_argillacea_mucl_33604_gca_000697665	32.3232	NULL	NULL	NULL	NULL	0	107385439
+UMAG_05628	KIS66839	ustilago_maydis	22.2222	ortholog_one2many	JAAARDRAFT_154693	KDQ59332	jaapia_argillacea_mucl_33604_gca_000697665	22.9249	NULL	NULL	NULL	NULL	0	107385929
+UMAG_05629	KIS66840	ustilago_maydis	24.6734	ortholog_one2one	JAAARDRAFT_30279	KDQ62375	jaapia_argillacea_mucl_33604_gca_000697665	37.2807	NULL	NULL	NULL	NULL	0	152762181
+UMAG_12019	KIS66842	ustilago_maydis	29.0305	ortholog_one2one	JAAARDRAFT_202202	KDQ64944	jaapia_argillacea_mucl_33604_gca_000697665	25.1178	NULL	NULL	NULL	NULL	1	148491597

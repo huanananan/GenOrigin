@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	TERG_02629	EGD86372	trichophyton_rubrum_cbs_118892_gca_000151425	26.4516	NULL	NULL	NULL	NULL	1	114296267
+UMAG_05628	KIS66839	ustilago_maydis	19.1571	ortholog_one2one	TERG_06019	EGD89781	trichophyton_rubrum_cbs_118892_gca_000151425	18.0505	NULL	NULL	NULL	NULL	0	109841365
+UMAG_05641	KIS66853	ustilago_maydis	32.3383	ortholog_one2one	TERG_11592	KFL60286	trichophyton_rubrum_cbs_118892_gca_000151425	15.6438	NULL	NULL	NULL	NULL	NULL	297856281
+UMAG_10722	KIS66856	ustilago_maydis	27.6946	ortholog_one2one	TERG_03263	EGD87008	trichophyton_rubrum_cbs_118892_gca_000151425	33.3935	NULL	NULL	NULL	NULL	NULL	201274275
+UMAG_05644	KIS66858	ustilago_maydis	21.4085	ortholog_one2one	TERG_00417	EGD84135	trichophyton_rubrum_cbs_118892_gca_000151425	38.5787	NULL	NULL	NULL	NULL	NULL	235811370
+UMAG_05656	KIS66871	ustilago_maydis	10.2229	ortholog_one2one	TERG_07597	EGD91378	trichophyton_rubrum_cbs_118892_gca_000151425	19.2754	NULL	NULL	NULL	NULL	0	140193365
+UMAG_05658	KIS66872	ustilago_maydis	21.4559	ortholog_one2one	TERG_07425	EGD91204	trichophyton_rubrum_cbs_118892_gca_000151425	20.2532	NULL	NULL	NULL	NULL	0	63961093
+UMAG_05659	KIS66873	ustilago_maydis	17.5069	ortholog_one2many	TERG_01767	EGD85496	trichophyton_rubrum_cbs_118892_gca_000151425	18.8363	NULL	NULL	NULL	NULL	0	178362792
+UMAG_05664	KIS66878	ustilago_maydis	16.8717	ortholog_one2one	TERG_00099	EGD83816	trichophyton_rubrum_cbs_118892_gca_000151425	21.286	NULL	NULL	NULL	NULL	NULL	241512095

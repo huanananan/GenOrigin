@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	34.8837	ortholog_one2one	B9Z19DRAFT_971370	PUU81587	tuber_borchii_gca_003070745	33.5821	NULL	NULL	NULL	NULL	1	114266494
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	B9Z19DRAFT_1073999	PUU82804	tuber_borchii_gca_003070745	20.155	NULL	NULL	NULL	NULL	0	107820721
+UMAG_05629	KIS66840	ustilago_maydis	3.0479	ortholog_one2many	B9Z19DRAFT_1130569	PUU75874	tuber_borchii_gca_003070745	22.5806	NULL	NULL	NULL	NULL	0	156806887
+UMAG_05629	KIS66840	ustilago_maydis	13.3527	ortholog_one2many	B9Z19DRAFT_968783	PUU82315	tuber_borchii_gca_003070745	26.361	NULL	NULL	NULL	NULL	0	158336027
+UMAG_12019	KIS66842	ustilago_maydis	25.2179	ortholog_one2one	B9Z19DRAFT_1004954	PUU73345	tuber_borchii_gca_003070745	20.3248	NULL	NULL	NULL	NULL	0	156568548
+UMAG_05632	KIS66844	ustilago_maydis	41.3462	ortholog_one2one	B9Z19DRAFT_1098263	PUU84295	tuber_borchii_gca_003070745	64.1791	NULL	NULL	NULL	NULL	1	112591947
+UMAG_15021	KIS66846	ustilago_maydis	42.8008	ortholog_one2many	B9Z19DRAFT_1104627	PUU84222	tuber_borchii_gca_003070745	44.8347	NULL	NULL	NULL	NULL	1	349581585
+UMAG_15021	KIS66846	ustilago_maydis	41.0256	ortholog_one2many	B9Z19DRAFT_961041	PUU84221	tuber_borchii_gca_003070745	42.9752	NULL	NULL	NULL	NULL	1	349589276
+UMAG_15021	KIS66846	ustilago_maydis	41.2229	ortholog_one2many	B9Z19DRAFT_961108	PUU84219	tuber_borchii_gca_003070745	43.1818	NULL	NULL	NULL	NULL	1	349595813

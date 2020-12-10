@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05626	KIS66837	ustilago_maydis	22.2603	ortholog_one2one	SERLA73DRAFT_178167	EGO02298	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	36.1111	NULL	NULL	NULL	NULL	0	355339604
+UMAG_05627	KIS66838	ustilago_maydis	42.9134	ortholog_one2one	SERLA73DRAFT_93023	EGN96535	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	53.6946	NULL	NULL	NULL	NULL	1	122459509
+UMAG_05628	KIS66839	ustilago_maydis	23.7548	ortholog_one2one	SERLA73DRAFT_160494	EGN98854	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	30.6931	NULL	NULL	NULL	NULL	0	107379924
+UMAG_05629	KIS66840	ustilago_maydis	18.8679	ortholog_one2one	SERLA73DRAFT_182796	EGN97985	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	39.6341	NULL	NULL	NULL	NULL	0	153147252
+UMAG_12019	KIS66842	ustilago_maydis	28.3224	ortholog_one2one	SERLA73DRAFT_49063	EGO01596	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	24.6679	NULL	NULL	NULL	NULL	0	148485275
+UMAG_05631	KIS66843	ustilago_maydis	20.1005	ortholog_one2one	SERLA73DRAFT_98341	EGN93023	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	21.9436	NULL	NULL	NULL	NULL	0	107024402
+UMAG_10718	KIS66849	ustilago_maydis	58.5419	ortholog_one2one	SERLA73DRAFT_64710	EGN93079	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	60.2464	NULL	NULL	NULL	NULL	1	196626265
+UMAG_10719	KIS66850	ustilago_maydis	29.3011	ortholog_one2one	SERLA73DRAFT_181129	EGO00502	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	39.781	NULL	NULL	NULL	NULL	1	359671853
+UMAG_05640	KIS66852	ustilago_maydis	52.8571	ortholog_one2one	SERLA73DRAFT_178413	EGO00576	serpula_lacrymans_var_lacrymans_s7_3_gca_000218725	60	NULL	NULL	NULL	NULL	1	122309881

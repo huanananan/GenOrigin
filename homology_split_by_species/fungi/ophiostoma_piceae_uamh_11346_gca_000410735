@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	19.0323	ortholog_one2one	F503_00899	EPE08116	ophiostoma_piceae_uamh_11346_gca_000410735	23.9837	NULL	NULL	NULL	NULL	NULL	258181309
+UMAG_05625	KIS66836	ustilago_maydis	29.4574	ortholog_one2one	F503_01947	EPE03689	ophiostoma_piceae_uamh_11346_gca_000410735	40.4255	NULL	NULL	NULL	NULL	1	114298943
+UMAG_05628	KIS66839	ustilago_maydis	21.4559	ortholog_one2one	F503_01896	EPE03638	ophiostoma_piceae_uamh_11346_gca_000410735	18.9189	NULL	NULL	NULL	NULL	0	109812433
+UMAG_05629	KIS66840	ustilago_maydis	16.6909	ortholog_one2one	F503_00109	EPE04955	ophiostoma_piceae_uamh_11346_gca_000410735	15.5827	NULL	NULL	NULL	NULL	0	158143495
+UMAG_12019	KIS66842	ustilago_maydis	22.2767	ortholog_one2one	F503_01686	EPE02248	ophiostoma_piceae_uamh_11346_gca_000410735	15.6107	NULL	NULL	NULL	NULL	0	152755024
+UMAG_05632	KIS66844	ustilago_maydis	45.1923	ortholog_one2one	F503_02132	EPE05393	ophiostoma_piceae_uamh_11346_gca_000410735	48.9583	NULL	NULL	NULL	NULL	1	112586471
+UMAG_15021	KIS66846	ustilago_maydis	38.856	ortholog_one2one	F503_02088	EPE05349	ophiostoma_piceae_uamh_11346_gca_000410735	17.0121	NULL	NULL	NULL	NULL	0	349578085
+UMAG_10718	KIS66849	ustilago_maydis	49.0751	ortholog_one2one	F503_05012	EPE09917	ophiostoma_piceae_uamh_11346_gca_000410735	49.2358	NULL	NULL	NULL	NULL	1	197204413
+UMAG_10719	KIS66850	ustilago_maydis	28.2258	ortholog_one2many	F503_04376	EPE08789	ophiostoma_piceae_uamh_11346_gca_000410735	29.9145	NULL	NULL	NULL	NULL	0	360111393

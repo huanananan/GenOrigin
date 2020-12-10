@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	19.3548	ortholog_one2one	THITE_51425	AEO68257	thielavia_terrestris_nrrl_8126_gca_000226115	25.974	NULL	NULL	NULL	NULL	NULL	258535740
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	THITE_2051591	AEO67774	thielavia_terrestris_nrrl_8126_gca_000226115	39.3939	NULL	NULL	NULL	NULL	1	114254303
+UMAG_05628	KIS66839	ustilago_maydis	13.0268	ortholog_one2one	THITE_2032902	AEO68034	thielavia_terrestris_nrrl_8126_gca_000226115	18.0851	NULL	NULL	NULL	NULL	0	109845319
+UMAG_05629	KIS66840	ustilago_maydis	15.82	ortholog_one2one	THITE_2110357	AEO64322	thielavia_terrestris_nrrl_8126_gca_000226115	15.1599	NULL	NULL	NULL	NULL	0	160703259
+UMAG_12019	KIS66842	ustilago_maydis	23.366	ortholog_one2one	THITE_2122481	AEO70757	thielavia_terrestris_nrrl_8126_gca_000226115	17.1669	NULL	NULL	NULL	NULL	0	153449034
+UMAG_10718	KIS66849	ustilago_maydis	50.8161	ortholog_one2one	THITE_2106408	AEO62339	thielavia_terrestris_nrrl_8126_gca_000226115	51.4317	NULL	NULL	NULL	NULL	1	197204662
+UMAG_10719	KIS66850	ustilago_maydis	24.7312	ortholog_one2one	THITE_2124424	AEO71692	thielavia_terrestris_nrrl_8126_gca_000226115	28.6604	NULL	NULL	NULL	NULL	0	360120781
+UMAG_05642	KIS66854	ustilago_maydis	46.8984	ortholog_one2one	THITE_2110465	AEO64368	thielavia_terrestris_nrrl_8126_gca_000226115	46.5494	NULL	NULL	NULL	NULL	1	151354351
+UMAG_10722	KIS66856	ustilago_maydis	35.0299	ortholog_one2one	THITE_2108812	AEO63480	thielavia_terrestris_nrrl_8126_gca_000226115	38.6777	NULL	NULL	NULL	NULL	NULL	201304839

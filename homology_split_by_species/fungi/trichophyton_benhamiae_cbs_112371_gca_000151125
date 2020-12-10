@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	24.031	ortholog_one2one	ARB_02550	EFE30628	trichophyton_benhamiae_cbs_112371_gca_000151125	14.4186	NULL	NULL	NULL	NULL	0	114302883
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	ARB_04682	EFE37153	trichophyton_benhamiae_cbs_112371_gca_000151125	18.7726	NULL	NULL	NULL	NULL	0	109845857
+UMAG_05641	KIS66853	ustilago_maydis	31.592	ortholog_one2one	ARB_05715	EFE35671	trichophyton_benhamiae_cbs_112371_gca_000151125	35.8757	NULL	NULL	NULL	NULL	NULL	297858565
+UMAG_10722	KIS66856	ustilago_maydis	26.6467	ortholog_one2one	ARB_05071	EFE36133	trichophyton_benhamiae_cbs_112371_gca_000151125	39.1209	NULL	NULL	NULL	NULL	NULL	201285774
+UMAG_05644	KIS66858	ustilago_maydis	26.1972	ortholog_one2one	ARB_05595	EFE35553	trichophyton_benhamiae_cbs_112371_gca_000151125	42.4658	NULL	NULL	NULL	NULL	NULL	236016620
+UMAG_05656	KIS66871	ustilago_maydis	10.2229	ortholog_one2one	ARB_01586	EFE31438	trichophyton_benhamiae_cbs_112371_gca_000151125	19.2754	NULL	NULL	NULL	NULL	0	140189066
+UMAG_05658	KIS66872	ustilago_maydis	22.0307	ortholog_one2one	ARB_00052	EFE32965	trichophyton_benhamiae_cbs_112371_gca_000151125	20.7581	NULL	NULL	NULL	NULL	0	63987978
+UMAG_05659	KIS66873	ustilago_maydis	17.1402	ortholog_one2many	ARB_06296	EFE34533	trichophyton_benhamiae_cbs_112371_gca_000151125	19.6842	NULL	NULL	NULL	NULL	0	178342820
+UMAG_05664	KIS66878	ustilago_maydis	23.1986	ortholog_one2one	ARB_01975	EFE31107	trichophyton_benhamiae_cbs_112371_gca_000151125	25.0951	NULL	NULL	NULL	NULL	NULL	238199907

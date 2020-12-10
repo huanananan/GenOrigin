@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	12.2581	ortholog_one2one	NEUTE2DRAFT_116881	EGZ67706	neurospora_tetrasperma_fgsc_2509_gca_000213195	20.6522	NULL	NULL	NULL	NULL	NULL	262102293
+UMAG_05628	KIS66839	ustilago_maydis	21.8391	ortholog_one2one	NEUTE2DRAFT_115795	EGZ69358	neurospora_tetrasperma_fgsc_2509_gca_000213195	11.6327	NULL	NULL	NULL	NULL	0	109835654
+UMAG_05629	KIS66840	ustilago_maydis	15.9652	ortholog_one2one	NEUTE2DRAFT_96951	EGZ68450	neurospora_tetrasperma_fgsc_2509_gca_000213195	15.919	NULL	NULL	NULL	NULL	0	160917273
+UMAG_12019	KIS66842	ustilago_maydis	22.4946	ortholog_one2one	NEUTE2DRAFT_108969	EGZ73898	neurospora_tetrasperma_fgsc_2509_gca_000213195	16.3177	NULL	NULL	NULL	NULL	0	154782156
+UMAG_10719	KIS66850	ustilago_maydis	26.0753	ortholog_one2one	NEUTE2DRAFT_113554	EGZ70633	neurospora_tetrasperma_fgsc_2509_gca_000213195	19.7154	NULL	NULL	NULL	NULL	0	360119894
+UMAG_10722	KIS66856	ustilago_maydis	34.5808	ortholog_one2many	NEUTE2DRAFT_136805	EGZ75714	neurospora_tetrasperma_fgsc_2509_gca_000213195	38.4359	NULL	NULL	NULL	NULL	NULL	201296185
+UMAG_10722	KIS66856	ustilago_maydis	6.58683	ortholog_one2many	NEUTE2DRAFT_164551	EGZ75715	neurospora_tetrasperma_fgsc_2509_gca_000213195	51.1628	NULL	NULL	NULL	NULL	NULL	201301005
+UMAG_05644	KIS66858	ustilago_maydis	47.8873	ortholog_one2one	NEUTE2DRAFT_144687	EGZ72010	neurospora_tetrasperma_fgsc_2509_gca_000213195	46.7033	NULL	NULL	NULL	NULL	NULL	237580115
+UMAG_05647	KIS66861	ustilago_maydis	19.1011	ortholog_one2one	NEUTE2DRAFT_116964	EGZ67749	neurospora_tetrasperma_fgsc_2509_gca_000213195	32.3467	NULL	NULL	NULL	NULL	0	156477629

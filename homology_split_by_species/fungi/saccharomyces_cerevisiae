@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+YAL068C	YAL068C	saccharomyces_cerevisiae	56.6667	ortholog_one2many	NCAS_0E02100	CCC70280	naumovozyma_castellii_cbs_4309_gca_000237345	30.3571	NULL	NULL	NULL	NULL	1	27237826
+YAL068C	YAL068C	saccharomyces_cerevisiae	34.1667	ortholog_many2many	TBLA_0G00500	CCH61999	tetrapisispora_blattae_cbs_6284_gca_000315915	15.1292	NULL	NULL	NULL	NULL	0	27335392
+YAL068C	YAL068C	saccharomyces_cerevisiae	34.1667	ortholog_many2many	TBLA_0A01120	CCH57912	tetrapisispora_blattae_cbs_6284_gca_000315915	19.2488	NULL	NULL	NULL	NULL	0	27335638
+YAL068C	YAL068C	saccharomyces_cerevisiae	36.6667	ortholog_one2many	TPHA_0C05010	CCE62649	tetrapisispora_phaffii_cbs_4417_gca_000236905	21.7822	NULL	NULL	NULL	NULL	0	27335816
+YAL068C	YAL068C	saccharomyces_cerevisiae	35	ortholog_many2many	TBLA_0J01800	CCH63174	tetrapisispora_blattae_cbs_6284_gca_000315915	18.2609	NULL	NULL	NULL	NULL	0	27336103
+YAL068C	YAL068C	saccharomyces_cerevisiae	35	ortholog_many2many	TBLA_0J01845	CCH63179	tetrapisispora_blattae_cbs_6284_gca_000315915	15.5556	NULL	NULL	NULL	NULL	0	27336262
+YAL068C	YAL068C	saccharomyces_cerevisiae	45.8333	ortholog_many2many	NDAI_0A07890	CCD22943	naumovozyma_dairenensis_cbs_421_gca_000227115	8.27068	NULL	NULL	NULL	NULL	0	27472370
+YAL068C	YAL068C	saccharomyces_cerevisiae	50	ortholog_many2many	NDAI_0A08910	CCD23043	naumovozyma_dairenensis_cbs_421_gca_000227115	12.1951	NULL	NULL	NULL	NULL	0	27473599
+YAL067C	YAL067C	saccharomyces_cerevisiae	72.5126	ortholog_one2one	NDAI_0K03000	CCD27491	naumovozyma_dairenensis_cbs_421_gca_000227115	72.6351	NULL	NULL	NULL	NULL	NULL	242349530

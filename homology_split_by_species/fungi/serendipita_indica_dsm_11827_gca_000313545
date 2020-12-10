@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	39.5349	ortholog_one2one	PIIN_00231	CCA66547	serendipita_indica_dsm_11827_gca_000313545	20.6478	NULL	NULL	NULL	NULL	0	109730729
+UMAG_05627	KIS66838	ustilago_maydis	46.8504	ortholog_one2one	PIIN_00381	CCA66701	serendipita_indica_dsm_11827_gca_000313545	57.767	NULL	NULL	NULL	NULL	1	122460151
+UMAG_05628	KIS66839	ustilago_maydis	23.3716	ortholog_one2one	PIIN_02662	CCA68800	serendipita_indica_dsm_11827_gca_000313545	29.0476	NULL	NULL	NULL	NULL	0	107383122
+UMAG_05629	KIS66840	ustilago_maydis	21.4804	ortholog_one2one	PIIN_00706	CCA77992	serendipita_indica_dsm_11827_gca_000313545	29.6593	NULL	NULL	NULL	NULL	0	152845118
+UMAG_12019	KIS66842	ustilago_maydis	24.0741	ortholog_one2one	PIIN_05046	CCA71111	serendipita_indica_dsm_11827_gca_000313545	23.789	NULL	NULL	NULL	NULL	0	148488894
+UMAG_05631	KIS66843	ustilago_maydis	4.45083	ortholog_one2many	PIIN_04615	CCA70681	serendipita_indica_dsm_11827_gca_000313545	24.031	NULL	NULL	NULL	NULL	0	106931444
+UMAG_05631	KIS66843	ustilago_maydis	14.9318	ortholog_one2many	PIIN_04614	CCA70680	serendipita_indica_dsm_11827_gca_000313545	25.5843	NULL	NULL	NULL	NULL	0	107115419
+UMAG_05632	KIS66844	ustilago_maydis	51.4423	ortholog_one2one	PIIN_03379	CCA69479	serendipita_indica_dsm_11827_gca_000313545	62.5731	NULL	NULL	NULL	NULL	1	111289430
+UMAG_15021	KIS66846	ustilago_maydis	42.4063	ortholog_one2one	PIIN_02191	CCA68326	serendipita_indica_dsm_11827_gca_000313545	43.6992	NULL	NULL	NULL	NULL	1	347490464

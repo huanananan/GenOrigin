@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	SPPG_03149	KND01337	spizellomyces_punctatus_daom_br117_gca_000182565	18.5345	NULL	NULL	NULL	NULL	0	117293674
+UMAG_05626	KIS66837	ustilago_maydis	23.6301	ortholog_one2one	SPPG_08389	KNC96235	spizellomyces_punctatus_daom_br117_gca_000182565	28.8703	NULL	NULL	NULL	NULL	0	355972161
+UMAG_05627	KIS66838	ustilago_maydis	30.7087	ortholog_one2one	SPPG_00102	KND04373	spizellomyces_punctatus_daom_br117_gca_000182565	41.9355	NULL	NULL	NULL	NULL	1	125622445
+UMAG_05628	KIS66839	ustilago_maydis	19.5402	ortholog_one2one	SPPG_06846	KNC97850	spizellomyces_punctatus_daom_br117_gca_000182565	5.64159	NULL	NULL	NULL	NULL	0	114731819
+UMAG_12019	KIS66842	ustilago_maydis	23.4205	ortholog_one2one	SPPG_08084	KNC96495	spizellomyces_punctatus_daom_br117_gca_000182565	25.4137	NULL	NULL	NULL	NULL	0	149360353
+UMAG_05632	KIS66844	ustilago_maydis	45.6731	ortholog_one2many	SPPG_04293	KND01203	spizellomyces_punctatus_daom_br117_gca_000182565	55.8824	NULL	NULL	NULL	NULL	0	117177463
+UMAG_05632	KIS66844	ustilago_maydis	48.0769	ortholog_one2many	SPPG_04063	KND00964	spizellomyces_punctatus_daom_br117_gca_000182565	59.1716	NULL	NULL	NULL	NULL	0	118119117
+UMAG_10719	KIS66850	ustilago_maydis	30.914	ortholog_one2one	SPPG_05163	KNC99785	spizellomyces_punctatus_daom_br117_gca_000182565	41.5162	NULL	NULL	NULL	NULL	1	360674248
+UMAG_10720	KIS66851	ustilago_maydis	7.683	ortholog_one2one	SPPG_08723	KNC95858	spizellomyces_punctatus_daom_br117_gca_000182565	23.9623	NULL	NULL	NULL	NULL	0	309652964

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+YAL067C	YAL067C	saccharomyces_cerevisiae	20.742	ortholog_many2many	VFPBJ_10842	OAQ69467	purpureocillium_lilacinum_gca_001653205	28.6047	NULL	NULL	NULL	NULL	NULL	246297109
+YAL067C	YAL067C	saccharomyces_cerevisiae	25.6324	ortholog_many2many	VFPBJ_02432	OAQ83664	purpureocillium_lilacinum_gca_001653205	29.572	NULL	NULL	NULL	NULL	NULL	246753014
+YAL053W	YAL053W	saccharomyces_cerevisiae	20.1788	ortholog_one2many	VFPBJ_02777	OAQ84009	purpureocillium_lilacinum_gca_001653205	20.6536	NULL	NULL	NULL	NULL	0	164772517
+YAL046C	YAL046C	saccharomyces_cerevisiae	36.4407	ortholog_one2one	VFPBJ_00052	OAQ86012	purpureocillium_lilacinum_gca_001653205	24.4318	NULL	NULL	NULL	NULL	0	92622274
+YAL043C	YAL043C	saccharomyces_cerevisiae	18.2166	ortholog_one2one	VFPBJ_02992	OAQ84224	purpureocillium_lilacinum_gca_001653205	19.8336	NULL	NULL	NULL	NULL	NULL	263652151
+YAL038W	YAL038W	saccharomyces_cerevisiae	63.6	ortholog_one2many	VFPBJ_08167	OAQ77695	purpureocillium_lilacinum_gca_001653205	58.78	NULL	NULL	NULL	NULL	NULL	225001747
+YAL034W-A	YAL034W-A	saccharomyces_cerevisiae	24.5675	ortholog_one2one	VFPBJ_02653	OAQ83886	purpureocillium_lilacinum_gca_001653205	16.5501	NULL	NULL	NULL	NULL	0	89635475
+YAL034C	YAL034C	saccharomyces_cerevisiae	21.5496	ortholog_one2many	VFPBJ_06375	OAQ78256	purpureocillium_lilacinum_gca_001653205	23.6702	NULL	NULL	NULL	NULL	0	102826636
+YAL026C	YAL026C	saccharomyces_cerevisiae	52.9889	ortholog_one2one	VFPBJ_03382	OAQ84614	purpureocillium_lilacinum_gca_001653205	52.9889	NULL	NULL	NULL	NULL	NULL	280376549

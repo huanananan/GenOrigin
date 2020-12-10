@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	29.0323	ortholog_one2one	TREMEDRAFT_35661	EIW65902	tremella_mesenterica_dsm_1558_gca_000271645	39.6476	NULL	NULL	NULL	NULL	NULL	252959369
+UMAG_05628	KIS66839	ustilago_maydis	17.6245	ortholog_one2one	TREMEDRAFT_65520	EIW66249	tremella_mesenterica_dsm_1558_gca_000271645	18.4739	NULL	NULL	NULL	NULL	0	107391887
+UMAG_05640	KIS66852	ustilago_maydis	50	ortholog_one2one	TREMEDRAFT_45819	EIW66359	tremella_mesenterica_dsm_1558_gca_000271645	47.9452	NULL	NULL	NULL	NULL	1	122306773
+UMAG_10723	KIS66864	ustilago_maydis	25.8065	ortholog_one2one	TREMEDRAFT_65587	EIW66316	tremella_mesenterica_dsm_1558_gca_000271645	22.409	NULL	NULL	NULL	NULL	NULL	235938579
+UMAG_05651	KIS66866	ustilago_maydis	35.4686	ortholog_one2one	TREMEDRAFT_40971	EIW66304	tremella_mesenterica_dsm_1558_gca_000271645	40.1342	NULL	NULL	NULL	NULL	1	331982220
+UMAG_05663	KIS66877	ustilago_maydis	36.8421	ortholog_one2one	TREMEDRAFT_45716	EIW66584	tremella_mesenterica_dsm_1558_gca_000271645	26.6667	NULL	NULL	NULL	NULL	NULL	281715350
+UMAG_10732	KIS66885	ustilago_maydis	38.8587	ortholog_one2one	TREMEDRAFT_35632	EIW65929	tremella_mesenterica_dsm_1558_gca_000271645	38.1333	NULL	NULL	NULL	NULL	0	305868265
+UMAG_05675	KIS66890	ustilago_maydis	26.9231	ortholog_one2one	TREMEDRAFT_66234	EIW65866	tremella_mesenterica_dsm_1558_gca_000271645	34.593	NULL	NULL	NULL	NULL	NULL	209065554
+UMAG_05683	KIS66898	ustilago_maydis	76.6667	ortholog_one2one	TREMEDRAFT_72432	EIW66357	tremella_mesenterica_dsm_1558_gca_000271645	75.8242	NULL	NULL	NULL	NULL	1	121829684

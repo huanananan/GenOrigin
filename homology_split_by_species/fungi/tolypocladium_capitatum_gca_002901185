@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	19.3548	ortholog_one2one	TCAP_06866	PNY23183	tolypocladium_capitatum_gca_002901185	24.5902	NULL	NULL	NULL	NULL	NULL	262083991
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	TCAP_04254	PNY25810	tolypocladium_capitatum_gca_002901185	42.5743	NULL	NULL	NULL	NULL	1	114307826
+UMAG_05628	KIS66839	ustilago_maydis	7.27969	ortholog_one2many	TCAP_06638	PNY23418	tolypocladium_capitatum_gca_002901185	14.6154	NULL	NULL	NULL	NULL	0	109808459
+UMAG_05628	KIS66839	ustilago_maydis	10.3448	ortholog_one2many	TCAP_06639	PNY23419	tolypocladium_capitatum_gca_002901185	16.7702	NULL	NULL	NULL	NULL	0	109827083
+UMAG_05629	KIS66840	ustilago_maydis	16.2554	ortholog_one2one	TCAP_02390	PNY27687	tolypocladium_capitatum_gca_002901185	15.5125	NULL	NULL	NULL	NULL	0	160304221
+UMAG_12019	KIS66842	ustilago_maydis	23.7473	ortholog_one2one	TCAP_05442	PNY24622	tolypocladium_capitatum_gca_002901185	18.327	NULL	NULL	NULL	NULL	0	154745912
+UMAG_05632	KIS66844	ustilago_maydis	46.6346	ortholog_one2one	TCAP_03362	PNY26709	tolypocladium_capitatum_gca_002901185	55.1136	NULL	NULL	NULL	NULL	1	112576065
+UMAG_10718	KIS66849	ustilago_maydis	50.3808	ortholog_one2one	TCAP_00268	PNY29820	tolypocladium_capitatum_gca_002901185	50.4907	NULL	NULL	NULL	NULL	1	197206756
+UMAG_10719	KIS66850	ustilago_maydis	28.2258	ortholog_one2one	TCAP_01595	PNY28495	tolypocladium_capitatum_gca_002901185	33.7621	NULL	NULL	NULL	NULL	0	360113205

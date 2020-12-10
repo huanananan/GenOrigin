@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05627	KIS66838	ustilago_maydis	38.9764	ortholog_one2one	TDEL_0A03550	CCE89687	torulaspora_delbrueckii_gca_000243375	46.0465	NULL	NULL	NULL	NULL	1	124708939
+UMAG_12019	KIS66842	ustilago_maydis	14.4336	ortholog_one2one	TDEL_0B04890	CCE90618	torulaspora_delbrueckii_gca_000243375	16.9005	NULL	NULL	NULL	NULL	0	161876856
+UMAG_05632	KIS66844	ustilago_maydis	47.1154	ortholog_one2one	TDEL_0A05930	CCE89925	torulaspora_delbrueckii_gca_000243375	65.3333	NULL	NULL	NULL	NULL	1	112586851
+UMAG_05636	KIS66848	ustilago_maydis	11.1307	ortholog_one2one	TDEL_0B02510	CCE90380	torulaspora_delbrueckii_gca_000243375	10.4132	NULL	NULL	NULL	NULL	0	172496803
+UMAG_10720	KIS66851	ustilago_maydis	8.40895	ortholog_one2one	TDEL_0A06140	CCE89946	torulaspora_delbrueckii_gca_000243375	16.144	NULL	NULL	NULL	NULL	0	307499062
+UMAG_05640	KIS66852	ustilago_maydis	32.381	ortholog_one2one	TDEL_0C01050	CCE90994	torulaspora_delbrueckii_gca_000243375	35.9788	NULL	NULL	NULL	NULL	1	124622080
+UMAG_05645	KIS66859	ustilago_maydis	31.6964	ortholog_one2one	TDEL_0A07010	CCE90033	torulaspora_delbrueckii_gca_000243375	36.5979	NULL	NULL	NULL	NULL	NULL	237132861
+UMAG_05646	KIS66860	ustilago_maydis	20.7892	ortholog_one2one	TDEL_0C03540	CCE91243	torulaspora_delbrueckii_gca_000243375	32.2388	NULL	NULL	NULL	NULL	0	326285220
+UMAG_10724	KIS66865	ustilago_maydis	48.6667	ortholog_one2one	TDEL_0A01110	CCE89443	torulaspora_delbrueckii_gca_000243375	48.9933	NULL	NULL	NULL	NULL	NULL	221685918

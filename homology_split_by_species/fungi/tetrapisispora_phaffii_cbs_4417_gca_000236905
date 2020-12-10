@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05627	KIS66838	ustilago_maydis	36.6142	ortholog_one2one	TPHA_0J02890	CCE65110	tetrapisispora_phaffii_cbs_4417_gca_000236905	43.662	NULL	NULL	NULL	NULL	1	124423142
+UMAG_12019	KIS66842	ustilago_maydis	12.2004	ortholog_one2one	TPHA_0I01340	CCE64641	tetrapisispora_phaffii_cbs_4417_gca_000236905	15.5232	NULL	NULL	NULL	NULL	0	161559575
+UMAG_05632	KIS66844	ustilago_maydis	48.5577	ortholog_one2many	TPHA_0G01760	CCE64012	tetrapisispora_phaffii_cbs_4417_gca_000236905	60.479	NULL	NULL	NULL	NULL	1	112572256
+UMAG_05632	KIS66844	ustilago_maydis	47.5962	ortholog_one2many	TPHA_0F03290	CCE63810	tetrapisispora_phaffii_cbs_4417_gca_000236905	66.8919	NULL	NULL	NULL	NULL	1	112589641
+UMAG_05636	KIS66848	ustilago_maydis	11.6608	ortholog_one2one	TPHA_0J01400	CCE64962	tetrapisispora_phaffii_cbs_4417_gca_000236905	10.3611	NULL	NULL	NULL	NULL	0	172925713
+UMAG_10720	KIS66851	ustilago_maydis	8.40895	ortholog_one2one	TPHA_0G01630	CCE63999	tetrapisispora_phaffii_cbs_4417_gca_000236905	15.9587	NULL	NULL	NULL	NULL	0	308270672
+UMAG_05640	KIS66852	ustilago_maydis	30	ortholog_one2one	TPHA_0D00830	CCE62726	tetrapisispora_phaffii_cbs_4417_gca_000236905	33.6898	NULL	NULL	NULL	NULL	1	124885113
+UMAG_05645	KIS66859	ustilago_maydis	34.375	ortholog_one2one	TPHA_0H02040	CCE64408	tetrapisispora_phaffii_cbs_4417_gca_000236905	33.6245	NULL	NULL	NULL	NULL	NULL	236918167
+UMAG_05646	KIS66860	ustilago_maydis	20.308	ortholog_one2one	TPHA_0I02940	CCE64795	tetrapisispora_phaffii_cbs_4417_gca_000236905	29.3056	NULL	NULL	NULL	NULL	0	324360970

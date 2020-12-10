@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05621	KIS66831	ustilago_maydis	16.2424	ortholog_many2many	UHOR_04813	CCF52669	ustilago_hordei_gca_000286035	27.1805	NULL	NULL	NULL	NULL	0	30140671
+UMAG_05621	KIS66831	ustilago_maydis	5.57576	ortholog_many2many	UHOR_13031	CCF48196	ustilago_hordei_gca_000286035	26.5896	NULL	NULL	NULL	NULL	0	30140980
+UMAG_12017	KIS66834	ustilago_maydis	85.1613	ortholog_one2one	UHOR_07261	CCF49364	ustilago_hordei_gca_000286035	84.0764	NULL	NULL	NULL	NULL	NULL	252645949
+UMAG_05624	KIS66835	ustilago_maydis	42.0676	ortholog_one2one	UHOR_07263	CCF49363	ustilago_hordei_gca_000286035	36.0843	NULL	NULL	NULL	NULL	0	48997152
+UMAG_05625	KIS66836	ustilago_maydis	84.4961	ortholog_one2one	UHOR_07264	CCF49362	ustilago_hordei_gca_000286035	64.497	NULL	NULL	NULL	NULL	1	108809371
+UMAG_05626	KIS66837	ustilago_maydis	51.7123	ortholog_one2one	UHOR_07267	CCF47979	ustilago_hordei_gca_000286035	51.1864	NULL	NULL	NULL	NULL	0	355218291
+UMAG_05627	KIS66838	ustilago_maydis	94.4882	ortholog_one2one	UHOR_07268	CCF47978	ustilago_hordei_gca_000286035	94.4882	NULL	NULL	NULL	NULL	1	122269084
+UMAG_05628	KIS66839	ustilago_maydis	65.1341	ortholog_one2one	UHOR_07269	CCF47977	ustilago_hordei_gca_000286035	61.5942	NULL	NULL	NULL	NULL	1	107145584
+UMAG_05629	KIS66840	ustilago_maydis	72.2787	ortholog_one2one	UHOR_07271	CCF47976	ustilago_hordei_gca_000286035	70.4385	NULL	NULL	NULL	NULL	0	151848736

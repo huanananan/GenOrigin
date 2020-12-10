@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05628	KIS66839	ustilago_maydis	18.7739	ortholog_one2one	LEL_01544	OAA81999	cordyceps_confragosa_rcef_1005_gca_001636795	16.2791	NULL	NULL	NULL	NULL	0	109836954
+UMAG_05629	KIS66840	ustilago_maydis	16.9811	ortholog_one2one	LEL_07991	OAA74410	cordyceps_confragosa_rcef_1005_gca_001636795	16.25	NULL	NULL	NULL	NULL	0	158064861
+UMAG_12019	KIS66842	ustilago_maydis	23.5294	ortholog_one2one	LEL_06240	OAA76556	cordyceps_confragosa_rcef_1005_gca_001636795	18.9474	NULL	NULL	NULL	NULL	0	154307507
+UMAG_10718	KIS66849	ustilago_maydis	50.5985	ortholog_one2one	LEL_03973	OAA77150	cordyceps_confragosa_rcef_1005_gca_001636795	50.4886	NULL	NULL	NULL	NULL	1	197200575
+UMAG_10719	KIS66850	ustilago_maydis	27.1505	ortholog_one2one	LEL_03683	OAA80197	cordyceps_confragosa_rcef_1005_gca_001636795	32.7922	NULL	NULL	NULL	NULL	0	360120026
+UMAG_10722	KIS66856	ustilago_maydis	34.7305	ortholog_one2one	LEL_03176	OAA79690	cordyceps_confragosa_rcef_1005_gca_001636795	37.3591	NULL	NULL	NULL	NULL	NULL	201302118
+UMAG_05644	KIS66858	ustilago_maydis	42.5352	ortholog_one2one	LEL_09164	OAA71929	cordyceps_confragosa_rcef_1005_gca_001636795	44.8071	NULL	NULL	NULL	NULL	NULL	236959147
+UMAG_05658	KIS66872	ustilago_maydis	21.0728	ortholog_one2one	LEL_00880	OAA81335	cordyceps_confragosa_rcef_1005_gca_001636795	21.611	NULL	NULL	NULL	NULL	0	64005079
+UMAG_05659	KIS66873	ustilago_maydis	15.2154	ortholog_one2many	LEL_06008	OAA76324	cordyceps_confragosa_rcef_1005_gca_001636795	22.585	NULL	NULL	NULL	NULL	0	178387786

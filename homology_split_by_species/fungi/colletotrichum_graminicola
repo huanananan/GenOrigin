@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	13.871	ortholog_one2one	GLRG_03567	EFQ28423	colletotrichum_graminicola	18.2979	NULL	NULL	NULL	NULL	NULL	258555913
+UMAG_05625	KIS66836	ustilago_maydis	28.6822	ortholog_one2one	GLRG_11902	EFQ36754	colletotrichum_graminicola	37.3737	NULL	NULL	NULL	NULL	1	114295956
+UMAG_05628	KIS66839	ustilago_maydis	20.6897	ortholog_one2one	GLRG_01994	EFQ27499	colletotrichum_graminicola	17.6471	NULL	NULL	NULL	NULL	0	109833177
+UMAG_05629	KIS66840	ustilago_maydis	15.6749	ortholog_one2one	GLRG_08838	EFQ33559	colletotrichum_graminicola	15.1685	NULL	NULL	NULL	NULL	0	158645254
+UMAG_12019	KIS66842	ustilago_maydis	24.4009	ortholog_one2one	GLRG_06141	EFQ30997	colletotrichum_graminicola	18.5047	NULL	NULL	NULL	NULL	0	153608493
+UMAG_10719	KIS66850	ustilago_maydis	24.7312	ortholog_one2one	GLRG_07355	EFQ32211	colletotrichum_graminicola	30.1639	NULL	NULL	NULL	NULL	0	360121667
+UMAG_05642	KIS66854	ustilago_maydis	47.7846	ortholog_one2one	GLRG_09770	EFQ34626	colletotrichum_graminicola	46.9524	NULL	NULL	NULL	NULL	1	150828486
+UMAG_10722	KIS66856	ustilago_maydis	35.0299	ortholog_one2one	GLRG_03329	EFQ28185	colletotrichum_graminicola	39.0651	NULL	NULL	NULL	NULL	NULL	201273569
+UMAG_05644	KIS66858	ustilago_maydis	47.0423	ortholog_one2one	GLRG_08396	EFQ33252	colletotrichum_graminicola	47.1751	NULL	NULL	NULL	NULL	NULL	236278352

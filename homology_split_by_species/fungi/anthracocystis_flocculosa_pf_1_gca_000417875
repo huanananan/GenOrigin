@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05624	KIS66835	ustilago_maydis	26.2027	ortholog_one2one	PFL1_04769	EPQ27631	anthracocystis_flocculosa_pf_1_gca_000417875	22.088	NULL	NULL	NULL	NULL	0	49003219
+UMAG_05625	KIS66836	ustilago_maydis	76.7442	ortholog_one2one	PFL1_04768	EPQ27630	anthracocystis_flocculosa_pf_1_gca_000417875	76.7442	NULL	NULL	NULL	NULL	1	108814207
+UMAG_05627	KIS66838	ustilago_maydis	85.8268	ortholog_one2one	PFL1_04869	EPQ27732	anthracocystis_flocculosa_pf_1_gca_000417875	85.8268	NULL	NULL	NULL	NULL	1	122273384
+UMAG_05629	KIS66840	ustilago_maydis	47.6052	ortholog_one2one	PFL1_04842	EPQ27704	anthracocystis_flocculosa_pf_1_gca_000417875	48.8095	NULL	NULL	NULL	NULL	0	151854834
+UMAG_12019	KIS66842	ustilago_maydis	49.183	ortholog_one2one	PFL1_04859	EPQ27722	anthracocystis_flocculosa_pf_1_gca_000417875	48.1857	NULL	NULL	NULL	NULL	0	148193982
+UMAG_05632	KIS66844	ustilago_maydis	75	ortholog_one2one	PFL1_04767	EPQ27629	anthracocystis_flocculosa_pf_1_gca_000417875	75.7282	NULL	NULL	NULL	NULL	1	110233941
+UMAG_15021	KIS66846	ustilago_maydis	65.286	ortholog_one2one	PFL1_04918	EPQ27379	anthracocystis_flocculosa_pf_1_gca_000417875	64.902	NULL	NULL	NULL	NULL	0	347484791
+UMAG_05636	KIS66848	ustilago_maydis	48.7633	ortholog_one2one	PFL1_02865	EPQ29645	anthracocystis_flocculosa_pf_1_gca_000417875	50	NULL	NULL	NULL	NULL	0	170466990
+UMAG_10718	KIS66849	ustilago_maydis	78.8901	ortholog_one2one	PFL1_04843	EPQ27705	anthracocystis_flocculosa_pf_1_gca_000417875	78.8043	NULL	NULL	NULL	NULL	0	196317025

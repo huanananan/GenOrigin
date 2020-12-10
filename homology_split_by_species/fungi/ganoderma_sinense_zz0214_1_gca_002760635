@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	34.8387	ortholog_one2one	GSI_00267	PIL36578	ganoderma_sinense_zz0214_1_gca_002760635	45.9574	NULL	NULL	NULL	NULL	NULL	252955057
+UMAG_05625	KIS66836	ustilago_maydis	44.9612	ortholog_one2one	GSI_01066	PIL37373	ganoderma_sinense_zz0214_1_gca_002760635	49.5727	NULL	NULL	NULL	NULL	1	110010427
+UMAG_05626	KIS66837	ustilago_maydis	31.8493	ortholog_one2many	GSI_01328	PIL37634	ganoderma_sinense_zz0214_1_gca_002760635	27.0349	NULL	NULL	NULL	NULL	1	355342939
+UMAG_05626	KIS66837	ustilago_maydis	31.8493	ortholog_one2many	GSI_01333	PIL37639	ganoderma_sinense_zz0214_1_gca_002760635	27.0349	NULL	NULL	NULL	NULL	1	355346826
+UMAG_05627	KIS66838	ustilago_maydis	42.9134	ortholog_one2one	GSI_12858	PIL24971	ganoderma_sinense_zz0214_1_gca_002760635	50	NULL	NULL	NULL	NULL	1	122450285
+UMAG_05628	KIS66839	ustilago_maydis	22.2222	ortholog_one2one	GSI_02419	PIL35689	ganoderma_sinense_zz0214_1_gca_002760635	30.5263	NULL	NULL	NULL	NULL	0	107392143
+UMAG_12019	KIS66842	ustilago_maydis	28.4314	ortholog_one2one	GSI_00921	PIL37228	ganoderma_sinense_zz0214_1_gca_002760635	25.012	NULL	NULL	NULL	NULL	1	148490198
+UMAG_05631	KIS66843	ustilago_maydis	19.0237	ortholog_one2one	GSI_01135	PIL37441	ganoderma_sinense_zz0214_1_gca_002760635	19.6296	NULL	NULL	NULL	NULL	0	106875671
+UMAG_05632	KIS66844	ustilago_maydis	59.6154	ortholog_one2one	GSI_00555	PIL36865	ganoderma_sinense_zz0214_1_gca_002760635	67.027	NULL	NULL	NULL	NULL	1	111008034

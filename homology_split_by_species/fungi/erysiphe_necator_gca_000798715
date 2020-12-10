@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	EV44_g2168	KHJ31762	erysiphe_necator_gca_000798715	41.4141	NULL	NULL	NULL	NULL	1	114300061
+UMAG_05628	KIS66839	ustilago_maydis	16.4751	ortholog_one2one	EV44_g3129	KHJ34591	erysiphe_necator_gca_000798715	13.4796	NULL	NULL	NULL	NULL	0	109826071
+UMAG_05629	KIS66840	ustilago_maydis	15.82	ortholog_one2one	EV44_g0617	KHJ34142	erysiphe_necator_gca_000798715	14.0645	NULL	NULL	NULL	NULL	0	160331581
+UMAG_12019	KIS66842	ustilago_maydis	23.4749	ortholog_one2one	EV44_g1467	KHJ32831	erysiphe_necator_gca_000798715	18.3093	NULL	NULL	NULL	NULL	0	154351819
+UMAG_10718	KIS66849	ustilago_maydis	51.1425	ortholog_one2one	EV44_g6484	KHJ33819	erysiphe_necator_gca_000798715	51.7052	NULL	NULL	NULL	NULL	1	197196594
+UMAG_10722	KIS66856	ustilago_maydis	33.5329	ortholog_one2one	EV44_g6157	KHJ35240	erysiphe_necator_gca_000798715	41.791	NULL	NULL	NULL	NULL	NULL	201308835
+UMAG_05658	KIS66872	ustilago_maydis	19.7318	ortholog_one2one	EV44_g5476	KHJ34517	erysiphe_necator_gca_000798715	20.7243	NULL	NULL	NULL	NULL	0	63986109
+UMAG_05659	KIS66873	ustilago_maydis	16.5903	ortholog_one2many	EV44_g2636	KHJ33717	erysiphe_necator_gca_000798715	16.5903	NULL	NULL	NULL	NULL	0	178361101
+UMAG_05698	KIS66914	ustilago_maydis	39.7333	ortholog_one2one	EV44_g0622	KHJ33772	erysiphe_necator_gca_000798715	50.423	NULL	NULL	NULL	NULL	1	181763575

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.0078	ortholog_one2one	CDV58_06041	OXN03730	aspergillus_fumigatus_gca_002234985	40	NULL	NULL	NULL	NULL	1	114307986
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	CDV58_02183	OXN07979	aspergillus_fumigatus_gca_002234985	17.6871	NULL	NULL	NULL	NULL	0	109814015
+UMAG_05632	KIS66844	ustilago_maydis	46.1538	ortholog_one2one	CDV58_00764	OXN10565	aspergillus_fumigatus_gca_002234985	43.6364	NULL	NULL	NULL	NULL	1	112568946
+UMAG_10718	KIS66849	ustilago_maydis	49.4015	ortholog_one2one	CDV58_00620	OXN10316	aspergillus_fumigatus_gca_002234985	50.8399	NULL	NULL	NULL	NULL	1	197202251
+UMAG_10719	KIS66850	ustilago_maydis	30.3763	ortholog_one2one	CDV58_02979	OXN07602	aspergillus_fumigatus_gca_002234985	35.3125	NULL	NULL	NULL	NULL	0	360115043
+UMAG_10722	KIS66856	ustilago_maydis	33.5329	ortholog_one2one	CDV58_04959	OXN07146	aspergillus_fumigatus_gca_002234985	38.0952	NULL	NULL	NULL	NULL	NULL	201266224
+UMAG_05644	KIS66858	ustilago_maydis	43.9437	ortholog_one2many	CDV58_06050	OXN05712	aspergillus_fumigatus_gca_002234985	43.8202	NULL	NULL	NULL	NULL	NULL	235976675
+UMAG_05644	KIS66858	ustilago_maydis	30.9859	ortholog_one2many	CDV58_06181	OXN04541	aspergillus_fumigatus_gca_002234985	47.619	NULL	NULL	NULL	NULL	NULL	237060679
+UMAG_05656	KIS66871	ustilago_maydis	10.5304	ortholog_one2one	CDV58_08909	OXN02525	aspergillus_fumigatus_gca_002234985	23.1029	NULL	NULL	NULL	NULL	0	140188983

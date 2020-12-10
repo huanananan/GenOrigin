@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	CPSG_00002	EFW22103	coccidioides_posadasii_str_silveira_gca_000170175	37.2727	NULL	NULL	NULL	NULL	1	114260720
+UMAG_05628	KIS66839	ustilago_maydis	21.4559	ortholog_one2one	CPSG_09411	EFW14044	coccidioides_posadasii_str_silveira_gca_000170175	20.0717	NULL	NULL	NULL	NULL	0	109822598
+UMAG_15021	KIS66846	ustilago_maydis	39.4477	ortholog_one2one	CPSG_01531	EFW21374	coccidioides_posadasii_str_silveira_gca_000170175	40.7332	NULL	NULL	NULL	NULL	1	349588659
+UMAG_10719	KIS66850	ustilago_maydis	30.6452	ortholog_one2one	CPSG_00674	EFW22775	coccidioides_posadasii_str_silveira_gca_000170175	36.7742	NULL	NULL	NULL	NULL	0	360117960
+UMAG_10722	KIS66856	ustilago_maydis	33.8323	ortholog_one2one	CPSG_02226	EFW22069	coccidioides_posadasii_str_silveira_gca_000170175	37.4793	NULL	NULL	NULL	NULL	NULL	201281641
+UMAG_05644	KIS66858	ustilago_maydis	45.0704	ortholog_one2one	CPSG_06706	EFW16747	coccidioides_posadasii_str_silveira_gca_000170175	44.9438	NULL	NULL	NULL	NULL	NULL	236126958
+UMAG_05656	KIS66871	ustilago_maydis	10.0692	ortholog_one2one	CPSG_03198	EFW20023	coccidioides_posadasii_str_silveira_gca_000170175	21.5461	NULL	NULL	NULL	NULL	0	140194920
+UMAG_05658	KIS66872	ustilago_maydis	18.9655	ortholog_one2one	CPSG_02630	EFW20787	coccidioides_posadasii_str_silveira_gca_000170175	18.3673	NULL	NULL	NULL	NULL	0	63968734
+UMAG_05659	KIS66873	ustilago_maydis	16.8653	ortholog_one2many	CPSG_05003	EFW18317	coccidioides_posadasii_str_silveira_gca_000170175	18.8332	NULL	NULL	NULL	NULL	0	178392435

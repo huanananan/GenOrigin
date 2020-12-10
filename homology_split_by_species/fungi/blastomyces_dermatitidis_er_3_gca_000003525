@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.0078	ortholog_one2one	BDCG_06485	EEQ91365	blastomyces_dermatitidis_er_3_gca_000003525	28.777	NULL	NULL	NULL	NULL	1	114278252
+UMAG_05628	KIS66839	ustilago_maydis	21.0728	ortholog_one2one	BDCG_03587	EEQ88467	blastomyces_dermatitidis_er_3_gca_000003525	19.4346	NULL	NULL	NULL	NULL	0	109831273
+UMAG_15021	KIS66846	ustilago_maydis	45.7594	ortholog_one2one	BDCG_08165	OAT02720	blastomyces_dermatitidis_er_3_gca_000003525	47.9339	NULL	NULL	NULL	NULL	1	349594571
+UMAG_10719	KIS66850	ustilago_maydis	31.1828	ortholog_one2one	BDCG_06960	EEQ91840	blastomyces_dermatitidis_er_3_gca_000003525	35.6923	NULL	NULL	NULL	NULL	0	360120222
+UMAG_05642	KIS66854	ustilago_maydis	34.424	ortholog_one2one	BDCG_16917	OAT01106	blastomyces_dermatitidis_er_3_gca_000003525	44.2207	NULL	NULL	NULL	NULL	1	151285773
+UMAG_10722	KIS66856	ustilago_maydis	33.982	ortholog_one2one	BDCG_02845	OAT00453	blastomyces_dermatitidis_er_3_gca_000003525	38.0872	NULL	NULL	NULL	NULL	NULL	201252991
+UMAG_05644	KIS66858	ustilago_maydis	45.9155	ortholog_one2one	BDCG_00511	OAS99472	blastomyces_dermatitidis_er_3_gca_000003525	45.7865	NULL	NULL	NULL	NULL	NULL	237814281
+UMAG_05656	KIS66871	ustilago_maydis	8.68563	ortholog_one2one	BDCG_02924	OAT00500	blastomyces_dermatitidis_er_3_gca_000003525	18.7396	NULL	NULL	NULL	NULL	0	140182353
+UMAG_05658	KIS66872	ustilago_maydis	20.8812	ortholog_one2one	BDCG_00965	EEQ84160	blastomyces_dermatitidis_er_3_gca_000003525	18.2274	NULL	NULL	NULL	NULL	0	63991132

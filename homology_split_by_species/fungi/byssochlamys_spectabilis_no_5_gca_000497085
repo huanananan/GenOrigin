@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	PVAR5_8577	GAD99850	byssochlamys_spectabilis_no_5_gca_000497085	43.8776	NULL	NULL	NULL	NULL	1	114271904
+UMAG_05628	KIS66839	ustilago_maydis	20.6897	ortholog_one2one	PVAR5_8145	GAD99430	byssochlamys_spectabilis_no_5_gca_000497085	17.8808	NULL	NULL	NULL	NULL	0	109813713
+UMAG_05632	KIS66844	ustilago_maydis	46.6346	ortholog_one2many	PVAR5_1953	GAD93343	byssochlamys_spectabilis_no_5_gca_000497085	50	NULL	NULL	NULL	NULL	1	112571845
+UMAG_05632	KIS66844	ustilago_maydis	41.3462	ortholog_one2many	PVAR5_2669	GAD94049	byssochlamys_spectabilis_no_5_gca_000497085	52.7607	NULL	NULL	NULL	NULL	1	112579689
+UMAG_10718	KIS66849	ustilago_maydis	51.7954	ortholog_one2one	PVAR5_6116	GAD97441	byssochlamys_spectabilis_no_5_gca_000497085	52.193	NULL	NULL	NULL	NULL	1	197204713
+UMAG_10719	KIS66850	ustilago_maydis	28.4946	ortholog_one2one	PVAR5_0685	GAD92099	byssochlamys_spectabilis_no_5_gca_000497085	33.9744	NULL	NULL	NULL	NULL	0	360110795
+UMAG_10722	KIS66856	ustilago_maydis	33.8323	ortholog_one2one	PVAR5_7337	GAD98638	byssochlamys_spectabilis_no_5_gca_000497085	37.7295	NULL	NULL	NULL	NULL	NULL	201288393
+UMAG_05644	KIS66858	ustilago_maydis	45.9155	ortholog_one2many	PVAR5_6483	GAD97801	byssochlamys_spectabilis_no_5_gca_000497085	45.7865	NULL	NULL	NULL	NULL	NULL	235851347
+UMAG_05644	KIS66858	ustilago_maydis	48.4507	ortholog_one2many	PVAR5_3877	GAD95237	byssochlamys_spectabilis_no_5_gca_000497085	45.8667	NULL	NULL	NULL	NULL	NULL	236798643

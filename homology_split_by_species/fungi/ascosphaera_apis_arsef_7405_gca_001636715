@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	AAP_01204	KZZ96431	ascosphaera_apis_arsef_7405_gca_001636715	37.8641	NULL	NULL	NULL	NULL	1	114268264
+UMAG_05628	KIS66839	ustilago_maydis	19.5402	ortholog_one2one	AAP_01910	KZZ94610	ascosphaera_apis_arsef_7405_gca_001636715	18.8192	NULL	NULL	NULL	NULL	0	109814683
+UMAG_05629	KIS66840	ustilago_maydis	16.1103	ortholog_one2one	AAP_01679	KZZ95191	ascosphaera_apis_arsef_7405_gca_001636715	13.0896	NULL	NULL	NULL	NULL	0	157804464
+UMAG_10718	KIS66849	ustilago_maydis	51.1425	ortholog_one2one	AAP_03972	KZZ90022	ascosphaera_apis_arsef_7405_gca_001636715	51.9337	NULL	NULL	NULL	NULL	1	197189775
+UMAG_10722	KIS66856	ustilago_maydis	34.8802	ortholog_one2one	AAP_00823	KZZ97180	ascosphaera_apis_arsef_7405_gca_001636715	39.4915	NULL	NULL	NULL	NULL	NULL	201307122
+UMAG_10723	KIS66864	ustilago_maydis	24.1935	ortholog_one2one	AAP_02191	KZZ94098	ascosphaera_apis_arsef_7405_gca_001636715	19.2308	NULL	NULL	NULL	NULL	NULL	238027297
+UMAG_05658	KIS66872	ustilago_maydis	16.092	ortholog_one2one	AAP_00154	KZZ97893	ascosphaera_apis_arsef_7405_gca_001636715	17.2131	NULL	NULL	NULL	NULL	0	63983209
+UMAG_05659	KIS66873	ustilago_maydis	16.6819	ortholog_one2many	AAP_03363	KZZ91657	ascosphaera_apis_arsef_7405_gca_001636715	15.1288	NULL	NULL	NULL	NULL	0	178371797
+UMAG_10730	KIS66883	ustilago_maydis	10.6516	ortholog_one2many	AAP_01548	KZZ95060	ascosphaera_apis_arsef_7405_gca_001636715	26.1474	NULL	NULL	NULL	NULL	0	190173156

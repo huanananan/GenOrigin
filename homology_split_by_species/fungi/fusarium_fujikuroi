@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	17.4194	ortholog_one2one	FFUJ_08002	CCT69065	fusarium_fujikuroi	23.0769	NULL	NULL	NULL	NULL	NULL	259992559
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	FFUJ_13658	CCT67447	fusarium_fujikuroi	41.5842	NULL	NULL	NULL	NULL	1	114304246
+UMAG_05628	KIS66839	ustilago_maydis	18.3908	ortholog_one2one	FFUJ_13557	CCT67350	fusarium_fujikuroi	16.2162	NULL	NULL	NULL	NULL	0	109826874
+UMAG_05629	KIS66840	ustilago_maydis	15.9652	ortholog_one2one	FFUJ_06093	CCT70146	fusarium_fujikuroi	15.7593	NULL	NULL	NULL	NULL	0	160050730
+UMAG_12019	KIS66842	ustilago_maydis	23.6383	ortholog_one2one	FFUJ_08794	CCT71158	fusarium_fujikuroi	17.8969	NULL	NULL	NULL	NULL	0	154431372
+UMAG_15021	KIS66846	ustilago_maydis	38.6588	ortholog_one2one	FFUJ_03587	CCT66550	fusarium_fujikuroi	40.4959	NULL	NULL	NULL	NULL	1	349603898
+UMAG_10719	KIS66850	ustilago_maydis	27.4194	ortholog_one2one	FFUJ_00824	CCT62609	fusarium_fujikuroi	34	NULL	NULL	NULL	NULL	0	360112688
+UMAG_10722	KIS66856	ustilago_maydis	34.7305	ortholog_one2one	FFUJ_07234	CCT69435	fusarium_fujikuroi	39.0572	NULL	NULL	NULL	NULL	NULL	201280103
+UMAG_05644	KIS66858	ustilago_maydis	42.5352	ortholog_one2many	FFUJ_10271	CCT74228	fusarium_fujikuroi	43.1429	NULL	NULL	NULL	NULL	NULL	236672305

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	28.6822	ortholog_one2one	CCM_01206	EGX96549	cordyceps_militaris_cm01_gca_000225605	19.7861	NULL	NULL	NULL	NULL	0	114284166
+UMAG_05628	KIS66839	ustilago_maydis	17.2414	ortholog_one2one	CCM_01286	EGX96628	cordyceps_militaris_cm01_gca_000225605	15.3061	NULL	NULL	NULL	NULL	0	109811358
+UMAG_05629	KIS66840	ustilago_maydis	16.5457	ortholog_one2one	CCM_04611	EGX93239	cordyceps_militaris_cm01_gca_000225605	15.8774	NULL	NULL	NULL	NULL	0	159594595
+UMAG_12019	KIS66842	ustilago_maydis	22.8214	ortholog_one2one	CCM_09305	EGX88169	cordyceps_militaris_cm01_gca_000225605	17.9828	NULL	NULL	NULL	NULL	0	156526684
+UMAG_10718	KIS66849	ustilago_maydis	50.5985	ortholog_one2one	CCM_01980	EGX93711	cordyceps_militaris_cm01_gca_000225605	50.3792	NULL	NULL	NULL	NULL	1	197200193
+UMAG_10719	KIS66850	ustilago_maydis	25.8065	ortholog_one2one	CCM_04764	EGX93390	cordyceps_militaris_cm01_gca_000225605	30.6709	NULL	NULL	NULL	NULL	0	360113834
+UMAG_10722	KIS66856	ustilago_maydis	33.5329	ortholog_one2one	CCM_01089	EGX96433	cordyceps_militaris_cm01_gca_000225605	35.7827	NULL	NULL	NULL	NULL	NULL	201307651
+UMAG_05644	KIS66858	ustilago_maydis	40.2817	ortholog_one2one	CCM_05807	EGX91649	cordyceps_militaris_cm01_gca_000225605	38.4409	NULL	NULL	NULL	NULL	NULL	237587889
+UMAG_05658	KIS66872	ustilago_maydis	19.1571	ortholog_one2one	CCM_04182	EGX92809	cordyceps_militaris_cm01_gca_000225605	19.3798	NULL	NULL	NULL	NULL	0	64004329

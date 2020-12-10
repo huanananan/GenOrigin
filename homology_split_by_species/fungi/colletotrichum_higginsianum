@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	13.5484	ortholog_one2one	CH063_00467	CCF43320	colletotrichum_higginsianum	24	NULL	NULL	NULL	NULL	NULL	261592921
+UMAG_05625	KIS66836	ustilago_maydis	28.6822	ortholog_one2one	CH063_13302	CCF43663	colletotrichum_higginsianum	37.3737	NULL	NULL	NULL	NULL	1	114289765
+UMAG_05628	KIS66839	ustilago_maydis	21.8391	ortholog_one2one	CH063_00624	CCF46632	colletotrichum_higginsianum	18.5668	NULL	NULL	NULL	NULL	0	109831485
+UMAG_05629	KIS66840	ustilago_maydis	15.82	ortholog_one2one	CH063_06560	CCF34600	colletotrichum_higginsianum	15.3305	NULL	NULL	NULL	NULL	0	158034668
+UMAG_12019	KIS66842	ustilago_maydis	9.04139	ortholog_one2many	CH063_09785	CCF38778	colletotrichum_higginsianum	13.8912	NULL	NULL	NULL	NULL	0	152712891
+UMAG_12019	KIS66842	ustilago_maydis	10.1852	ortholog_one2many	CH063_11265	CCF40787	colletotrichum_higginsianum	27.2198	NULL	NULL	NULL	NULL	0	155450240
+UMAG_10718	KIS66849	ustilago_maydis	48.0958	ortholog_one2one	CH063_07042	CCF35206	colletotrichum_higginsianum	56.2341	NULL	NULL	NULL	NULL	1	197208881
+UMAG_10719	KIS66850	ustilago_maydis	25	ortholog_one2one	CH063_04907	CCF32529	colletotrichum_higginsianum	30.4918	NULL	NULL	NULL	NULL	0	360111710
+UMAG_10722	KIS66856	ustilago_maydis	34.7305	ortholog_one2one	CH063_06273	CCF34244	colletotrichum_higginsianum	40.3478	NULL	NULL	NULL	NULL	NULL	201303624

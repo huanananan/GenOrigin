@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+YAL067C	YAL067C	saccharomyces_cerevisiae	49.9157	ortholog_one2many	W5Q_06127	KHC70533	candida_albicans_sc5314_gca_000784635	49.0066	NULL	NULL	NULL	NULL	NULL	242409082
+YAL067C	YAL067C	saccharomyces_cerevisiae	50.4216	ortholog_one2many	W5Q_06114	KHC70520	candida_albicans_sc5314_gca_000784635	49.0969	NULL	NULL	NULL	NULL	NULL	242412151
+YAL062W	YAL062W	saccharomyces_cerevisiae	71.116	ortholog_one2many	W5Q_03902	KHC76686	candida_albicans_sc5314_gca_000784635	71.2719	NULL	NULL	NULL	NULL	1	194782435
+YAL061W	YAL061W	saccharomyces_cerevisiae	37.6499	ortholog_many2many	W5Q_05998	KHC70412	candida_albicans_sc5314_gca_000784635	36.092	NULL	NULL	NULL	NULL	1	337636920
+YAL061W	YAL061W	saccharomyces_cerevisiae	42.6859	ortholog_many2many	W5Q_00464	KHC83252	candida_albicans_sc5314_gca_000784635	45.1777	NULL	NULL	NULL	NULL	1	337639340
+YAL060W	YAL060W	saccharomyces_cerevisiae	43.7173	ortholog_many2many	W5Q_05998	KHC70412	candida_albicans_sc5314_gca_000784635	38.3908	NULL	NULL	NULL	NULL	1	337663945
+YAL060W	YAL060W	saccharomyces_cerevisiae	46.3351	ortholog_many2many	W5Q_00464	KHC83252	candida_albicans_sc5314_gca_000784635	44.9239	NULL	NULL	NULL	NULL	1	337666373
+YAL059W	YAL059W	saccharomyces_cerevisiae	31.1321	ortholog_one2one	W5Q_03712	KHC76501	candida_albicans_sc5314_gca_000784635	33.5025	NULL	NULL	NULL	NULL	0	27178689
+YAL058W	YAL058W	saccharomyces_cerevisiae	28.8845	ortholog_one2one	W5Q_03713	KHC76502	candida_albicans_sc5314_gca_000784635	24.9141	NULL	NULL	NULL	NULL	0	135827307

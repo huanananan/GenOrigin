@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05628	KIS66839	ustilago_maydis	16.092	ortholog_one2one	CPUR_04339	CCE30491	claviceps_purpurea_20_1_gca_000347355	11.5068	NULL	NULL	NULL	NULL	0	109819214
+UMAG_05629	KIS66840	ustilago_maydis	16.6909	ortholog_one2one	CPUR_03519	CCE29672	claviceps_purpurea_20_1_gca_000347355	15.7967	NULL	NULL	NULL	NULL	0	157979770
+UMAG_12019	KIS66842	ustilago_maydis	23.5294	ortholog_one2one	CPUR_00100	CCE26631	claviceps_purpurea_20_1_gca_000347355	17.8734	NULL	NULL	NULL	NULL	0	154059746
+UMAG_05632	KIS66844	ustilago_maydis	37.9808	ortholog_one2one	CPUR_00051	CCE26583	claviceps_purpurea_20_1_gca_000347355	50.9677	NULL	NULL	NULL	NULL	1	112579523
+UMAG_10718	KIS66849	ustilago_maydis	51.0337	ortholog_one2one	CPUR_06280	CCE32420	claviceps_purpurea_20_1_gca_000347355	50.7027	NULL	NULL	NULL	NULL	1	197187041
+UMAG_10719	KIS66850	ustilago_maydis	24.7312	ortholog_one2one	CPUR_08382	CCE34450	claviceps_purpurea_20_1_gca_000347355	29.6774	NULL	NULL	NULL	NULL	0	360116845
+UMAG_05642	KIS66854	ustilago_maydis	46.1486	ortholog_one2one	CPUR_02023	CCE35094	claviceps_purpurea_20_1_gca_000347355	46.0544	NULL	NULL	NULL	NULL	1	150921345
+UMAG_10722	KIS66856	ustilago_maydis	35.0299	ortholog_one2one	CPUR_03050	CCE29357	claviceps_purpurea_20_1_gca_000347355	35.6707	NULL	NULL	NULL	NULL	NULL	201296018
+UMAG_05644	KIS66858	ustilago_maydis	39.7183	ortholog_one2one	CPUR_06152	CCE32292	claviceps_purpurea_20_1_gca_000347355	48.2877	NULL	NULL	NULL	NULL	NULL	236662634

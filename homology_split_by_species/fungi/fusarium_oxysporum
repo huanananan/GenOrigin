@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	15.5039	ortholog_one2one	FOXG_08174	FOXG_08174P0	fusarium_oxysporum	26.3158	NULL	NULL	NULL	NULL	0	114285930
+UMAG_05628	KIS66839	ustilago_maydis	18.3908	ortholog_one2one	FOXG_08072	FOXG_08072P0	fusarium_oxysporum	15.894	NULL	NULL	NULL	NULL	0	109843543
+UMAG_05629	KIS66840	ustilago_maydis	15.82	ortholog_one2one	FOXG_03215	FOXG_03215P0	fusarium_oxysporum	15.616	NULL	NULL	NULL	NULL	0	159157563
+UMAG_12019	KIS66842	ustilago_maydis	23.5294	ortholog_one2one	FOXG_09226	FOXG_09226P0	fusarium_oxysporum	17.8512	NULL	NULL	NULL	NULL	0	153935860
+UMAG_15021	KIS66846	ustilago_maydis	38.0671	ortholog_one2one	FOXG_02523	FOXG_02523P0	fusarium_oxysporum	39.9586	NULL	NULL	NULL	NULL	1	349573099
+UMAG_10719	KIS66850	ustilago_maydis	26.3441	ortholog_one2one	FOXG_00746	FOXG_00746P0	fusarium_oxysporum	32.6667	NULL	NULL	NULL	NULL	0	360116603
+UMAG_05642	KIS66854	ustilago_maydis	48.4663	ortholog_one2one	FOXG_02979	FOXG_02979P0	fusarium_oxysporum	48.4003	NULL	NULL	NULL	NULL	1	150879849
+UMAG_10722	KIS66856	ustilago_maydis	32.0359	ortholog_one2one	FOXG_05194	FOXG_05194P0	fusarium_oxysporum	53.6341	NULL	NULL	NULL	NULL	NULL	201308495
+UMAG_05644	KIS66858	ustilago_maydis	43.662	ortholog_one2many	FOXG_10912	FOXG_10912P0	fusarium_oxysporum	45.0581	NULL	NULL	NULL	NULL	NULL	236007078

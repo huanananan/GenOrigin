@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	19.6774	ortholog_one2one	An01g01190	CAK43495	aspergillus_niger	29.0476	NULL	NULL	NULL	NULL	NULL	259927076
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	An11g11290	CAK40927	aspergillus_niger	36.1111	NULL	NULL	NULL	NULL	1	114293313
+UMAG_05628	KIS66839	ustilago_maydis	22.2222	ortholog_one2one	An16g02070	CAL00431	aspergillus_niger	15.847	NULL	NULL	NULL	NULL	0	109828135
+UMAG_10718	KIS66849	ustilago_maydis	49.2927	ortholog_one2many	An03g06360	CAK38392	aspergillus_niger	51.89	NULL	NULL	NULL	NULL	1	197203214
+UMAG_10718	KIS66849	ustilago_maydis	52.4483	ortholog_one2many	An09g04010	CAK96843	aspergillus_niger	52.7352	NULL	NULL	NULL	NULL	1	197204995
+UMAG_10719	KIS66850	ustilago_maydis	30.3763	ortholog_one2one	An16g01770	CAK42794	aspergillus_niger	35.6467	NULL	NULL	NULL	NULL	0	360113777
+UMAG_10722	KIS66856	ustilago_maydis	34.2814	ortholog_one2one	An02g14670	CAK48896	aspergillus_niger	37.055	NULL	NULL	NULL	NULL	NULL	201278203
+UMAG_05644	KIS66858	ustilago_maydis	45.0704	ortholog_one2many	An07g07160	CAL00758	aspergillus_niger	44.9438	NULL	NULL	NULL	NULL	NULL	236319361
+UMAG_05644	KIS66858	ustilago_maydis	43.662	ortholog_one2many	An13g03970	CAK41788	aspergillus_niger	43.2961	NULL	NULL	NULL	NULL	NULL	237005538

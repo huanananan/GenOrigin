@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_04053	KIS68012	ustilago_maydis	40.8344	ortholog_one2one	FOMMEDRAFT_24166	EJC97727	fomitiporia_mediterranea_mf3_22_gca_000271605	52.0968	NULL	NULL	NULL	NULL	0	164575143
+UMAG_04061	KIS68020	ustilago_maydis	11.7647	ortholog_one2many	FOMMEDRAFT_162930	EJC97537	fomitiporia_mediterranea_mf3_22_gca_000271605	50	NULL	NULL	NULL	NULL	NULL	243359896
+UMAG_05037	KIS67170	ustilago_maydis	8.39895	ortholog_one2many	FOMMEDRAFT_162930	EJC97537	fomitiporia_mediterranea_mf3_22_gca_000271605	38.0952	NULL	NULL	NULL	NULL	NULL	243359490
+UMAG_04347	KIS67243	ustilago_maydis	43.7423	ortholog_one2one	FOMMEDRAFT_115238	EJC97675	fomitiporia_mediterranea_mf3_22_gca_000271605	42.5814	NULL	NULL	NULL	NULL	NULL	292704428
+UMAG_04367	KIS67264	ustilago_maydis	10.8407	ortholog_one2one	FOMMEDRAFT_100225	EJC97286	fomitiporia_mediterranea_mf3_22_gca_000271605	31.6129	NULL	NULL	NULL	NULL	NULL	295743659
+UMAG_10523	KIS67325	ustilago_maydis	43.5737	ortholog_one2one	FOMMEDRAFT_98389	EJC97620	fomitiporia_mediterranea_mf3_22_gca_000271605	47.4403	NULL	NULL	NULL	NULL	NULL	284803384
+UMAG_04457	KIS67355	ustilago_maydis	46.7662	ortholog_one2one	FOMMEDRAFT_171641	EJC97479	fomitiporia_mediterranea_mf3_22_gca_000271605	50.2674	NULL	NULL	NULL	NULL	1	169452583
+UMAG_06467	KIS65763	ustilago_maydis	16.09	ortholog_one2many	FOMMEDRAFT_162598	EJC97779	fomitiporia_mediterranea_mf3_22_gca_000271605	18.4158	NULL	NULL	NULL	NULL	0	99948564
+UMAG_06467	KIS65763	ustilago_maydis	16.09	ortholog_one2many	FOMMEDRAFT_162596	EJC97777	fomitiporia_mediterranea_mf3_22_gca_000271605	18.2711	NULL	NULL	NULL	NULL	0	100990785

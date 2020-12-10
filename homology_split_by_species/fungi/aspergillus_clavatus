@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	ACLA_033380	EAW09135	aspergillus_clavatus	39	NULL	NULL	NULL	NULL	1	114271151
+UMAG_05628	KIS66839	ustilago_maydis	21.4559	ortholog_one2one	ACLA_036800	EAW09475	aspergillus_clavatus	18.9831	NULL	NULL	NULL	NULL	0	109821495
+UMAG_05632	KIS66844	ustilago_maydis	41.8269	ortholog_one2one	ACLA_046000	EAW10135	aspergillus_clavatus	50.8772	NULL	NULL	NULL	NULL	1	112584501
+UMAG_10718	KIS66849	ustilago_maydis	49.8368	ortholog_one2many	ACLA_004550	EAW15041	aspergillus_clavatus	51.1161	NULL	NULL	NULL	NULL	1	197191804
+UMAG_10718	KIS66849	ustilago_maydis	52.1219	ortholog_one2many	ACLA_041870	EAW09965	aspergillus_clavatus	52.5796	NULL	NULL	NULL	NULL	1	197195252
+UMAG_10719	KIS66850	ustilago_maydis	30.1075	ortholog_one2one	ACLA_003350	EAW14922	aspergillus_clavatus	36.246	NULL	NULL	NULL	NULL	0	360110755
+UMAG_10722	KIS66856	ustilago_maydis	33.0838	ortholog_one2one	ACLA_068250	EAW13798	aspergillus_clavatus	43.9364	NULL	NULL	NULL	NULL	NULL	201279067
+UMAG_05644	KIS66858	ustilago_maydis	43.9437	ortholog_one2many	ACLA_092000	EAW11502	aspergillus_clavatus	43.8202	NULL	NULL	NULL	NULL	NULL	237266247
+UMAG_05644	KIS66858	ustilago_maydis	42.8169	ortholog_one2many	ACLA_062530	EAW12288	aspergillus_clavatus	45.7831	NULL	NULL	NULL	NULL	NULL	237666709

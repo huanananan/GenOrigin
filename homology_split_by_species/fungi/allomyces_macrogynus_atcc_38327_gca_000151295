@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.0078	ortholog_one2many	AMAG_01346	KNE55454	allomyces_macrogynus_atcc_38327_gca_000151295	32.2581	NULL	NULL	NULL	NULL	1	117796066
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2many	AMAG_05541	KNE60117	allomyces_macrogynus_atcc_38327_gca_000151295	31.4516	NULL	NULL	NULL	NULL	1	117870416
+UMAG_05628	KIS66839	ustilago_maydis	21.0728	ortholog_one2many	AMAG_06933	KNE61182	allomyces_macrogynus_atcc_38327_gca_000151295	6.67476	NULL	NULL	NULL	NULL	0	114729205
+UMAG_05628	KIS66839	ustilago_maydis	6.89655	ortholog_one2many	AMAG_03782	KNE59511	allomyces_macrogynus_atcc_38327_gca_000151295	2.68657	NULL	NULL	NULL	NULL	0	114734136
+UMAG_12019	KIS66842	ustilago_maydis	13.9978	ortholog_one2many	AMAG_19454	KNE65362	allomyces_macrogynus_atcc_38327_gca_000151295	16.1129	NULL	NULL	NULL	NULL	0	158505191
+UMAG_12019	KIS66842	ustilago_maydis	14.1068	ortholog_one2many	AMAG_11605	KNE66468	allomyces_macrogynus_atcc_38327_gca_000151295	14.868	NULL	NULL	NULL	NULL	0	161944553
+UMAG_05632	KIS66844	ustilago_maydis	42.7885	ortholog_one2many	AMAG_12562	KNE67846	allomyces_macrogynus_atcc_38327_gca_000151295	54.2683	NULL	NULL	NULL	NULL	1	115170135
+UMAG_05632	KIS66844	ustilago_maydis	50	ortholog_one2many	AMAG_14520	KNE70380	allomyces_macrogynus_atcc_38327_gca_000151295	57.1429	NULL	NULL	NULL	NULL	1	115170507
+UMAG_05636	KIS66848	ustilago_maydis	19.788	ortholog_one2many	AMAG_16903	KNE72796	allomyces_macrogynus_atcc_38327_gca_000151295	25.5125	NULL	NULL	NULL	NULL	0	170727319

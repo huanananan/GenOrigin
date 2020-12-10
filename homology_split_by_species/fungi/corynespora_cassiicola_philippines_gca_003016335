@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	22.9032	ortholog_one2one	BS50DRAFT_57043	PSN65387	corynespora_cassiicola_philippines_gca_003016335	26.4925	NULL	NULL	NULL	NULL	NULL	261331528
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	BS50DRAFT_613057	PSN62917	corynespora_cassiicola_philippines_gca_003016335	42.4242	NULL	NULL	NULL	NULL	1	114291275
+UMAG_05628	KIS66839	ustilago_maydis	21.0728	ortholog_one2one	BS50DRAFT_589894	PSN65495	corynespora_cassiicola_philippines_gca_003016335	19.7133	NULL	NULL	NULL	NULL	0	109822140
+UMAG_15021	KIS66846	ustilago_maydis	39.8422	ortholog_one2many	BS50DRAFT_544370	PSN72063	corynespora_cassiicola_philippines_gca_003016335	40.9736	NULL	NULL	NULL	NULL	1	349576594
+UMAG_15021	KIS66846	ustilago_maydis	39.4477	ortholog_one2many	BS50DRAFT_23887	PSN74778	corynespora_cassiicola_philippines_gca_003016335	40.0802	NULL	NULL	NULL	NULL	1	349586192
+UMAG_10718	KIS66849	ustilago_maydis	48.7486	ortholog_one2one	BS50DRAFT_578217	PSN61698	corynespora_cassiicola_philippines_gca_003016335	49.2849	NULL	NULL	NULL	NULL	1	197188578
+UMAG_10719	KIS66850	ustilago_maydis	28.7634	ortholog_one2one	BS50DRAFT_480566	PSN75649	corynespora_cassiicola_philippines_gca_003016335	36.1486	NULL	NULL	NULL	NULL	0	360115143
+UMAG_05642	KIS66854	ustilago_maydis	48.7389	ortholog_one2one	BS50DRAFT_17238	PSN74488	corynespora_cassiicola_philippines_gca_003016335	47.9866	NULL	NULL	NULL	NULL	1	151096096
+UMAG_10722	KIS66856	ustilago_maydis	34.5808	ortholog_one2one	BS50DRAFT_639345	PSN61552	corynespora_cassiicola_philippines_gca_003016335	38.6935	NULL	NULL	NULL	NULL	NULL	201261107

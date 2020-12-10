@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	23.5484	ortholog_one2one	COCHEDRAFT_1208131	EMD85118	bipolaris_maydis_c5_gca_000338975	28.6275	NULL	NULL	NULL	NULL	NULL	260474198
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	COCHEDRAFT_1018582	EMD96828	bipolaris_maydis_c5_gca_000338975	43.4343	NULL	NULL	NULL	NULL	1	114272975
+UMAG_05628	KIS66839	ustilago_maydis	20.6897	ortholog_one2many	COCHEDRAFT_76353	EMD97428	bipolaris_maydis_c5_gca_000338975	20.2247	NULL	NULL	NULL	NULL	0	109814328
+UMAG_05628	KIS66839	ustilago_maydis	20.6897	ortholog_one2many	COCHEDRAFT_1121612	EMD84758	bipolaris_maydis_c5_gca_000338975	20.2247	NULL	NULL	NULL	NULL	0	109839527
+UMAG_15021	KIS66846	ustilago_maydis	45.5621	ortholog_one2one	COCHEDRAFT_1207468	EMD86532	bipolaris_maydis_c5_gca_000338975	47.4333	NULL	NULL	NULL	NULL	1	349572946
+UMAG_10719	KIS66850	ustilago_maydis	27.4194	ortholog_one2one	COCHEDRAFT_1158717	EMD88774	bipolaris_maydis_c5_gca_000338975	34.1137	NULL	NULL	NULL	NULL	0	360119748
+UMAG_10722	KIS66856	ustilago_maydis	35.1796	ortholog_one2one	COCHEDRAFT_1228786	EMD85751	bipolaris_maydis_c5_gca_000338975	39.7631	NULL	NULL	NULL	NULL	NULL	201295639
+UMAG_05644	KIS66858	ustilago_maydis	47.0423	ortholog_one2one	COCHEDRAFT_1139775	EMD90408	bipolaris_maydis_c5_gca_000338975	47.7143	NULL	NULL	NULL	NULL	NULL	235634087
+UMAG_05647	KIS66861	ustilago_maydis	18.4769	ortholog_one2one	COCHEDRAFT_1223844	EMD91876	bipolaris_maydis_c5_gca_000338975	31.828	NULL	NULL	NULL	NULL	0	156470331

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	20	ortholog_one2many	AFLA_017430	EED54491	aspergillus_flavus	29.2453	NULL	NULL	NULL	NULL	NULL	258126721
+UMAG_12017	KIS66834	ustilago_maydis	8.06452	ortholog_one2many	AFLA_063400	EED52077	aspergillus_flavus	20.6612	NULL	NULL	NULL	NULL	NULL	261921662
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	AFLA_104020	EED46736	aspergillus_flavus	19.5	NULL	NULL	NULL	NULL	0	114282248
+UMAG_05628	KIS66839	ustilago_maydis	19.1571	ortholog_one2one	AFLA_086230	EED57925	aspergillus_flavus	17.1821	NULL	NULL	NULL	NULL	0	109821692
+UMAG_15021	KIS66846	ustilago_maydis	34.1223	ortholog_one2one	AFLA_064710	EED49650	aspergillus_flavus	34.1223	NULL	NULL	NULL	NULL	0	354314960
+UMAG_10719	KIS66850	ustilago_maydis	28.2258	ortholog_one2one	AFLA_025040	EED55233	aspergillus_flavus	33.123	NULL	NULL	NULL	NULL	0	360112458
+UMAG_10722	KIS66856	ustilago_maydis	33.3832	ortholog_one2one	AFLA_130210	EED48798	aspergillus_flavus	46.2656	NULL	NULL	NULL	NULL	NULL	201287539
+UMAG_05644	KIS66858	ustilago_maydis	44.7887	ortholog_one2many	AFLA_011270	EED45243	aspergillus_flavus	44.1667	NULL	NULL	NULL	NULL	NULL	237045514
+UMAG_05644	KIS66858	ustilago_maydis	47.6056	ortholog_one2many	AFLA_133280	EED50566	aspergillus_flavus	39.486	NULL	NULL	NULL	NULL	NULL	237333585

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	17.4194	ortholog_one2one	HMPREF1120_05160	EHY57110	exophiala_dermatitidis_nih_ut8656_gca_000230625	24.6575	NULL	NULL	NULL	NULL	NULL	261880772
+UMAG_05625	KIS66836	ustilago_maydis	34.8837	ortholog_one2one	HMPREF1120_06311	EHY58299	exophiala_dermatitidis_nih_ut8656_gca_000230625	42.4528	NULL	NULL	NULL	NULL	1	114273625
+UMAG_05628	KIS66839	ustilago_maydis	19.1571	ortholog_one2one	HMPREF1120_06545	EHY58535	exophiala_dermatitidis_nih_ut8656_gca_000230625	13.6986	NULL	NULL	NULL	NULL	0	109836778
+UMAG_15021	KIS66846	ustilago_maydis	34.9112	ortholog_one2many	HMPREF1120_04342	EHY56253	exophiala_dermatitidis_nih_ut8656_gca_000230625	31.6071	NULL	NULL	NULL	NULL	1	349570912
+UMAG_15021	KIS66846	ustilago_maydis	37.0809	ortholog_one2many	HMPREF1120_05989	EHY57969	exophiala_dermatitidis_nih_ut8656_gca_000230625	38.9234	NULL	NULL	NULL	NULL	1	349595410
+UMAG_10718	KIS66849	ustilago_maydis	50.7073	ortholog_one2one	HMPREF1120_06479	EHY58469	exophiala_dermatitidis_nih_ut8656_gca_000230625	53.8728	NULL	NULL	NULL	NULL	1	197206962
+UMAG_10719	KIS66850	ustilago_maydis	29.5699	ortholog_one2one	HMPREF1120_03185	EHY55028	exophiala_dermatitidis_nih_ut8656_gca_000230625	35.0318	NULL	NULL	NULL	NULL	0	360118521
+UMAG_10722	KIS66856	ustilago_maydis	33.8323	ortholog_one2one	HMPREF1120_08601	EHY60650	exophiala_dermatitidis_nih_ut8656_gca_000230625	37.4172	NULL	NULL	NULL	NULL	NULL	201289438
+UMAG_05644	KIS66858	ustilago_maydis	52.9577	ortholog_one2many	HMPREF1120_02929	EHY54764	exophiala_dermatitidis_nih_ut8656_gca_000230625	51.2262	NULL	NULL	NULL	NULL	NULL	235429267

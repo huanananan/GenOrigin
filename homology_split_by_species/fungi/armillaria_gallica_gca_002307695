@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	46.5116	ortholog_one2one	ARMGADRAFT_279809	PBL02972	armillaria_gallica_gca_002307695	54.5455	NULL	NULL	NULL	NULL	1	109689460
+UMAG_05626	KIS66837	ustilago_maydis	30.137	ortholog_one2one	ARMGADRAFT_1062741	PBK93951	armillaria_gallica_gca_002307695	36.5145	NULL	NULL	NULL	NULL	1	355343853
+UMAG_05627	KIS66838	ustilago_maydis	42.5197	ortholog_one2one	ARMGADRAFT_1007844	PBK99266	armillaria_gallica_gca_002307695	52.9412	NULL	NULL	NULL	NULL	1	122462056
+UMAG_05628	KIS66839	ustilago_maydis	24.5211	ortholog_one2one	ARMGADRAFT_952596	PBL03587	armillaria_gallica_gca_002307695	34.7826	NULL	NULL	NULL	NULL	0	107393491
+UMAG_05629	KIS66840	ustilago_maydis	25.254	ortholog_one2one	ARMGADRAFT_987938	PBK97900	armillaria_gallica_gca_002307695	26.7692	NULL	NULL	NULL	NULL	1	152878028
+UMAG_12019	KIS66842	ustilago_maydis	23.2571	ortholog_one2one	ARMGADRAFT_914914	PBL02184	armillaria_gallica_gca_002307695	29.7561	NULL	NULL	NULL	NULL	0	148493739
+UMAG_05631	KIS66843	ustilago_maydis	19.7416	ortholog_one2one	ARMGADRAFT_980962	PBL02384	armillaria_gallica_gca_002307695	21.2191	NULL	NULL	NULL	NULL	0	106656441
+UMAG_05632	KIS66844	ustilago_maydis	60.5769	ortholog_one2one	ARMGADRAFT_1057710	PBL02229	armillaria_gallica_gca_002307695	68.1081	NULL	NULL	NULL	NULL	1	111549372
+UMAG_15021	KIS66846	ustilago_maydis	36.8836	ortholog_one2many	ARMGADRAFT_1003390	PBK79998	armillaria_gallica_gca_002307695	35.8925	NULL	NULL	NULL	NULL	0	347868601

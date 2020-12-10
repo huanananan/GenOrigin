@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	17.0968	ortholog_one2one	CGGC5_15278	ELA38028	colletotrichum_gloeosporioides	22.6496	NULL	NULL	NULL	NULL	NULL	261048661
+UMAG_05625	KIS66836	ustilago_maydis	28.6822	ortholog_one2one	CGGC5_13260	ELA25604	colletotrichum_gloeosporioides	37.3737	NULL	NULL	NULL	NULL	1	114279433
+UMAG_05628	KIS66839	ustilago_maydis	20.6897	ortholog_one2one	CGGC5_12931	ELA26049	colletotrichum_gloeosporioides	17.6471	NULL	NULL	NULL	NULL	0	109823241
+UMAG_05629	KIS66840	ustilago_maydis	15.2395	ortholog_one2one	CGGC5_5910	ELA34306	colletotrichum_gloeosporioides	14.9786	NULL	NULL	NULL	NULL	0	157749294
+UMAG_12019	KIS66842	ustilago_maydis	24.4009	ortholog_one2one	CGGC5_2250	ELA24349	colletotrichum_gloeosporioides	21.2222	NULL	NULL	NULL	NULL	0	155615451
+UMAG_15021	KIS66846	ustilago_maydis	36.6864	ortholog_one2many	CGGC5_11418	ELA27875	colletotrichum_gloeosporioides	36.4706	NULL	NULL	NULL	NULL	1	349574996
+UMAG_15021	KIS66846	ustilago_maydis	37.6726	ortholog_one2many	CGGC5_7233	ELA32721	colletotrichum_gloeosporioides	37.8968	NULL	NULL	NULL	NULL	1	349578310
+UMAG_10718	KIS66849	ustilago_maydis	49.8368	ortholog_one2one	CGGC5_11021	ELA28334	colletotrichum_gloeosporioides	51.0022	NULL	NULL	NULL	NULL	1	197210716
+UMAG_10719	KIS66850	ustilago_maydis	22.8495	ortholog_one2one	CGGC5_10713	ELA28752	colletotrichum_gloeosporioides	28.3333	NULL	NULL	NULL	NULL	0	360120554

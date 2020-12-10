@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	22.9032	ortholog_one2one	Bcin01g02810	Bcin01p02810.1	botrytis_cinerea	29.7071	NULL	NULL	NULL	NULL	NULL	262240082
+UMAG_05625	KIS66836	ustilago_maydis	35.6589	ortholog_one2one	Bcin02g06810	Bcin02p06810.1	botrytis_cinerea	46.4646	NULL	NULL	NULL	NULL	1	114303713
+UMAG_05628	KIS66839	ustilago_maydis	18.3908	ortholog_one2one	Bcin02g08220	Bcin02p08220.1	botrytis_cinerea	16.3265	NULL	NULL	NULL	NULL	0	109833801
+UMAG_05629	KIS66840	ustilago_maydis	15.0943	ortholog_one2one	Bcin03g04830	Bcin03p04830.1	botrytis_cinerea	14.7309	NULL	NULL	NULL	NULL	0	157276798
+UMAG_12019	KIS66842	ustilago_maydis	24.2375	ortholog_one2one	Bcin06g04000	Bcin06p04000.1	botrytis_cinerea	18.2602	NULL	NULL	NULL	NULL	0	154704191
+UMAG_10718	KIS66849	ustilago_maydis	50.4897	ortholog_one2many	Bcin04g03120	Bcin04p03120.1	botrytis_cinerea	50.933	NULL	NULL	NULL	NULL	1	197186094
+UMAG_10718	KIS66849	ustilago_maydis	46.0283	ortholog_one2many	Bcin01g02520	Bcin01p02520.1	botrytis_cinerea	46.7403	NULL	NULL	NULL	NULL	1	197191015
+UMAG_10722	KIS66856	ustilago_maydis	34.2814	ortholog_one2one	Bcin09g03040	Bcin09p03040.2	botrytis_cinerea	39.4828	NULL	NULL	NULL	NULL	NULL	201275889
+UMAG_05644	KIS66858	ustilago_maydis	43.3803	ortholog_one2one	Bcin11g06460	Bcin11p06460.1	botrytis_cinerea	43.3803	NULL	NULL	NULL	NULL	NULL	238045724

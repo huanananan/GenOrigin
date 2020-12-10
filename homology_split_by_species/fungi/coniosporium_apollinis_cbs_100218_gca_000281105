@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+YAL049C	YAL049C	saccharomyces_cerevisiae	36.1789	ortholog_one2one	W97_07379	EON67882	coniosporium_apollinis_cbs_100218_gca_000281105	36.3265	NULL	NULL	NULL	NULL	1	337417781
+YAL046C	YAL046C	saccharomyces_cerevisiae	34.7458	ortholog_one2one	W97_03621	EON64390	coniosporium_apollinis_cbs_100218_gca_000281105	45.5556	NULL	NULL	NULL	NULL	1	93229900
+YAL038W	YAL038W	saccharomyces_cerevisiae	67.4	ortholog_one2many	W97_01864	EON62640	coniosporium_apollinis_cbs_100218_gca_000281105	63.9469	NULL	NULL	NULL	NULL	NULL	225014265
+YAL034W-A	YAL034W-A	saccharomyces_cerevisiae	26.2976	ortholog_one2one	W97_01507	EON62286	coniosporium_apollinis_cbs_100218_gca_000281105	24.0506	NULL	NULL	NULL	NULL	0	89632038
+YAL034C	YAL034C	saccharomyces_cerevisiae	22.7603	ortholog_one2many	W97_00909	EON61693	coniosporium_apollinis_cbs_100218_gca_000281105	24.8677	NULL	NULL	NULL	NULL	0	103186236
+YAL026C	YAL026C	saccharomyces_cerevisiae	53.6531	ortholog_one2one	W97_03632	EON64401	coniosporium_apollinis_cbs_100218_gca_000281105	53.5741	NULL	NULL	NULL	NULL	NULL	280109472
+YAL023C	YAL023C	saccharomyces_cerevisiae	49.6706	ortholog_one2many	W97_00918	EON61702	coniosporium_apollinis_cbs_100218_gca_000281105	50.604	NULL	NULL	NULL	NULL	NULL	219913451
+YAL016W	YAL016W	saccharomyces_cerevisiae	44.4095	ortholog_one2one	W97_02783	EON63555	coniosporium_apollinis_cbs_100218_gca_000281105	45.705	NULL	NULL	NULL	NULL	1	120127475
+YAL013W	YAL013W	saccharomyces_cerevisiae	14.8148	ortholog_one2one	W97_01256	EON62037	coniosporium_apollinis_cbs_100218_gca_000281105	8.53485	NULL	NULL	NULL	NULL	0	360409789

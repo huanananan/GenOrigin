@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	BLGH_04029	BLGH_04029-mRNA-1	blumeria_graminis	41.4141	NULL	NULL	NULL	NULL	1	114256203
+UMAG_05628	KIS66839	ustilago_maydis	20.3065	ortholog_one2one	BLGH_01298	BLGH_01298-mRNA-1	blumeria_graminis	19.8502	NULL	NULL	NULL	NULL	0	109801948
+UMAG_05629	KIS66840	ustilago_maydis	15.6749	ortholog_one2one	BLGH_02818	BLGH_02818-mRNA-1	blumeria_graminis	14.876	NULL	NULL	NULL	NULL	0	156891809
+UMAG_12019	KIS66842	ustilago_maydis	23.6928	ortholog_one2one	BLGH_05259	BLGH_05259-mRNA-1	blumeria_graminis	18.401	NULL	NULL	NULL	NULL	0	153646460
+UMAG_10719	KIS66850	ustilago_maydis	23.1183	ortholog_one2one	BLGH_00477	BLGH_00477-mRNA-1	blumeria_graminis	24.7126	NULL	NULL	NULL	NULL	0	360119497
+UMAG_10722	KIS66856	ustilago_maydis	33.3832	ortholog_one2one	BLGH_00117	BLGH_00117-mRNA-1	blumeria_graminis	41.9173	NULL	NULL	NULL	NULL	NULL	201269765
+UMAG_05658	KIS66872	ustilago_maydis	21.6475	ortholog_one2one	BLGH_06762	BLGH_06762-mRNA-1	blumeria_graminis	23.0612	NULL	NULL	NULL	NULL	0	63985935
+UMAG_05659	KIS66873	ustilago_maydis	15.857	ortholog_one2many	BLGH_06616	BLGH_06616-mRNA-1	blumeria_graminis	15.828	NULL	NULL	NULL	NULL	0	178385003
+UMAG_05698	KIS66914	ustilago_maydis	39.3333	ortholog_one2one	BLGH_06568	BLGH_06568-mRNA-1	blumeria_graminis	49.747	NULL	NULL	NULL	NULL	1	181738906

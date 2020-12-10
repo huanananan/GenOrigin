@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	25.1613	ortholog_one2one	DRE_06601	EWC44612	drechslerella_stenobrocha_248_gca_000525045	29.3233	NULL	NULL	NULL	NULL	NULL	259660490
+UMAG_05629	KIS66840	ustilago_maydis	12.3367	ortholog_one2one	DRE_07225	EWC44090	drechslerella_stenobrocha_248_gca_000525045	11.9382	NULL	NULL	NULL	NULL	0	158093319
+UMAG_12019	KIS66842	ustilago_maydis	23.5839	ortholog_one2one	DRE_06696	EWC44524	drechslerella_stenobrocha_248_gca_000525045	18.9331	NULL	NULL	NULL	NULL	0	154268702
+UMAG_10722	KIS66856	ustilago_maydis	33.0838	ortholog_one2one	DRE_04255	EWC46532	drechslerella_stenobrocha_248_gca_000525045	43.5897	NULL	NULL	NULL	NULL	NULL	201267857
+UMAG_05644	KIS66858	ustilago_maydis	48.169	ortholog_one2one	DRE_04548	EWC46170	drechslerella_stenobrocha_248_gca_000525045	47.8992	NULL	NULL	NULL	NULL	NULL	236408465
+UMAG_10724	KIS66865	ustilago_maydis	52	ortholog_one2one	DRE_00844	EWC45445	drechslerella_stenobrocha_248_gca_000525045	50.3226	NULL	NULL	NULL	NULL	NULL	221765076
+UMAG_05656	KIS66871	ustilago_maydis	7.91699	ortholog_one2one	DRE_04832	EWC45825	drechslerella_stenobrocha_248_gca_000525045	25.3071	NULL	NULL	NULL	NULL	0	140187569
+UMAG_05658	KIS66872	ustilago_maydis	18.7739	ortholog_one2one	DRE_04664	EWC46090	drechslerella_stenobrocha_248_gca_000525045	19.1406	NULL	NULL	NULL	NULL	0	63967961
+UMAG_05659	KIS66873	ustilago_maydis	16.2236	ortholog_one2many	DRE_00865	EWC45466	drechslerella_stenobrocha_248_gca_000525045	19.0527	NULL	NULL	NULL	NULL	0	178348501

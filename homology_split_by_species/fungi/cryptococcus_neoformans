@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	30.3226	ortholog_one2one	CNI00820	AAW45665	cryptococcus_neoformans	40.1709	NULL	NULL	NULL	NULL	NULL	252957566
+UMAG_05627	KIS66838	ustilago_maydis	42.5197	ortholog_one2one	CNE00200	AAW43408	cryptococcus_neoformans	49.5413	NULL	NULL	NULL	NULL	0	123210473
+UMAG_05628	KIS66839	ustilago_maydis	18.7739	ortholog_one2one	CNC03190	AAW42735	cryptococcus_neoformans	21.3974	NULL	NULL	NULL	NULL	0	107383292
+UMAG_05629	KIS66840	ustilago_maydis	24.0929	ortholog_one2one	CNN01750	AAW47156	cryptococcus_neoformans	23.9193	NULL	NULL	NULL	NULL	0	153132723
+UMAG_12019	KIS66842	ustilago_maydis	25.3268	ortholog_one2one	CNB04290	AAW41621	cryptococcus_neoformans	22.4964	NULL	NULL	NULL	NULL	0	148487429
+UMAG_05631	KIS66843	ustilago_maydis	19.8134	ortholog_one2one	CNF03450	AAW44108	cryptococcus_neoformans	20	NULL	NULL	NULL	NULL	0	106947260
+UMAG_05632	KIS66844	ustilago_maydis	51.4423	ortholog_one2one	CNB05220	AAW41962	cryptococcus_neoformans	56.0209	NULL	NULL	NULL	NULL	1	111344733
+UMAG_05636	KIS66848	ustilago_maydis	23.1449	ortholog_one2one	CNA02790	AAW40862	cryptococcus_neoformans	33.3333	NULL	NULL	NULL	NULL	0	170539754
+UMAG_10719	KIS66850	ustilago_maydis	30.914	ortholog_one2one	CNI04360	AAW45715	cryptococcus_neoformans	37.4593	NULL	NULL	NULL	NULL	1	359749305

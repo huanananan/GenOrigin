@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	CONCODRAFT_57168	KXN71680	conidiobolus_coronatus_nrrl_28638_gca_001566745	40.1869	NULL	NULL	NULL	NULL	1	116864767
+UMAG_05626	KIS66837	ustilago_maydis	11.9863	ortholog_one2one	CONCODRAFT_91006	KXN69902	conidiobolus_coronatus_nrrl_28638_gca_001566745	20.9581	NULL	NULL	NULL	NULL	0	355972679
+UMAG_12019	KIS66842	ustilago_maydis	13.2898	ortholog_one2one	CONCODRAFT_79396	KXN69264	conidiobolus_coronatus_nrrl_28638_gca_001566745	16.8625	NULL	NULL	NULL	NULL	0	159569268
+UMAG_05631	KIS66843	ustilago_maydis	9.97846	ortholog_one2many	CONCODRAFT_79371	KXN69316	conidiobolus_coronatus_nrrl_28638_gca_001566745	14.6934	NULL	NULL	NULL	NULL	0	108504316
+UMAG_05631	KIS66843	ustilago_maydis	2.8715	ortholog_one2many	CONCODRAFT_3891	KXN73220	conidiobolus_coronatus_nrrl_28638_gca_001566745	21.164	NULL	NULL	NULL	NULL	0	108613348
+UMAG_05632	KIS66844	ustilago_maydis	49.0385	ortholog_one2one	CONCODRAFT_78968	KXN70214	conidiobolus_coronatus_nrrl_28638_gca_001566745	65.8064	NULL	NULL	NULL	NULL	0	117827484
+UMAG_05636	KIS66848	ustilago_maydis	16.4311	ortholog_one2one	CONCODRAFT_6783	KXN70618	conidiobolus_coronatus_nrrl_28638_gca_001566745	33.0961	NULL	NULL	NULL	NULL	0	171023946
+UMAG_10720	KIS66851	ustilago_maydis	4.35572	ortholog_one2many	CONCODRAFT_80629	KXN65997	conidiobolus_coronatus_nrrl_28638_gca_001566745	14.5455	NULL	NULL	NULL	NULL	0	310604035
+UMAG_10720	KIS66851	ustilago_maydis	3.75076	ortholog_one2many	CONCODRAFT_77827	KXN72381	conidiobolus_coronatus_nrrl_28638_gca_001566745	11.0714	NULL	NULL	NULL	NULL	0	310749325

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	16.4516	ortholog_one2many	AO090012000479	BAE60650	aspergillus_oryzae	31.875	NULL	NULL	NULL	NULL	NULL	258578378
+UMAG_12017	KIS66834	ustilago_maydis	15.8065	ortholog_one2many	AO090701000875	BAE62525	aspergillus_oryzae	22.6852	NULL	NULL	NULL	NULL	NULL	261939880
+UMAG_05628	KIS66839	ustilago_maydis	19.1571	ortholog_one2one	AO090005001386	BAE56311	aspergillus_oryzae	17.1821	NULL	NULL	NULL	NULL	0	109816194
+UMAG_10719	KIS66850	ustilago_maydis	28.2258	ortholog_one2one	AO090003001328	BAE58389	aspergillus_oryzae	33.123	NULL	NULL	NULL	NULL	0	360115509
+UMAG_10722	KIS66856	ustilago_maydis	33.0838	ortholog_one2one	AO090001000723	BAE57213	aspergillus_oryzae	42.5	NULL	NULL	NULL	NULL	NULL	201307457
+UMAG_05644	KIS66858	ustilago_maydis	44.7887	ortholog_one2many	AO090103000105	BAE65576	aspergillus_oryzae	45.0425	NULL	NULL	NULL	NULL	NULL	237022350
+UMAG_05644	KIS66858	ustilago_maydis	47.6056	ortholog_one2many	AO090026000626	BAE60049	aspergillus_oryzae	47.4719	NULL	NULL	NULL	NULL	NULL	237724880
+UMAG_05656	KIS66871	ustilago_maydis	10.2229	ortholog_one2one	AO090023000845	BAE59346	aspergillus_oryzae	21.626	NULL	NULL	NULL	NULL	0	140208195
+UMAG_05658	KIS66872	ustilago_maydis	20.8812	ortholog_one2one	AO090005001158	BAE56119	aspergillus_oryzae	19.7107	NULL	NULL	NULL	NULL	0	63996281

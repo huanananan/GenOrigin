@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	25.8065	ortholog_one2one	H072_9305	EPS37095	dactylellina_haptotyla_cbs_200_50_gca_000441935	30.0752	NULL	NULL	NULL	NULL	NULL	258984022
+UMAG_05625	KIS66836	ustilago_maydis	32.5581	ortholog_one2one	H072_8844	EPS37468	dactylellina_haptotyla_cbs_200_50_gca_000441935	22.1053	NULL	NULL	NULL	NULL	0	114295438
+UMAG_05628	KIS66839	ustilago_maydis	21.8391	ortholog_one2one	H072_551	EPS45352	dactylellina_haptotyla_cbs_200_50_gca_000441935	19.3878	NULL	NULL	NULL	NULL	0	107821894
+UMAG_05629	KIS66840	ustilago_maydis	16.1103	ortholog_one2one	H072_9011	EPS37321	dactylellina_haptotyla_cbs_200_50_gca_000441935	14.1944	NULL	NULL	NULL	NULL	0	159077564
+UMAG_12019	KIS66842	ustilago_maydis	24.4553	ortholog_one2one	H072_3634	EPS42483	dactylellina_haptotyla_cbs_200_50_gca_000441935	18.1781	NULL	NULL	NULL	NULL	0	153410105
+UMAG_10718	KIS66849	ustilago_maydis	50.7073	ortholog_one2one	H072_1334	EPS44688	dactylellina_haptotyla_cbs_200_50_gca_000441935	51.7203	NULL	NULL	NULL	NULL	1	197189324
+UMAG_10719	KIS66850	ustilago_maydis	19.3548	ortholog_one2one	H072_10326	EPS36210	dactylellina_haptotyla_cbs_200_50_gca_000441935	7.86026	NULL	NULL	NULL	NULL	0	360119129
+UMAG_10722	KIS66856	ustilago_maydis	32.7844	ortholog_one2one	H072_8370	EPS37848	dactylellina_haptotyla_cbs_200_50_gca_000441935	40.2574	NULL	NULL	NULL	NULL	NULL	201294117
+UMAG_10723	KIS66864	ustilago_maydis	23.2258	ortholog_one2one	H072_1429	EPS44579	dactylellina_haptotyla_cbs_200_50_gca_000441935	21.1144	NULL	NULL	NULL	NULL	NULL	238029166

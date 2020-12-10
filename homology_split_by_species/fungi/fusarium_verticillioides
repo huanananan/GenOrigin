@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	8.3871	ortholog_one2one	FVEG_09292	FVEG_09292T0	fusarium_verticillioides	20.8	NULL	NULL	NULL	NULL	NULL	259463734
+UMAG_05625	KIS66836	ustilago_maydis	27.1318	ortholog_one2one	FVEG_05101	FVEG_05101T0	fusarium_verticillioides	30.9735	NULL	NULL	NULL	NULL	1	114281250
+UMAG_05628	KIS66839	ustilago_maydis	9.1954	ortholog_one2one	FVEG_04994	FVEG_04994T0	fusarium_verticillioides	13.7143	NULL	NULL	NULL	NULL	0	109817970
+UMAG_05629	KIS66840	ustilago_maydis	13.3527	ortholog_one2one	FVEG_02086	FVEG_02086T0	fusarium_verticillioides	12.5683	NULL	NULL	NULL	NULL	0	160811264
+UMAG_12019	KIS66842	ustilago_maydis	22.7124	ortholog_one2one	FVEG_06827	FVEG_06827T0	fusarium_verticillioides	18.162	NULL	NULL	NULL	NULL	0	155131596
+UMAG_15021	KIS66846	ustilago_maydis	38.4615	ortholog_one2one	FVEG_05710	FVEG_05710T0	fusarium_verticillioides	40.3727	NULL	NULL	NULL	NULL	1	349581391
+UMAG_10718	KIS66849	ustilago_maydis	49.728	ortholog_one2one	FVEG_02839	FVEG_02839T0	fusarium_verticillioides	50.6652	NULL	NULL	NULL	NULL	1	197197081
+UMAG_10719	KIS66850	ustilago_maydis	27.4194	ortholog_one2one	FVEG_00770	FVEG_00770T0	fusarium_verticillioides	19.1729	NULL	NULL	NULL	NULL	0	360120693
+UMAG_10722	KIS66856	ustilago_maydis	32.1856	ortholog_one2one	FVEG_02939	FVEG_02939T0	fusarium_verticillioides	53.8847	NULL	NULL	NULL	NULL	NULL	201265596

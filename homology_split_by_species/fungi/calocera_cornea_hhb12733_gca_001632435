@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	24.8387	ortholog_one2one	CALCODRAFT_499651	KZT54588	calocera_cornea_hhb12733_gca_001632435	34.5291	NULL	NULL	NULL	NULL	NULL	253399535
+UMAG_05625	KIS66836	ustilago_maydis	38.7597	ortholog_one2one	CALCODRAFT_464956	KZT60711	calocera_cornea_hhb12733_gca_001632435	47.1698	NULL	NULL	NULL	NULL	1	109913317
+UMAG_05627	KIS66838	ustilago_maydis	44.0945	ortholog_one2one	CALCODRAFT_481201	KZT59901	calocera_cornea_hhb12733_gca_001632435	53.8462	NULL	NULL	NULL	NULL	1	122452779
+UMAG_05628	KIS66839	ustilago_maydis	22.9885	ortholog_one2one	CALCODRAFT_442242	KZT51998	calocera_cornea_hhb12733_gca_001632435	29.1262	NULL	NULL	NULL	NULL	0	107387232
+UMAG_05629	KIS66840	ustilago_maydis	24.6734	ortholog_one2one	CALCODRAFT_492869	KZT60098	calocera_cornea_hhb12733_gca_001632435	40.38	NULL	NULL	NULL	NULL	0	153081802
+UMAG_12019	KIS66842	ustilago_maydis	21.4052	ortholog_one2one	CALCODRAFT_485477	KZT54519	calocera_cornea_hhb12733_gca_001632435	15.7578	NULL	NULL	NULL	NULL	0	148482916
+UMAG_05631	KIS66843	ustilago_maydis	20.5312	ortholog_one2one	CALCODRAFT_84865	KZT60783	calocera_cornea_hhb12733_gca_001632435	21.9157	NULL	NULL	NULL	NULL	0	106971659
+UMAG_05632	KIS66844	ustilago_maydis	47.5962	ortholog_one2one	CALCODRAFT_494500	KZT58792	calocera_cornea_hhb12733_gca_001632435	55.9322	NULL	NULL	NULL	NULL	1	111076341
+UMAG_10718	KIS66849	ustilago_maydis	60.3917	ortholog_one2one	CALCODRAFT_479158	KZT62248	calocera_cornea_hhb12733_gca_001632435	61.5982	NULL	NULL	NULL	NULL	1	196551809

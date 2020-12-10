@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	27.907	ortholog_one2one	DEHA2E19624g	CAG88432	debaryomyces_hansenii_cbs767_gca_000006445	33.6449	NULL	NULL	NULL	NULL	1	114267569
+UMAG_05627	KIS66838	ustilago_maydis	39.7638	ortholog_one2one	DEHA2G03960g	CAG90170	debaryomyces_hansenii_cbs767_gca_000006445	48.3254	NULL	NULL	NULL	NULL	1	124735711
+UMAG_05629	KIS66840	ustilago_maydis	13.4978	ortholog_one2one	DEHA2E08668g	CAG87920	debaryomyces_hansenii_cbs767_gca_000006445	19.6617	NULL	NULL	NULL	NULL	0	158171396
+UMAG_12019	KIS66842	ustilago_maydis	16.5577	ortholog_one2one	DEHA2C06798g	CAR65547	debaryomyces_hansenii_cbs767_gca_000006445	19.2283	NULL	NULL	NULL	NULL	0	159880404
+UMAG_05632	KIS66844	ustilago_maydis	49.0385	ortholog_one2one	DEHA2G23958g	CAG91094	debaryomyces_hansenii_cbs767_gca_000006445	56.9832	NULL	NULL	NULL	NULL	1	112572010
+UMAG_05636	KIS66848	ustilago_maydis	12.7208	ortholog_one2one	DEHA2E03388g	CAG87690	debaryomyces_hansenii_cbs767_gca_000006445	11.3208	NULL	NULL	NULL	NULL	0	173266360
+UMAG_10720	KIS66851	ustilago_maydis	8.95342	ortholog_one2one	DEHA2F08602g	CAG89076	debaryomyces_hansenii_cbs767_gca_000006445	15.1484	NULL	NULL	NULL	NULL	0	307076857
+UMAG_05640	KIS66852	ustilago_maydis	33.3333	ortholog_one2one	DEHA2F20174g	CAG89611	debaryomyces_hansenii_cbs767_gca_000006445	36.8421	NULL	NULL	NULL	NULL	1	123688166
+UMAG_05641	KIS66853	ustilago_maydis	23.8806	ortholog_one2one	DEHA2F08008g	CAR66297	debaryomyces_hansenii_cbs767_gca_000006445	28.4866	NULL	NULL	NULL	NULL	NULL	298275596

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	31.7829	ortholog_one2one	AWRI1499_2116	EIF47957	brettanomyces_bruxellensis_awri1499_gca_000259595	37.6147	NULL	NULL	NULL	NULL	1	114293095
+UMAG_05627	KIS66838	ustilago_maydis	35.4331	ortholog_one2one	AWRI1499_0328	EIF49746	brettanomyces_bruxellensis_awri1499_gca_000259595	43.4783	NULL	NULL	NULL	NULL	1	124281869
+UMAG_12019	KIS66842	ustilago_maydis	5.55556	ortholog_one2one	AWRI1499_0635	EIF49411	brettanomyces_bruxellensis_awri1499_gca_000259595	16.32	NULL	NULL	NULL	NULL	0	161035880
+UMAG_05632	KIS66844	ustilago_maydis	40.3846	ortholog_one2one	AWRI1499_3507	EIF46609	brettanomyces_bruxellensis_awri1499_gca_000259595	64.6154	NULL	NULL	NULL	NULL	1	112591572
+UMAG_05636	KIS66848	ustilago_maydis	7.77385	ortholog_one2one	AWRI1499_4599	EIF45537	brettanomyces_bruxellensis_awri1499_gca_000259595	19.3833	NULL	NULL	NULL	NULL	0	172428525
+UMAG_10720	KIS66851	ustilago_maydis	6.04961	ortholog_one2one	AWRI1499_4869	EIF45256	brettanomyces_bruxellensis_awri1499_gca_000259595	21.5054	NULL	NULL	NULL	NULL	0	307878471
+UMAG_05640	KIS66852	ustilago_maydis	34.7619	ortholog_one2one	AWRI1499_1792	EIF48284	brettanomyces_bruxellensis_awri1499_gca_000259595	38.6243	NULL	NULL	NULL	NULL	1	125115573
+UMAG_05641	KIS66853	ustilago_maydis	17.6617	ortholog_one2one	AWRI1499_3392	EIF46722	brettanomyces_bruxellensis_awri1499_gca_000259595	26.0073	NULL	NULL	NULL	NULL	NULL	298271802
+UMAG_05646	KIS66860	ustilago_maydis	10.1059	ortholog_one2one	AWRI1499_3770	EIF46368	brettanomyces_bruxellensis_awri1499_gca_000259595	27.2727	NULL	NULL	NULL	NULL	0	324772494

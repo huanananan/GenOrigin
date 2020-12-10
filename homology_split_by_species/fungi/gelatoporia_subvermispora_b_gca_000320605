@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	40	ortholog_one2one	CERSUDRAFT_144593	EMD31771	gelatoporia_subvermispora_b_gca_000320605	53.6797	NULL	NULL	NULL	NULL	NULL	252951996
+UMAG_05625	KIS66836	ustilago_maydis	37.9845	ortholog_one2one	CERSUDRAFT_44083	EMD40587	gelatoporia_subvermispora_b_gca_000320605	52.6882	NULL	NULL	NULL	NULL	1	109683448
+UMAG_05626	KIS66837	ustilago_maydis	31.5068	ortholog_one2one	CERSUDRAFT_39618	EMD40332	gelatoporia_subvermispora_b_gca_000320605	40.3509	NULL	NULL	NULL	NULL	1	355348532
+UMAG_05627	KIS66838	ustilago_maydis	46.4567	ortholog_one2one	CERSUDRAFT_63970	EMD39059	gelatoporia_subvermispora_b_gca_000320605	58.1281	NULL	NULL	NULL	NULL	1	122457746
+UMAG_05629	KIS66840	ustilago_maydis	24.9637	ortholog_one2one	CERSUDRAFT_103769	EMD39828	gelatoporia_subvermispora_b_gca_000320605	28.9076	NULL	NULL	NULL	NULL	0	153058696
+UMAG_12019	KIS66842	ustilago_maydis	28.7582	ortholog_one2one	CERSUDRAFT_111245	EMD40665	gelatoporia_subvermispora_b_gca_000320605	27.0215	NULL	NULL	NULL	NULL	1	148499830
+UMAG_05631	KIS66843	ustilago_maydis	19.5262	ortholog_one2one	CERSUDRAFT_148569	EMD40501	gelatoporia_subvermispora_b_gca_000320605	20.811	NULL	NULL	NULL	NULL	0	107001156
+UMAG_10718	KIS66849	ustilago_maydis	58.9771	ortholog_one2one	CERSUDRAFT_80501	EMD40851	gelatoporia_subvermispora_b_gca_000320605	61.3122	NULL	NULL	NULL	NULL	1	196516677
+UMAG_10719	KIS66850	ustilago_maydis	29.8387	ortholog_one2one	CERSUDRAFT_98233	EMD33671	gelatoporia_subvermispora_b_gca_000320605	39.3617	NULL	NULL	NULL	NULL	1	359697524

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	21.2903	ortholog_one2one	UCREL1_7800	EMR65216	eutypa_lata_ucrel1_gca_000349385	27.6151	NULL	NULL	NULL	NULL	NULL	259052694
+UMAG_05625	KIS66836	ustilago_maydis	29.4574	ortholog_one2one	UCREL1_3402	EMR69570	eutypa_lata_ucrel1_gca_000349385	38.3838	NULL	NULL	NULL	NULL	1	114281842
+UMAG_05628	KIS66839	ustilago_maydis	18.3908	ortholog_one2one	UCREL1_10363	EMR62684	eutypa_lata_ucrel1_gca_000349385	14.7692	NULL	NULL	NULL	NULL	0	109832820
+UMAG_05629	KIS66840	ustilago_maydis	8.56314	ortholog_one2one	UCREL1_7600	EMR65427	eutypa_lata_ucrel1_gca_000349385	16.3435	NULL	NULL	NULL	NULL	0	160963395
+UMAG_12019	KIS66842	ustilago_maydis	18.8453	ortholog_one2one	UCREL1_4215	EMR68761	eutypa_lata_ucrel1_gca_000349385	20.8058	NULL	NULL	NULL	NULL	0	155329153
+UMAG_10718	KIS66849	ustilago_maydis	49.2927	ortholog_one2one	UCREL1_3744	EMR69230	eutypa_lata_ucrel1_gca_000349385	51.1287	NULL	NULL	NULL	NULL	1	197194710
+UMAG_10719	KIS66850	ustilago_maydis	20.4301	ortholog_one2many	UCREL1_552	EMR72397	eutypa_lata_ucrel1_gca_000349385	24.8366	NULL	NULL	NULL	NULL	0	360116186
+UMAG_10719	KIS66850	ustilago_maydis	22.8495	ortholog_one2many	UCREL1_9667	EMR63370	eutypa_lata_ucrel1_gca_000349385	27.7778	NULL	NULL	NULL	NULL	0	360121576
+UMAG_10722	KIS66856	ustilago_maydis	23.9521	ortholog_one2one	UCREL1_6991	EMR66029	eutypa_lata_ucrel1_gca_000349385	63.745	NULL	NULL	NULL	NULL	NULL	201299890

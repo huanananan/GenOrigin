@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	21.9355	ortholog_one2one	BKCO1_3600040	OJD32791	diplodia_corticola_gca_001883845	27.6423	NULL	NULL	NULL	NULL	NULL	260587569
+UMAG_05625	KIS66836	ustilago_maydis	33.3333	ortholog_one2one	BKCO1_210002	OJD34734	diplodia_corticola_gca_001883845	43	NULL	NULL	NULL	NULL	1	114292769
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	BKCO1_14000129	OJD35917	diplodia_corticola_gca_001883845	17.8694	NULL	NULL	NULL	NULL	0	109810441
+UMAG_10719	KIS66850	ustilago_maydis	28.7634	ortholog_one2one	BKCO1_1240003	OJD28655	diplodia_corticola_gca_001883845	35.4305	NULL	NULL	NULL	NULL	0	360113109
+UMAG_05642	KIS66854	ustilago_maydis	48.5344	ortholog_one2one	BKCO1_31000105	OJD33321	diplodia_corticola_gca_001883845	40.7323	NULL	NULL	NULL	NULL	1	151555651
+UMAG_10722	KIS66856	ustilago_maydis	33.3832	ortholog_one2one	BKCO1_80002	OJD37166	diplodia_corticola_gca_001883845	43.8976	NULL	NULL	NULL	NULL	NULL	201269305
+UMAG_05644	KIS66858	ustilago_maydis	44.2254	ortholog_one2many	BKCO1_1000547	OJD40645	diplodia_corticola_gca_001883845	22.4286	NULL	NULL	NULL	NULL	NULL	235841053
+UMAG_05644	KIS66858	ustilago_maydis	48.4507	ortholog_one2many	BKCO1_1080006	OJD28842	diplodia_corticola_gca_001883845	48.4507	NULL	NULL	NULL	NULL	NULL	236459681
+UMAG_05644	KIS66858	ustilago_maydis	45.6338	ortholog_one2many	BKCO1_7000018	OJD29904	diplodia_corticola_gca_001883845	44.2623	NULL	NULL	NULL	NULL	NULL	236730690

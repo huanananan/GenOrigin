@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	30.2326	ortholog_one2one	ANIA_03467	CBF82648	aspergillus_nidulans	39	NULL	NULL	NULL	NULL	1	114280204
+UMAG_05628	KIS66839	ustilago_maydis	19.5402	ortholog_one2one	ANIA_03015	CBF83562	aspergillus_nidulans	17.5258	NULL	NULL	NULL	NULL	0	109820324
+UMAG_05632	KIS66844	ustilago_maydis	42.7885	ortholog_one2one	ANIA_04655	CBF77056	aspergillus_nidulans	51.4451	NULL	NULL	NULL	NULL	1	112591660
+UMAG_15021	KIS66846	ustilago_maydis	32.9389	ortholog_one2one	ANIA_10662	CBF82052	aspergillus_nidulans	39.2019	NULL	NULL	NULL	NULL	1	349593441
+UMAG_10718	KIS66849	ustilago_maydis	52.3395	ortholog_one2one	ANIA_02523	CBF87020	aspergillus_nidulans	52.5109	NULL	NULL	NULL	NULL	1	197214204
+UMAG_10719	KIS66850	ustilago_maydis	25	ortholog_one2one	ANIA_08036	CBF73751	aspergillus_nidulans	31.1037	NULL	NULL	NULL	NULL	0	360114308
+UMAG_10722	KIS66856	ustilago_maydis	29.3413	ortholog_one2one	ANIA_07444	CBF79393	aspergillus_nidulans	37.4761	NULL	NULL	NULL	NULL	NULL	201287787
+UMAG_05644	KIS66858	ustilago_maydis	45.0704	ortholog_one2many	ANIA_04540	CBF77294	aspergillus_nidulans	45.0704	NULL	NULL	NULL	NULL	NULL	236846890
+UMAG_05644	KIS66858	ustilago_maydis	46.1972	ortholog_one2many	ANIA_08406	CBF80474	aspergillus_nidulans	46.8571	NULL	NULL	NULL	NULL	NULL	237540615

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	16.129	ortholog_one2one	ATEG_00887	EAU39533	aspergillus_terreus	32.4675	NULL	NULL	NULL	NULL	NULL	261315195
+UMAG_05625	KIS66836	ustilago_maydis	29.4574	ortholog_one2one	ATEG_09001	EAU31133	aspergillus_terreus	35.1852	NULL	NULL	NULL	NULL	1	114301491
+UMAG_05628	KIS66839	ustilago_maydis	15.3257	ortholog_one2one	ATEG_01590	EAU38347	aspergillus_terreus	17.2414	NULL	NULL	NULL	NULL	0	109830049
+UMAG_15021	KIS66846	ustilago_maydis	28.9941	ortholog_one2one	ATEG_03649	EAU35451	aspergillus_terreus	30.4348	NULL	NULL	NULL	NULL	1	349591101
+UMAG_10718	KIS66849	ustilago_maydis	50.5985	ortholog_one2one	ATEG_03503	EAU36777	aspergillus_terreus	50.8197	NULL	NULL	NULL	NULL	1	197190648
+UMAG_10719	KIS66850	ustilago_maydis	28.7634	ortholog_one2one	ATEG_09812	EAU30003	aspergillus_terreus	33.7539	NULL	NULL	NULL	NULL	0	360114230
+UMAG_10722	KIS66856	ustilago_maydis	32.7844	ortholog_one2one	ATEG_06803	EAU33347	aspergillus_terreus	39.1771	NULL	NULL	NULL	NULL	NULL	201279537
+UMAG_05644	KIS66858	ustilago_maydis	42.8169	ortholog_one2many	ATEG_09053	EAU30190	aspergillus_terreus	49.1909	NULL	NULL	NULL	NULL	NULL	238178986
+UMAG_05644	KIS66858	ustilago_maydis	44.2254	ortholog_one2many	ATEG_09611	EAU29802	aspergillus_terreus	44.1011	NULL	NULL	NULL	NULL	NULL	238429784

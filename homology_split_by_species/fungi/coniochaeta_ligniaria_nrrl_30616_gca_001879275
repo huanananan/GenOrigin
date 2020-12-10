@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12017	KIS66834	ustilago_maydis	19.3548	ortholog_one2one	CONLIGDRAFT_409541	OIW29195	coniochaeta_ligniaria_nrrl_30616_gca_001879275	26.4317	NULL	NULL	NULL	NULL	NULL	260702757
+UMAG_05625	KIS66836	ustilago_maydis	29.4574	ortholog_one2one	CONLIGDRAFT_716999	OIW26779	coniochaeta_ligniaria_nrrl_30616_gca_001879275	38.3838	NULL	NULL	NULL	NULL	1	114285183
+UMAG_05628	KIS66839	ustilago_maydis	19.9234	ortholog_one2one	CONLIGDRAFT_716961	OIW26738	coniochaeta_ligniaria_nrrl_30616_gca_001879275	17.2185	NULL	NULL	NULL	NULL	0	109809949
+UMAG_05629	KIS66840	ustilago_maydis	16.6909	ortholog_one2one	CONLIGDRAFT_583801	OIW25050	coniochaeta_ligniaria_nrrl_30616_gca_001879275	15.884	NULL	NULL	NULL	NULL	0	157001660
+UMAG_12019	KIS66842	ustilago_maydis	23.1481	ortholog_one2one	CONLIGDRAFT_547079	OIW28458	coniochaeta_ligniaria_nrrl_30616_gca_001879275	18.1237	NULL	NULL	NULL	NULL	0	152834739
+UMAG_10718	KIS66849	ustilago_maydis	50.0544	ortholog_one2one	CONLIGDRAFT_571714	OIW31604	coniochaeta_ligniaria_nrrl_30616_gca_001879275	51.1111	NULL	NULL	NULL	NULL	1	197199515
+UMAG_10719	KIS66850	ustilago_maydis	24.1935	ortholog_one2one	CONLIGDRAFT_637750	OIW23338	coniochaeta_ligniaria_nrrl_30616_gca_001879275	30.7167	NULL	NULL	NULL	NULL	0	360116974
+UMAG_05642	KIS66854	ustilago_maydis	46.7621	ortholog_one2one	CONLIGDRAFT_99253	OIW24514	coniochaeta_ligniaria_nrrl_30616_gca_001879275	46.1953	NULL	NULL	NULL	NULL	1	151244968
+UMAG_10722	KIS66856	ustilago_maydis	33.982	ortholog_one2one	CONLIGDRAFT_637651	OIW23681	coniochaeta_ligniaria_nrrl_30616_gca_001879275	40.9747	NULL	NULL	NULL	NULL	NULL	201293099

@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_12019	KIS66842	ustilago_maydis	12.6906	ortholog_one2one	FAGOS_FAFR058C	AEY97741	eremothecium_gossypii_fdag1_gca_000968835	14.6265	NULL	NULL	NULL	NULL	0	161690479
+UMAG_05632	KIS66844	ustilago_maydis	48.5577	ortholog_one2one	FAGOS_FACR112C	AEY95630	eremothecium_gossypii_fdag1_gca_000968835	65.5844	NULL	NULL	NULL	NULL	1	112589095
+UMAG_05636	KIS66848	ustilago_maydis	11.6608	ortholog_one2one	FAGOS_FADR213C	AEY96432	eremothecium_gossypii_fdag1_gca_000968835	11.5385	NULL	NULL	NULL	NULL	0	172751925
+UMAG_10720	KIS66851	ustilago_maydis	8.46945	ortholog_one2one	FAGOS_FACR133C	AEY95650	eremothecium_gossypii_fdag1_gca_000968835	16.4512	NULL	NULL	NULL	NULL	0	307589063
+UMAG_05640	KIS66852	ustilago_maydis	33.8095	ortholog_one2one	FAGOS_FAGL016C	AEY98806	eremothecium_gossypii_fdag1_gca_000968835	37.766	NULL	NULL	NULL	NULL	1	124088991
+UMAG_05645	KIS66859	ustilago_maydis	31.25	ortholog_one2one	FAGOS_FAFL168W	AEY97516	eremothecium_gossypii_fdag1_gca_000968835	32.5581	NULL	NULL	NULL	NULL	NULL	236711437
+UMAG_05646	KIS66860	ustilago_maydis	21.5592	ortholog_one2one	FAGOS_FABR152C	AEY95213	eremothecium_gossypii_fdag1_gca_000968835	35.6121	NULL	NULL	NULL	NULL	0	325477372
+UMAG_10724	KIS66865	ustilago_maydis	49.3333	ortholog_one2one	FAGOS_FABL144C	AEY94915	eremothecium_gossypii_fdag1_gca_000968835	49.6644	NULL	NULL	NULL	NULL	NULL	220949046
+UMAG_05653	KIS66868	ustilago_maydis	11.5044	ortholog_one2one	FAGOS_FAFR154C	AEY97838	eremothecium_gossypii_fdag1_gca_000968835	14.1818	NULL	NULL	NULL	NULL	0	316436774

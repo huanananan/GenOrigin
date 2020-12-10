@@ -1,6 +1,7 @@
 import os
 
 # The output see https://github.com/huanananan/GenOrigin/blob/master/homology_split_by_species.rar
+# Also https://github.com/huanananan/GenOrigin/tree/master/homology_split_by_species
 work_dir = 'GenOrigin/tree/master/'
 
 def split_homology(homology_dir, division, species_list):

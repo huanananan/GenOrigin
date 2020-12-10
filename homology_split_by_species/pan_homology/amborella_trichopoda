@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05625	KIS66836	ustilago_maydis	27.907	ortholog_one2one	AMTR_s00182p00034980	ERN16330	amborella_trichopoda	30	NULL	NULL	NULL	NULL	1	25732772
+UMAG_05626	KIS66837	ustilago_maydis	14.726	ortholog_many2many	AMTR_s00045p00203370	ERN02189	amborella_trichopoda	16.7315	NULL	NULL	NULL	NULL	0	7413585
+UMAG_05626	KIS66837	ustilago_maydis	15.411	ortholog_many2many	AMTR_s00011p00265390	ERM94796	amborella_trichopoda	13.8037	NULL	NULL	NULL	NULL	0	7416536
+UMAG_05628	KIS66839	ustilago_maydis	19.5402	ortholog_one2one	AMTR_s00045p00178420	ERN02137	amborella_trichopoda	6.60622	NULL	NULL	NULL	NULL	0	55774967
+UMAG_05629	KIS66840	ustilago_maydis	3.48331	ortholog_many2many	AMTR_s00049p00196550	ERN13778	amborella_trichopoda	9.52381	NULL	NULL	NULL	NULL	0	1170782
+UMAG_05629	KIS66840	ustilago_maydis	2.32221	ortholog_many2many	AMTR_s00024p00250730	ERN11336	amborella_trichopoda	9.52381	NULL	NULL	NULL	NULL	0	1277143
+UMAG_05629	KIS66840	ustilago_maydis	4.06386	ortholog_many2many	AMTR_s00165p00044350	ERN12005	amborella_trichopoda	17.0732	NULL	NULL	NULL	NULL	0	2091244
+UMAG_05629	KIS66840	ustilago_maydis	3.77358	ortholog_many2many	AMTR_s00024p00142420	ERN11092	amborella_trichopoda	16.3522	NULL	NULL	NULL	NULL	0	2091295
+UMAG_05629	KIS66840	ustilago_maydis	3.77358	ortholog_many2many	AMTR_s00016p00256970	ERN06433	amborella_trichopoda	16.0494	NULL	NULL	NULL	NULL	0	2132889

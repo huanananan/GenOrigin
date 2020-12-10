@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+UMAG_05632	KIS66844	ustilago_maydis	41.8269	ortholog_one2one	ABAYE2022	CAM86899	acinetobacter_baumannii_aye	67.9688	NULL	NULL	NULL	NULL	1	54630591
+UMAG_15021	KIS66846	ustilago_maydis	10.2564	ortholog_many2many	ABAYE2842	CAM87670	acinetobacter_baumannii_aye	12.7764	NULL	NULL	NULL	NULL	0	56985452
+UMAG_10719	KIS66850	ustilago_maydis	15.0538	ortholog_many2many	ABAYE0039	CAM85028	acinetobacter_baumannii_aye	18.9831	NULL	NULL	NULL	NULL	0	33540687
+UMAG_10719	KIS66850	ustilago_maydis	14.2473	ortholog_many2many	ABAYE2589	CAM87426	acinetobacter_baumannii_aye	15.1862	NULL	NULL	NULL	NULL	0	48863414
+UMAG_05644	KIS66858	ustilago_maydis	17.7465	ortholog_many2many	ABAYE0043	CAM85032	acinetobacter_baumannii_aye	18.4211	NULL	NULL	NULL	NULL	0	31128892
+UMAG_05644	KIS66858	ustilago_maydis	19.4366	ortholog_many2many	ABAYE3100	CAM87913	acinetobacter_baumannii_aye	17.6471	NULL	NULL	NULL	NULL	0	35042923
+UMAG_05647	KIS66861	ustilago_maydis	5.24345	ortholog_many2many	ABAYE0272	CAM85252	acinetobacter_baumannii_aye	13.2075	NULL	NULL	NULL	NULL	0	11076505
+UMAG_05647	KIS66861	ustilago_maydis	4.24469	ortholog_many2many	ABAYE3897	CAM88646	acinetobacter_baumannii_aye	9.65909	NULL	NULL	NULL	NULL	0	11106498
+UMAG_05665	KIS66879	ustilago_maydis	12.2078	ortholog_many2many	ABAYE1152	CAM86079	acinetobacter_baumannii_aye	18.4314	NULL	NULL	NULL	NULL	0	31296778

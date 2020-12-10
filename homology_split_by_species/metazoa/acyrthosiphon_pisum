@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+ACYPI085189	ACYPI085189-PA	acyrthosiphon_pisum	13.8182	within_species_paralog	ACYPI008366	ACYPI008366-PA	acyrthosiphon_pisum	16.2047	NULL	NULL	NULL	NULL	NULL	12077295
+ACYPI085189	ACYPI085189-PA	acyrthosiphon_pisum	17.4545	within_species_paralog	ACYPI007994	ACYPI007994-PA	acyrthosiphon_pisum	24.1814	NULL	NULL	NULL	NULL	NULL	12078520
+ACYPI085189	ACYPI085189-PA	acyrthosiphon_pisum	7.09091	within_species_paralog	ACYPI066875	ACYPI066875-PA	acyrthosiphon_pisum	22.807	NULL	NULL	NULL	NULL	NULL	12084436
+ACYPI085189	ACYPI085189-PA	acyrthosiphon_pisum	17.8182	within_species_paralog	ACYPI005469	ACYPI005469-PA	acyrthosiphon_pisum	24.3781	NULL	NULL	NULL	NULL	NULL	12131030
+ACYPI085189	ACYPI085189-PA	acyrthosiphon_pisum	17.4545	within_species_paralog	ACYPI002494	ACYPI002494-PA	acyrthosiphon_pisum	24.4275	NULL	NULL	NULL	NULL	NULL	12131201
+ACYPI085189	ACYPI085189-PA	acyrthosiphon_pisum	17.4545	within_species_paralog	ACYPI082149	ACYPI082149-PA	acyrthosiphon_pisum	25.2632	NULL	NULL	NULL	NULL	NULL	12131277
+ACYPI085189	ACYPI085189-PA	acyrthosiphon_pisum	18.7273	within_species_paralog	ACYPI003938	ACYPI003938-PA	acyrthosiphon_pisum	26.2087	NULL	NULL	NULL	NULL	NULL	12132075
+ACYPI085189	ACYPI085189-PA	acyrthosiphon_pisum	18	within_species_paralog	ACYPI006854	ACYPI006854-PA	acyrthosiphon_pisum	21.8543	NULL	NULL	NULL	NULL	NULL	12133590
+ACYPI062403	ACYPI062403-PA	acyrthosiphon_pisum	91.7808	within_species_paralog	ACYPI060777	ACYPI060777-PA	acyrthosiphon_pisum	77.907	NULL	NULL	NULL	NULL	NULL	21527359

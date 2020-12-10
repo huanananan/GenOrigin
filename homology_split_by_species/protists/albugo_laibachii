@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+EHI_148020	rna_EHI_148020-1	entamoeba_histolytica	27.5862	ortholog_one2one	ALNC14_121790	CCA26035	albugo_laibachii	21.9608	NULL	NULL	NULL	NULL	0	16808561
+EHI_148040	rna_EHI_148040-1	entamoeba_histolytica	42.3664	ortholog_one2many	ALNC14_026790	CCA16536	albugo_laibachii	35.6913	NULL	NULL	NULL	NULL	0	29892045
+EHI_148040	rna_EHI_148040-1	entamoeba_histolytica	42.3664	ortholog_one2many	ALNC14_026810	CCA16538	albugo_laibachii	35.3503	NULL	NULL	NULL	NULL	0	30116210
+EHI_148040	rna_EHI_148040-1	entamoeba_histolytica	42.3664	ortholog_one2many	ALNC14_026800	CCA16537	albugo_laibachii	34.6875	NULL	NULL	NULL	NULL	0	30226492
+EHI_148060	rna_EHI_148060-1	entamoeba_histolytica	26.3736	ortholog_one2one	ALNC14_036860	CCA17543	albugo_laibachii	25.6228	NULL	NULL	NULL	NULL	0	19518300
+EHI_148070	rna_EHI_148070-1	entamoeba_histolytica	15.6746	ortholog_many2many	ALNC14_009290	CCA14786	albugo_laibachii	15.1052	NULL	NULL	NULL	NULL	0	3287752
+EHI_148070	rna_EHI_148070-1	entamoeba_histolytica	12.3016	ortholog_many2many	ALNC14_052020	CCA19059	albugo_laibachii	9.33735	NULL	NULL	NULL	NULL	0	3356580
+EHI_148070	rna_EHI_148070-1	entamoeba_histolytica	15.0794	ortholog_many2many	ALNC14_136740	CCA27530	albugo_laibachii	13.5957	NULL	NULL	NULL	NULL	0	3519900
+EHI_148070	rna_EHI_148070-1	entamoeba_histolytica	13.0952	ortholog_many2many	ALNC14_134030	CCA27259	albugo_laibachii	7.8759	NULL	NULL	NULL	NULL	0	3859808

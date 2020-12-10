@@ -1,0 +1,10 @@
+gene_stable_id	protein_stable_id	species	identity	homology_type	homology_gene_stable_id	homology_protein_stable_id	homology_species	homology_identity	dn	ds	goc_score	wga_coverage	is_high_confidence	homology_id
+GSMUA_Achr3G00030_001	GSMUA_Achr3P00030_001	musa_acuminata	88.746	ortholog_one2many	CEY00_Acc16595	PSS09573	actinidia_chinensis	82.6347	NULL	NULL	NULL	NULL	0	101603459
+GSMUA_Achr3G00050_001	GSMUA_Achr3P00050_001	musa_acuminata	57.0997	ortholog_many2many	CEY00_Acc20919	PSS05056	actinidia_chinensis	60.9677	NULL	NULL	NULL	NULL	1	80023155
+GSMUA_Achr3G00050_001	GSMUA_Achr3P00050_001	musa_acuminata	59.8187	ortholog_many2many	CEY00_Acc25393	PSR98867	actinidia_chinensis	59.4595	NULL	NULL	NULL	NULL	1	80023857
+GSMUA_Achr3G00070_001	GSMUA_Achr3P00070_001	musa_acuminata	36.2745	ortholog_one2one	CEY00_Acc12114	PSS17327	actinidia_chinensis	15.5789	NULL	NULL	NULL	NULL	0	93391466
+GSMUA_Achr3G00090_001	GSMUA_Achr3P00090_001	musa_acuminata	60.5375	ortholog_many2many	CEY00_Acc17338	PSS10244	actinidia_chinensis	69.1438	NULL	NULL	NULL	NULL	1	92603245
+GSMUA_Achr3G00090_001	GSMUA_Achr3P00090_001	musa_acuminata	59.2645	ortholog_many2many	CEY00_Acc26407	PSR96358	actinidia_chinensis	60.1148	NULL	NULL	NULL	NULL	1	92607721
+GSMUA_Achr3G00090_001	GSMUA_Achr3P00090_001	musa_acuminata	58.4158	ortholog_many2many	CEY00_Acc21707	PSR95683	actinidia_chinensis	60.1164	NULL	NULL	NULL	NULL	1	92645675
+GSMUA_Achr3G00090_001	GSMUA_Achr3P00090_001	musa_acuminata	71.0042	ortholog_many2many	CEY00_Acc09562	PSS24646	actinidia_chinensis	72.023	NULL	NULL	NULL	NULL	1	92716319
+GSMUA_Achr3G00100_001	GSMUA_Achr3P00100_001	musa_acuminata	64.3533	ortholog_one2one	CEY00_Acc00292	PSS35854	actinidia_chinensis	62.5767	NULL	NULL	NULL	NULL	0	96304467

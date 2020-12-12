@@ -51,10 +51,10 @@ So, we provide and use the split annotation json in this project.
 
 ## Infer origin
 ### Step 8 species connect to pan-taxonomy compara
-Using
+Using [species2pan-taxonomy_compara.py](https://github.com/huanananan/GenOrigin/blob/master/species2pan-taxonomy_compara.py) to make the json file, which can lead the gene to its represent gene in the pan-taxonomy compara with the closest distance species on the time-tree.
 
-### Step 9 pan-taxonomy species to pan-taxonomy species
+### Step 9 pan-taxonomy species extension
 
-### Step 10 pan-taxonomy species extension
 
-### step 11 other species extension
+### step 10 other species extension
+

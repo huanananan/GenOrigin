@@ -1,4 +1,4 @@
-# [GenOrigin](http://genorigin.chenzxlab.cn/#!/)
+# [GenOrigin v2.01](http://genorigin.chenzxlab.cn/#!/)
 web: http://genorigin.chenzxlab.cn/#!/
 
 ## Collect data 

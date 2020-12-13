@@ -31,37 +31,20 @@ def pre(homology_dir, species_list, species):
                     homologyB[line[2]][line[0]] = dict(
                         zip(["_".join(i.split("_")[0:2]).capitalize() for i in species_list],
                             [[] for i in range(0, len(species_list))]))
+
                 # creat keys for each species
                 if line[5] not in homologyB[line[7]]:
                     homologyB[line[7]][line[5]] = dict(
                         zip(["_".join(i.split("_")[0:2]).capitalize() for i in species_list],
                             [[] for i in range(0, len(species_list))]))
 
-                # add paralogues into paralogues_list
-                index = 0
-                index_list = []
-                if line[0] not in collcetion_list and line[5] not in collcetion_list:
-                    collcetion_list.append(line[0])
-                    collcetion_list.append(line[5])
-                    paralogues_list.append([line[0], line[5]])
-                if line[0] not in collcetion_list:
-                    collcetion_list.append(line[0])
-                if line[5] not in collcetion_list:
-                    collcetion_list.append(line[5])
-                for gene_list in paralogues_list:
-                    if line[0] in gene_list or line[5] in gene_list:
-                        gene_list.append(line[0])
-                        gene_list.append(line[5])
-                        index_list.append(index)
-                    index += 1
+                homologyB[line[2]][line[0]][name].append(line[0])
+                homologyB[line[2]][line[0]][name].append(line[5])
 
-                if len(index_list) > 1:
-                    for index in sorted(list(range(1, len(index_list) - 1)), reverse=True):
-                        for prologues_items in paralogues_list[index_list[index]]:
-                            paralogues_list[index_list[0]].append(prologues_items)
-                        del paralogues_list[index_list[index]]
-                    paralogues_list[index_list[0]] = list(set(paralogues_list[index_list[0]]))
-            # homology
+                homologyB[line[2]][line[5]][name].append(line[0])
+                homologyB[line[2]][line[5]][name].append(line[5])
+
+            # ortholog
             elif name != homology_name:
                 if line[2] == species:
                     if len(homologyB[line[2]][line[0]]) == 0:
@@ -84,11 +67,6 @@ def pre(homology_dir, species_list, species):
 
                     if line[5] not in homologyB[line[7]][line[5]][homology_name]:
                         homologyB[line[7]][line[5]][homology_name].append(line[5])
-    # add paralogues gene family into homologyB
-    for gene_id in homologyB["_".join(species.split("_")[0:2]).capitalize()]:
-        for gene_list in paralogues_list:
-            if gene_id in gene_list:
-                homologyB[species][gene_id]["_".join(species.split("_")[0:2]).capitalize()] = list(set(gene_list))
     return homologyB
 
 
@@ -174,5 +152,3 @@ def run_above(species, division):
     outfile = open(function_dir, "w")
     outfile.write(file_content)
     outfile.close()
-
-    

@@ -10,9 +10,11 @@ def read_json(json_dir):
 
 
 # not contain the outgroup
+# just the species in pan-taxonomy
 def make_division_extension(division):
-    division_homology = {}
-    for species in os.listdir(work_dir + 'homology_json/' + division):
+    division_homology = {}    
+    pan_species_list = os.listdir(work_dir + 'homology_json/pan_homology')
+    for species in set(os.listdir(work_dir + 'homology_json/' + division)) & set(pan_species_list):
         if species in out_group:
             if division in out_group:
                 continue

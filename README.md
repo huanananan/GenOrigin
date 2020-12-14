@@ -36,8 +36,11 @@ See [change_time_tree_nwk_file_to_ensembl_species_name.txt](https://github.com/h
 
 ### Step 6 split the Ensembl homology data & make it to json file
 1)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)
+
 2)[homology_split_by_species.rar](https://github.com/huanananan/GenOrigin/blob/master/homology_split_by_species.rar) 
+
 3)[homology_split_by_species](https://github.com/huanananan/GenOrigin/tree/master/homology_split_by_species)
+
 4)[trans_homology_tsv_to_json.py](https://github.com/huanananan/GenOrigin/blob/master/trans_homology_tsv_to_json.py)
 
 Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) splits the homology data by species.  
@@ -66,7 +69,7 @@ So, we provide and use the split annotation json in this project.
 Using [species2pan-taxonomy_compara.py](https://github.com/huanananan/GenOrigin/blob/master/species2pan-taxonomy_compara.py) to make the json file, which can lead the gene to its represent gene in the pan-taxonomy compara with the closest distance species on the time-tree.
 
 ### Step 9 make division homology json file
-2)[make_division_homology_json.py](https://github.com/huanananan/GenOrigin/blob/master/make_division_homology_json.py)
+1)[make_division_homology_json.py](https://github.com/huanananan/GenOrigin/blob/master/make_division_homology_json.py)
 
 Using [make_division_homology_json.py](https://github.com/huanananan/GenOrigin/blob/master/make_division_homology_json.py) to make the division homology json file for next step.
 This script merge the homology json file, which, the species, in the same division, to one file.

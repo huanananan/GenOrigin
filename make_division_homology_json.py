@@ -17,7 +17,7 @@ def make_division_extension(division):
             if division in out_group:
                 continue
 
-        division_homology["_".join(species.split('_')[0:2])] = read_json(
+        division_homology["_".join(species.split('_')[0:2]).capitalize()] = read_json(
             work_dir + 'homology_json/' + division + '/' + species)[species]
 
     function_dir = work_dir + "division_json/" + division

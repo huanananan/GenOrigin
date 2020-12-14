@@ -9,6 +9,7 @@ def read_json(json_dir):
     return dic
 
 
+# not contain the outgroup
 def make_division_extension(division):
     division_homology = {}
     for species in os.listdir(work_dir + 'homology_json/' + division):

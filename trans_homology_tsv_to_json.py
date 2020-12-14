@@ -9,16 +9,14 @@ def pre(homology_dir, species_list, species):
     # homology B:species:gene ID:"_".join(homology_species.split("_")[0:2]).capitalize():homology species gene ID
     # gene ID：[species]
     homologyB = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: [])))
-    # paralogues pairs
-    paralogues_list = []
-    # paralogues gene
-    collcetion_list = []
     print(species, "pre")
     with open(homology_dir, "r") as f:
         next(f)
         for line in f.readlines():
             line = line.strip("\n")
             line = line.split("\t")
+            if line[2] not in species_list or line[7] not in species_list:
+                continue
             # print(line[0],"1",species)
             name = "_".join(line[2].split("_")[0:2]).capitalize()
             homology_name = "_".join(line[7].split("_")[0:2]).capitalize()
@@ -85,6 +83,8 @@ def pan_homology(homologyB, species_list, species):
             for line in f.readlines():
                 line = line.strip("\n")
                 line = line.split("\t")
+                if line[2] not in species_list or line[7] not in species_list:
+                    continue
                 # print(line[0],"1",species)
                 name = "_".join(line[2].split("_")[0:2]).capitalize()
                 homology_name = "_".join(line[7].split("_")[0:2]).capitalize()

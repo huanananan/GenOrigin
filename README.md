@@ -37,8 +37,8 @@ Download the gff3 file from Ensembl FTP:
 [from_ensembl_FTP_get_the_gff3_dir.py](https://github.com/huanananan/GenOrigin/blob/master/from_ensembl_FTP_get_the_gff3_dir.py)  
 
 ### Step 3 time-tree
-Use the total species list from both [Ensembl](www.ensembl.org), [EnsemblGenomes](www.ensemblgenomes.org) (GenOrigin only provide the used species).   
-Then upload species list to [TimeTree](www.timetree.org).   
+Use the total species list from both [Ensembl](http://www.ensembl.org/), [EnsemblGenomes](http://www.ensemblgenomes.org/) (GenOrigin only provide the used species).   
+Then upload species list to [TimeTree](http://www.timetree.org/).   
 Finally, we get the [timetree file](https://github.com/huanananan/GenOrigin/tree/master/nwk).   
 
 ### Step 4 Count

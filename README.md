@@ -12,10 +12,14 @@ ftp://ftp.ensemblgenomes.org/pub/metazoa/release-45/tsv/ensembl-compara/homologi
 ftp://ftp.ensembl.org/pub/release-98/tsv/ensembl-compara/homologies/  
 
 ### Step 2 Ensembl annotation
-Download the annotation json file from Ensembl FTP  
+1)[from_ensembl_FTP_get_the_gff3_dir.py]https://github.com/huanananan/GenOrigin/blob/master/from_ensembl_FTP_get_the_gff3_dir.py  
+Download the annotation json file from Ensembl FTP:  
 eg:  
 ftp://ftp.ensemblgenomes.org/pub/plants/release-45/json/  
 ftp://ftp.ensembl.org/pub/release-98/json  
+
+Download the gff3 file from Ensembl FTP:  
+[from_ensembl_FTP_get_the_gff3_dir.py]https://github.com/huanananan/GenOrigin/blob/master/from_ensembl_FTP_get_the_gff3_dir.py  
 
 ### Step 3 time-tree
 Use the total species list from both [Ensembl](www.ensembl.org), [EnsemblGenomes](www.ensemblgenomes.org) (GenOrigin only provide the used species).   
@@ -69,7 +73,7 @@ So, we provide and use the split annotation json in this project.
 Using [species2pan-taxonomy_compara.py](https://github.com/huanananan/GenOrigin/blob/master/species2pan-taxonomy_compara.py) to make the json file, which can lead the gene to its represent gene in the pan-taxonomy compara with the closest distance species on the time-tree.
 
 ### Step 9 make division homology json file
-1)[make_division_homology_json.py](https://github.com/huanananan/GenOrigin/blob/master/make_division_homology_json.py)
+1)[make_division_homology_json.py](https://github.com/huanananan/GenOrigin/blob/master/make_division_homology_json.py)  
 
 Using [make_division_homology_json.py](https://github.com/huanananan/GenOrigin/blob/master/make_division_homology_json.py) to make the division homology json file for next step.
 This script merge the homology json file, which, the species, in the same division, to one file.
@@ -77,7 +81,14 @@ Only the pan-taxonomy species have been merged.
 It also can use the split one, but the json file saving time.
 
 ### Step 10 pan-taxonomy species extension
-Put the
+1)[pan-taxonomy_species_extension.py  
+](https://github.com/huanananan/GenOrigin/blob/master/pan-taxonomy_species_extension.py)
 
-### step 11 other species extension
+Using the pan-taxonomy gene (gene A) to find the representative pan-taxonomy homology genes (for example gene B, gene C, gene D). Then using the representative pan-taxonomy homology genes (gene B, gene C, gene D) to find the representative own domain's (as the gene B from fungi) homology genes (gene E, gene F, gene G), but not pan-taxonomy gene (gene A)'s domain (as gene A from vetebrates).
+Finally, as above, adding the outgroup for some domain'species.
+
+### Step 11 other species extension
+
+
+### Step 12 origination mechanisms and other result
 

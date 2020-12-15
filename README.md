@@ -1,6 +1,6 @@
 # [GenOrigin v2.01](http://genorigin.chenzxlab.cn/#!/)
 web: http://genorigin.chenzxlab.cn/#!/
-
+[TOC]
 ## Collect data 
 ### Step 1 Ensembl homology data
 Download the homology data from Ensembl FTP. release 98/45.  
@@ -13,6 +13,7 @@ ftp://ftp.ensembl.org/pub/release-98/tsv/ensembl-compara/homologies/
 
 ### Step 2 Ensembl annotation
 1)[from_ensembl_FTP_get_the_gff3_dir.py]https://github.com/huanananan/GenOrigin/blob/master/from_ensembl_FTP_get_the_gff3_dir.py  
+
 Download the annotation json file from Ensembl FTP:  
 eg:  
 ftp://ftp.ensemblgenomes.org/pub/plants/release-45/json/  
@@ -88,7 +89,10 @@ Using the pan-taxonomy gene (gene A) to find the representative pan-taxonomy hom
 Finally, as above, adding the outgroup for some domain'species.
 
 ### Step 11 other species extension
+1)
 
 
 ### Step 12 origination mechanisms and other result
+1)
+
 

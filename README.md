@@ -1,6 +1,5 @@
 # [GenOrigin v2.01](http://genorigin.chenzxlab.cn/#!/)
 web: http://genorigin.chenzxlab.cn/#!/  
-- [[GenOrigin v2.01](http://genorigin.chenzxlab.cn/#!/)](#-genorigin-v201--http---genoriginchenzxlabcn-----)
   * [Collect data](#collect-data)
     + [Step 1 Ensembl homology data](#step-1-ensembl-homology-data)
     + [Step 2 Ensembl annotation](#step-2-ensembl-annotation)
@@ -15,8 +14,6 @@ web: http://genorigin.chenzxlab.cn/#!/
     + [Step 10 pan-taxonomy species extension](#step-10-pan-taxonomy-species-extension)
     + [Step 11 other species extension](#step-11-other-species-extension)
     + [Step 12 origination mechanisms and other result](#step-12-origination-mechanisms-and-other-result)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Collect data 
 ### Step 1 Ensembl homology data

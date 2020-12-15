@@ -26,7 +26,7 @@ ftp://ftp.ensemblgenomes.org/pub/metazoa/release-45/tsv/ensembl-compara/homologi
 ftp://ftp.ensembl.org/pub/release-98/tsv/ensembl-compara/homologies/  
 
 ### Step 2 Ensembl annotation
-1)[from_ensembl_FTP_get_the_gff3_dir.py]https://github.com/huanananan/GenOrigin/blob/master/from_ensembl_FTP_get_the_gff3_dir.py  
+1)[from_ensembl_FTP_get_the_gff3_dir.py](https://github.com/huanananan/GenOrigin/blob/master/from_ensembl_FTP_get_the_gff3_dir.py)  
 
 Download the annotation json file from Ensembl FTP:  
 eg:  
@@ -34,7 +34,7 @@ ftp://ftp.ensemblgenomes.org/pub/plants/release-45/json/
 ftp://ftp.ensembl.org/pub/release-98/json  
 
 Download the gff3 file from Ensembl FTP:  
-[from_ensembl_FTP_get_the_gff3_dir.py]https://github.com/huanananan/GenOrigin/blob/master/from_ensembl_FTP_get_the_gff3_dir.py  
+[from_ensembl_FTP_get_the_gff3_dir.py](https://github.com/huanananan/GenOrigin/blob/master/from_ensembl_FTP_get_the_gff3_dir.py)  
 
 ### Step 3 time-tree
 Use the total species list from both [Ensembl](www.ensembl.org), [EnsemblGenomes](www.ensemblgenomes.org) (GenOrigin only provide the used species).   

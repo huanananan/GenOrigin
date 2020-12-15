@@ -102,14 +102,14 @@ Using the pan-taxonomy gene (gene A) to find the representative pan-taxonomy hom
 Finally, as above, adding the outgroup for some domain'species.
 
 ### Step 11 other species extension
-1)[All_species-ortholog-new_homologyB.py]https://github.com/huanananan/GenOrigin/blob/master/All_species-ortholog-new_homologyB.py  
+1)[All_species-ortholog-new_homologyB.py](https://github.com/huanananan/GenOrigin/blob/master/All_species-ortholog-new_homologyB.py)  
 
 Using the pan-taxonomy_species_extension result and species2pan-taxonomy_compara result to build a huge homology tree.
 Frist, all species should be infer the age in their own analyse group, generally which is its domain, but the plants have two different analyse group because the fungi split them on the Phylogenetic tree.
 Second, those gene break out the analyse group show use the species2pan-taxonomy_compara result connect to the representative gene, then use the pan-taxonomy_species_extension result to extension its own homology info.
 
 ### Step 12 origination mechanisms and other result
-1)[origination_mechanisms_and_other_result.py]https://github.com/huanananan/GenOrigin/blob/master/origination_mechanisms_and_other_result.py  
+1)[origination_mechanisms_and_other_result.py](https://github.com/huanananan/GenOrigin/blob/master/origination_mechanisms_and_other_result.py)  
 
 Using the CDS exon and two protein sequence identity to judge the potential origination mechanism.  
 

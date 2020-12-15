@@ -46,7 +46,7 @@ Finally, we get the [timetree file](https://github.com/huanananan/GenOrigin/tree
 param -gain 1.4
 
 ### Step 5 uniform time-tree scientific name
-1)[change_time_tree_nwk_file_to_ensembl_species_name.txt](https://github.com/huanananan/GenOrigin/blob/master/change_time_tree_nwk_file_to_ensembl_species_name.txt)
+1)[change_time_tree_nwk_file_to_ensembl_species_name.txt](https://github.com/huanananan/GenOrigin/blob/master/change_time_tree_nwk_file_to_ensembl_species_name.txt)  
 
 The scientific name in [TimeTree](timetree.org) and [Ensembl](ensembl.org) might be different.  
 But it show the same taxonomy id in [UniProt](www.uniprot.org).  
@@ -54,27 +54,27 @@ So we uniform it to Ensembl scientific name first two word.
 See [change_time_tree_nwk_file_to_ensembl_species_name.txt](https://github.com/huanananan/GenOrigin/blob/master/change_time_tree_nwk_file_to_ensembl_species_name.txt)  
 
 ### Step 6 split the Ensembl homology data & make it to json file
-1)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)
+1)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)  
 
-2)[homology_split_by_species.rar](https://github.com/huanananan/GenOrigin/blob/master/homology_split_by_species.rar) 
+2)[homology_split_by_species.rar](https://github.com/huanananan/GenOrigin/blob/master/homology_split_by_species.rar)   
 
-3)[homology_split_by_species](https://github.com/huanananan/GenOrigin/tree/master/homology_split_by_species)
+3)[homology_split_by_species](https://github.com/huanananan/GenOrigin/tree/master/homology_split_by_species)  
 
-4)[trans_homology_tsv_to_json.py](https://github.com/huanananan/GenOrigin/blob/master/trans_homology_tsv_to_json.py)
+4)[trans_homology_tsv_to_json.py](https://github.com/huanananan/GenOrigin/blob/master/trans_homology_tsv_to_json.py)  
 
 Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) splits the homology data by species.  
 The output file, see [homology_split_by_species.rar](https://github.com/huanananan/GenOrigin/blob/master/homology_split_by_species.rar)  
-Also [homology_split_by_species](https://github.com/huanananan/GenOrigin/tree/master/homology_split_by_species)
-Split it could save memory and improve parallel efficiency.  
-Some species even split it as 100 genes to run pipeline.  
-Then, make it to the json file. [trans_homology_tsv_to_json.py](https://github.com/huanananan/GenOrigin/blob/master/trans_homology_tsv_to_json.py)
+Also [homology_split_by_species](https://github.com/huanananan/GenOrigin/tree/master/homology_split_by_species)  
+Split it could save memory and improve parallel efficiency.    
+Some species even split it as 100 genes to run pipeline.    
+Then, make it to the json file. [trans_homology_tsv_to_json.py](https://github.com/huanananan/GenOrigin/blob/master/trans_homology_tsv_to_json.py)  
 
 ### Step 7 split the annotation json file (Optional)
-1)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)
-2)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)
+1)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)  
+2)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)  
 
-Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) split it by gene id, organism or assembly.  
-The output file, see [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py).  
+Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) split it by gene id, organism or assembly.    
+The output file, see [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py).   
 Split it could save memory, but not improve parallel efficiency.  
 Because reading and writing a large number of files at the same time will seriously slow down the speed.  
 But, it use disk place replace memory.  
@@ -83,30 +83,31 @@ So, we provide and use the split annotation json in this project.
 
 ## Infer origin
 ### Step 8 species connect to pan-taxonomy compara
-1)[species2pan-taxonomy_compara.py](https://github.com/huanananan/GenOrigin/blob/master/species2pan-taxonomy_compara.py)
+1)[species2pan-taxonomy_compara.py](https://github.com/huanananan/GenOrigin/blob/master/species2pan-taxonomy_compara.py)  
 
-Using [species2pan-taxonomy_compara.py](https://github.com/huanananan/GenOrigin/blob/master/species2pan-taxonomy_compara.py) to make the json file, which can lead the gene to its represent gene in the pan-taxonomy compara with the closest distance species on the time-tree.
+Using [species2pan-taxonomy_compara.py](https://github.com/huanananan/GenOrigin/blob/master/species2pan-taxonomy_compara.py) to make the json file, which can lead the gene to its represent gene in the pan-taxonomy compara with the closest distance species on the time-tree.  
 
 ### Step 9 make division homology json file
 1)[make_division_homology_json.py](https://github.com/huanananan/GenOrigin/blob/master/make_division_homology_json.py)  
 
 Using [make_division_homology_json.py](https://github.com/huanananan/GenOrigin/blob/master/make_division_homology_json.py) to make the division homology json file for next step.
-This script merge the homology json file, which, the species, in the same division, to one file.
-Only the pan-taxonomy species have been merged.
-It also can use the split one, but the json file saving time.
+This script merge the homology json file, which, the species, in the same division, to one file.  
+Only the pan-taxonomy species have been merged.  
+It also can use the split one, but the json file saving time.  
 
 ### Step 10 pan-taxonomy species extension
 1)[pan-taxonomy_species_extension.py](https://github.com/huanananan/GenOrigin/blob/master/pan-taxonomy_species_extension.py)  
 
-Using the pan-taxonomy gene (gene A) to find the representative pan-taxonomy homology genes (for example gene B, gene C, gene D). Then using the representative pan-taxonomy homology genes (gene B, gene C, gene D) to find the representative own domain's (as the gene B from fungi) homology genes (gene E, gene F, gene G), but not pan-taxonomy gene (gene A)'s domain (as gene A from vetebrates).
+Using the pan-taxonomy gene (gene A) to find the representative pan-taxonomy homology genes (for example gene B, gene C, gene D).  
+Then using the representative pan-taxonomy homology genes (gene B, gene C, gene D) to find the representative own domain's (as the gene B from fungi) homology genes (gene E, gene F, gene G), but not pan-taxonomy gene (gene A)'s domain (as gene A from vetebrates).  
 Finally, as above, adding the outgroup for some domain'species.
 
 ### Step 11 other species extension
 1)[All_species-ortholog-new_homologyB.py](https://github.com/huanananan/GenOrigin/blob/master/All_species-ortholog-new_homologyB.py)  
 
-Using the pan-taxonomy_species_extension result and species2pan-taxonomy_compara result to build a huge homology tree.
-Frist, all species should be infer the age in their own analyse group, generally which is its domain, but the plants have two different analyse group because the fungi split them on the Phylogenetic tree.
-Second, those gene break out the analyse group show use the species2pan-taxonomy_compara result connect to the representative gene, then use the pan-taxonomy_species_extension result to extension its own homology info.
+Using the pan-taxonomy_species_extension result and species2pan-taxonomy_compara result to build a huge homology tree.  
+Frist, all species should be infer the age in their own analyse group, generally which is its domain, but the plants have two different analyse group because the fungi split them on the Phylogenetic tree.  
+Second, those gene break out the analyse group show use the species2pan-taxonomy_compara result connect to the representative gene, then use the pan-taxonomy_species_extension result to extension its own homology info.  
 
 ### Step 12 origination mechanisms and other result
 1)[origination_mechanisms_and_other_result.py](https://github.com/huanananan/GenOrigin/blob/master/origination_mechanisms_and_other_result.py)  

@@ -1,5 +1,5 @@
 # [GenOrigin v2.01](http://genorigin.chenzxlab.cn/#!/)
-web: http://genorigin.chenzxlab.cn/#!/
+web: http://genorigin.chenzxlab.cn/#!/  
 [TOC]
 ## Collect data 
 ### Step 1 Ensembl homology data

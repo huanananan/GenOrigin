@@ -60,7 +60,7 @@ out_group = {"Ustilago_maydis": ["bacteria"], "Saccharomyces_cerevisiae": ["plan
 work_dir = 'GenOrigin/tree/master/'
 
 with open(work_dir + 'genorigin_species_list/pan_homology') as f:
-    pan_homology_species_list = [line.strip() for line in f.readlines()]
+    pan_homology_species_list = ['_'.join(line.strip().split('_')[0:2]).capitalize() for line in f.readlines()]
 
 species_list = {}
 

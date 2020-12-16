@@ -11,7 +11,7 @@ from collections import defaultdict
 def make_species_to_pan_homology_json():
     judge_gene = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: []))))
 
-    with open('/home/lchen/genorigin/homology_species/' + division + "/" + species) as f:
+    with open(work_dir + 'homology_species/' + division + "/" + species) as f:
         next(f)
         for line in f.readlines():
             line = line.strip()

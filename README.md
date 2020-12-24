@@ -6,7 +6,7 @@ web: http://genorigin.chenzxlab.cn/#!/
     + [Step 3 time-tree](#step-3-time-tree)
     + [Step 4 Count](#step-4-count)
     + [Step 5 uniform time-tree scientific name](#step-5-uniform-time-tree-scientific-name)
-    + [Step 6 split the Ensembl homology data & make it to json file](#step-6-split-the-ensembl-homology-data-&-make-it-to-json-file)
+    + [Step 6 split the Ensembl homology data & make it to json file](#step-6-split-the-ensembl-homology-data--make-it-to-json-file)
     + [Step 7 split the annotation json file](#step-7-split-the-annotation-json-file)
   * [Infer origin](#infer-origin)
     + [Step 8 species connect to pan-taxonomy compara](#step-8-species-connect-to-pan-taxonomy-compara)

@@ -70,11 +70,9 @@ Some species even split it as 100 genes to run pipeline.
 Then, make it to the json file. [trans_homology_tsv_to_json.py](https://github.com/huanananan/GenOrigin/blob/master/trans_homology_tsv_to_json.py)  
 
 ### Step 7 split the annotation json file (Optional)
-1)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)  
-2)[split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py)  
+1)[split_ensembl_annotation_file_to_per_gene.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_annotation_file_to_per_gene.py)   
 
-Using the python script [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py) split it by gene id, organism or assembly.    
-The output file, see [split_ensembl_homology_file_to_per_species.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_homology_file_to_per_species.py).   
+Using the python script [split_ensembl_annotation_file_to_per_gene.py](https://github.com/huanananan/GenOrigin/blob/master/split_ensembl_annotation_file_to_per_gene.py)   split it by gene id, organism or assembly.      
 Split it could save memory, but not improve parallel efficiency.  
 Because reading and writing a large number of files at the same time will seriously slow down the speed.  
 But, it use disk place replace memory.  

@@ -1,12 +1,23 @@
 import os
-import sys
+import json
+
+
+def read_json(homologyB_dir):
+    file = open(homologyB_dir, 'r', encoding='UTF-8')
+    homologyB = json.loads(file.read())
+    file.close()
+    return homologyB
+
+
+work_dir = 'GenOrigin/tree/master/'
+division = 'vertebrates'
+species = 'homo_sapiens'
+homologyB = read_json(work_dir + "homology_json/" + division + "/" + species)
+for i in range(int(len(homologyB[species]) / 500) + 1):
+    python_file1 = """import os
 import subprocess
 import json
-import time
-from copy import deepcopy
 from Bio import Phylo
-from multiprocessing import Process
-from multiprocessing import Pool
 from collections import defaultdict
 
 analyse_group = {
@@ -191,7 +202,7 @@ out_group = {"Ustilago_maydis": ["bacteria"], "Saccharomyces_cerevisiae": ["plan
              "Caenorhabditis_elegans": ["plants", "vertebrates"]}
 
 
-def homology(homologyB_dir):
+def read_json(homologyB_dir):
     file = open(homologyB_dir, 'r', encoding='UTF-8')
     homologyB = json.loads(file.read())
     file.close()
@@ -199,112 +210,49 @@ def homology(homologyB_dir):
 
 
 def total_tree(gene_id, species, division, nwk_dir, trace, branch_length_dict, maximum_age, all_trace_dic, gene_age,
-               gene_interval, gene_branch, ori_branch, gene_homology, homology_if_no_result):
-    species_use = "_".join(species.split("_")[0:2]).capitalize()
-    species_to_pan_all = homology("/public/home/luchen/tongyb/species_to_pan/" + species)
+               gene_interval, gene_branch, ori_branch, gene_homology, homology_if_no_changed, species2pan_homology,
+               pan_homology):
+    try:
+        species2pan_homology["_".join(species.split("_")[0:2]).capitalize()][gene_id]
+    except:
+        print('err 1')
+        homology_changed = homology_if_no_changed
+        return gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homology_changed
+
+    pan_gene_id = list(list(species2pan_homology[
+                                "_".join(species.split("_")[0:2]).capitalize()][gene_id].values())[0].keys())[0]
+
+    pan_species = list(list(species2pan_homology[
+                                "_".join(species.split("_")[0:2]).capitalize()][gene_id].values())[0].values())[0][
+        0].capitalize()
 
     try:
-        species_to_pan = species_to_pan_all[gene_id]
-        species_to_pan_all = ''
+        pan_homology[species2species[pan_species]][pan_gene_id]
     except:
-        homologyB = {species: {}}
-        homologyB[species][gene_id] = homology_if_no_result[species][gene_id]
-        return gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homologyB
+        print('err 2')
+        homology_changed = homology_if_no_changed
+        return gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homology_changed
 
-    if species_to_pan == {}:
-        homologyB = {species: {}}
-        homologyB[species][gene_id] = homology_if_no_result[species][gene_id]
-        return gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homologyB
-
-    total_species_list = list(set(["_".join(i.split("_")[0:2]).capitalize() for j in
-                                   os.listdir("/public/home/luchen/tongyb/homology_species/") for i
-                                   in os.listdir("/public/home/luchen/tongyb/homology_species/" + j)]))
-
-    species_list = ["_".join(i.split("_")[0:2]).capitalize() for i in
-                    os.listdir("/public/home/luchen/tongyb/homology_json/" + division)]
-
-    pan_species_list = ["_".join(i.split("_")[0:2]).capitalize() for i in
-                        os.listdir("/public/home/luchen/tongyb/homology_json/pan_homology")]
-    out_group = {"Ustilago_maydis": ["bacteria"], "Saccharomyces_cerevisiae": ["plants", "vertebrates"],
-                 "Homo_sapiens": ["plants"], "Drosophila_melanogaster": ["plants", "vertebrates"],
-                 "Caenorhabditis_elegans": ["plants", "vertebrates"]}
-
-    species_list_convert = {}
-    species_in_which_division = {}
-    for division_convert in os.listdir("/public/home/luchen/tongyb/homology_species/"):
-        for species_convert in os.listdir("/public/home/luchen/tongyb/homology_species/" + division_convert):
-            species_list_convert["_".join(species_convert.split("_")[0:2]).capitalize()] = species_convert
-
-            if "_".join(species_convert.split("_")[0:2]).capitalize() not in out_group:
-                if division_convert != "pan_homology":
-                    species_in_which_division[
-                        "_".join(species_convert.split("_")[0:2]).capitalize()] = division_convert
-            elif "_".join(species_convert.split("_")[0:2]).capitalize() in out_group:
-                if division_convert not in out_group["_".join(species_convert.split("_")[0:2]).capitalize()]:
-                    if division_convert != "pan_homology":
-                        species_in_which_division[
-                            "_".join(species_convert.split("_")[0:2]).capitalize()] = division_convert
-
-    homologyB_dic = {}
-    for score in sorted(list(species_to_pan.keys()), reverse=True):
-        for pan_gene in species_to_pan[score]:
-            pan_species = species_to_pan[score][pan_gene][0]
-            pan_homology = homology("/public/home/luchen/tongyb/homology_new_json/" + species_list_convert[pan_species])
-            if pan_species in pan_homology[species_list_convert[pan_species]]:
-                homologyB = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: [])))
-                homologyB[species][gene_id] = dict(zip(["_".join(i.split("_")[0:2]).capitalize()
-                                                        for i in total_species_list],
-                                                       [[] for i in range(0, len(total_species_list))]))
-                for species_in_homologyB in homologyB_used_to_be:
-                    homologyB[species][gene_id][species_in_homologyB] = homology_if_no_result[species][gene_id][
-                        species_in_homologyB]
-                    species_used.append(species_in_homologyB)
-                for species_in_pan_homology in pan_homology[species_list_convert[pan_species]][pan_gene]:
-                    if species_in_pan_homology in species_list:
-                        continue
-                    homologyB[species][gene_id][species_in_pan_homology] = \
-                    pan_homology[species_list_convert[pan_species]][pan_gene][species_in_pan_homology]
-                    species_used.append(species_in_pan_homology)
-                for i in homologyB:
-                    for j in homologyB[i]:
-                        for k in homologyB[i][j]:
-                            homologyB[i][j][k] = sorted(list(set(homologyB[i][j][k])))
-                homologyB_dic[pan_gene] = homologyB
-            if len(species_to_pan[score]) == 1 and len(homologyB_dic) > 0:
-                break
-        if len(homologyB_dic) > 0:
-            break
-
-    if len(homologyB_dic) == 1:
-        homologyB = homologyB_dic[list(homologyB_dic.keys())[0]]
-    elif len(homologyB_dic) == 0:
-        homologyB = {species: {}}
-        homologyB[species][gene_id] = homology_if_no_result[species][gene_id]
-        return gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homologyB
-    else:
-        judge = {}
-        for pan_species in homologyB_dic:
-            judge[pan_species] = sum([len(homologyB_dic[pan_species][species][gene_id][i]) for i in
-                                      homologyB_dic[pan_species][species][gene_id]])
-        for judge_gene in judge:
-            if judge[judge_gene] == max(judge.values()):
-                homologyB = homologyB_dic[judge_gene]
-                break
-
-    family2node2presence = run_count(homologyB, nwk_dir, "-gain 1.4", species, division)
+    for homology_species in pan_homology[species2species[pan_species]][pan_gene_id]:
+        homology_if_no_changed[homology_species] = list(
+            set(homology_if_no_changed[homology_species]) |
+            set(pan_homology[species2species[pan_species]][pan_gene_id][homology_species])
+        )
+    homology_changed = homology_if_no_changed
+    family2node2presence = run_count({species: {gene_id: homology_changed}}, nwk_dir, "-gain 1.4", species, division)
 
     gene_age, gene_interval, gene_branch, ori_branch, gene_homology = main_total(family2node2presence,
                                                                                  species, trace, branch_length_dict,
                                                                                  maximum_age, all_trace_dic, gene_id)
 
-    return gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homologyB
+    return gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homology_changed
 
 
 def main_total(family2node2presence, species, trace, branch_length_dict, maximum_age, all_trace_dic,
                gene_id):
     # function
 
-    tree = Phylo.read("/public/home/luchen/tongyb/nwk/total.nwk", "newick")
+    tree = Phylo.read(nwk_dir, "newick")
 
     ori_branch = "_".join(species.split("_")[0:2]).capitalize()
 
@@ -330,10 +278,7 @@ def main_total(family2node2presence, species, trace, branch_length_dict, maximum
         if step not in trace_main_branch:
             trace_main_branch[step] = 0
 
-    species_list = list(set([i for j in os.listdir("/public/home/luchen/tongyb/homology_species/")
-                             for i in os.listdir("/public/home/luchen/tongyb/homology_species/" + j)]))
-
-    for species_homology in species_list:
+    for species_homology in total_species_list:
         if family2node2presence[gene_id]["_".join(species_homology.split("_")[0:2]).capitalize()] != 0:
             if species_homology == species:
                 continue
@@ -374,7 +319,7 @@ def main_total(family2node2presence, species, trace, branch_length_dict, maximum
         gene_age = (age_lower + age_upper) / 2
 
         gene_interval = str(age_lower) + "-" + str(age_upper)
-
+    print(gene_age, gene_interval, gene_id)
     return gene_age, gene_interval, gene_branch, ori_branch, gene_homology
 
 
@@ -406,8 +351,8 @@ def run_count(homologyB, nwk_dir, param, species, division):
     times.strip("\\n")
     times.strip("\\t")
     result = column.strip("\\t") + "\\n" + times.strip("\\t")
-    temp_dir = "/public/home/luchen/tongyb/temp_cookie/111" + species + "." + gene_id + "." + division + ".tsv"
-    file_content = """%s""" % result
+    temp_dir = work_dir + "temp_cookie/111" + species + "." + gene_id + "." + division + ".tsv"
+    file_content = '''%s''' % result
     outfile = open(temp_dir, "w")
     outfile.write(file_content)
     outfile.close()
@@ -417,10 +362,11 @@ def run_count(homologyB, nwk_dir, param, species, division):
         print("Gain penalty = -gain 5.0")
     else:
         print(species, "Gain penalty : " + param)
-    cmd = 'java -Xmx2048M -cp /public/home/luchen/tongyb/Count/Count.jar ca.umontreal.iro.evolution.genecontent.AsymmetricWagner %s %s %s' % (
-    param, nwk_dir, temp_dir)
+    cmd = 'java -Xmx2048M -cp /home/lchen/genorigin/Count/Count.jar ca.umontreal.iro.evolution.genecontent.AsymmetricWagner %s %s %s' % (
+        param, nwk_dir, temp_dir)
     output = subprocess.getoutput(cmd)
     nodes = []
+
     for line in output.split('\\n'):
         if "FAMILY" in line:
             t = line.split('\\t')
@@ -435,9 +381,7 @@ def run_count(homologyB, nwk_dir, param, species, division):
     return family2node2presence
 
 
-def common_ancestor_branch(other):
-    nwk_dir = "/public/home/luchen/tongyb/nwk/total.nwk"
-    tree = Phylo.read(nwk_dir, "newick")
+def common_ancestor_branch(other, tree):
     try:
         branch = tree.get_path("_".join(species.split("_")[0:2]).capitalize()).index(
             tree.common_ancestor("_".join(species.split("_")[0:2]).capitalize(),
@@ -459,18 +403,18 @@ def main(homologyB, nwk_dir, family2node2presence, species, species_list, divisi
     # a = species_trace,
     for species_use in species_list:
         species_use_name = "_".join(species_use.split("_")[0:2]).capitalize()
-        branch_species_dict[common_ancestor_branch(species_use_name)].append(species_use_name)
+        branch_species_dict[common_ancestor_branch(species_use_name, tree)].append(species_use_name)
         a = [j.split(")")[0] for j in [i.split(", ")[1] for i in
                                        repr(tree.get_path(species_use_name)).split(
                                            "Clade(")[1:]]]
         a[-1] = a[-1].split("'")[1]
         all_trace_dic[species_use_name] = a
 
-    try:
+    '''try:
         max_mid = repr(species_tree_path).split("Clade")[1:]
         max_mid.reverse()
         max_branch = repr(tree.common_ancestor(["_".join(i.split("_")[0:2]).capitalize() for i in os.listdir(
-            "/public/home/luchen/tongyb/homology_json/" + division)])).split("confidence=")[1].split(")")[0]
+            work_dir + "homology_json/" + division)])).split("confidence=")[1].split(")")[0]
         max_list = []
         for i in max_mid:
             max_list.append(i.split("branch_length=")[1].split(",")[0])
@@ -478,8 +422,8 @@ def main(homologyB, nwk_dir, family2node2presence, species, species_list, divisi
                 break
         maximum_age = sum([float(i) for i in max_list])
     except:
-        maximum_age = 4290
-
+        maximum_age = 4290'''
+    maximum_age = 4290
     branch_length = [float(i.split(",")[0]) for i in repr(species_tree_path).split('branch_length=')[1:]]
 
     trace = all_trace_dic["_".join(species.split("_")[0:2]).capitalize()]
@@ -522,22 +466,38 @@ def main(homologyB, nwk_dir, family2node2presence, species, species_list, divisi
                 count += float(i)
             analyse_group_max_age = count
 
-    homology_all = defaultdict(lambda: [])
-    for gene_id in homologyB[species]:
-        homology_single = []
-        for homology_species in species_list:
-            homology_species = "_".join(homology_species.split("_")[0:2]).capitalize()
-            homology_single = all_trace_dic[homology_species] + homology_single
-        homology_single = homology_single + trace
-        homology_single = list(set(homology_single))
-        homology_all[gene_id].append(homology_single)
+    print('species2pan_homology')
+    # species2pan_homology
+    if species not in pan_species_list:
+        species2pan_homology = read_json(work_dir + 'species_to_pan_species/' + species)
+
+        pan_list = []
+        for i in species2pan_homology:
+            for j in species2pan_homology[i]:
+                for k in species2pan_homology[i][j]:
+                    for l in species2pan_homology[i][j][k]:
+                        pan_list.append(species2species[species2pan_homology[i][j][k][l][0]])
+        pan_list = list(set(pan_list))
+        pan_homology = {}
+        for pan_species in pan_list:
+            pan_homology[pan_species] = read_json(work_dir + 'pan_extension/' + pan_species)[pan_species]
+    else:
+        species2pan_homology = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: []))))
+        for gene_id in homologyB[species]:
+            species2pan_homology["_".join(species.split("_")[0:2]).capitalize()][gene_id]['100'][gene_id] = [
+                "_".join(species.split("_")[0:2]).capitalize()]
+
+        pan_homology = {species: read_json(work_dir + 'pan_extension/' + species)[species]}
 
     # function
     function = defaultdict(lambda: defaultdict(str))
-    function_origin_mechanism = defaultdict(lambda: defaultdict(str))
+
     ori_branch = "_".join(species.split("_")[0:2]).capitalize()
 
     for gene_id in homologyB[species]:
+        mid = dict(zip(total_species_list, [[] for i in total_species_list]))
+        mid.update(homologyB[species][gene_id])
+        homologyB[species][gene_id] = mid
         effect = []
         for node in family2node2presence[gene_id]:
             if family2node2presence[gene_id][node] > 0:
@@ -608,13 +568,12 @@ def main(homologyB, nwk_dir, family2node2presence, species, species_list, divisi
             gene_age = gene_age.split(">")[1]
 
         if float(gene_age) >= float(analyse_group_max_age):
-
             gene_age = mid
-            (gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homology_new
+            (gene_age, gene_interval, gene_branch, ori_branch, gene_homology, homology_changed
              ) = total_tree(gene_id, species, division, nwk_dir, trace, branch_length_dict, maximum_age,
                             all_trace_dic, gene_age, gene_interval, gene_branch, ori_branch, gene_homology,
-                            homologyB)
-            homologyB[species][gene_id] = homology_new[species][gene_id]
+                            homologyB[species][gene_id], species2pan_homology, pan_homology)
+            homologyB[species][gene_id] = homology_changed
 
             function[gene_id]["ensembl_gene_id"] = gene_id
             function[gene_id]["scientific_name"] = species
@@ -637,22 +596,14 @@ def main(homologyB, nwk_dir, family2node2presence, species, species_list, divisi
             function[gene_id]["trace"] = trace
             function[gene_id]["gene_Interval"] = gene_interval
 
-    try:
-        os.mkdir("/public/home/luchen/tongyb/mutiprocess_mid_file/homology/" + species + "/")
-    except:
-        pass
-    function_dir = "/public/home/luchen/tongyb/mutiprocess_mid_file/homology/" + species + "/" + gene_id
-    file_content = """%s""" % json.dumps(homologyB)
+    function_dir = work_dir + "mid_merge/" + species + "_" + gene_id + "_homology"
+    file_content = '''%s''' % json.dumps(homologyB)
     outfile = open(function_dir, "w")
     outfile.write(file_content)
     outfile.close()
 
-    try:
-        os.mkdir("/public/home/luchen/tongyb/mutiprocess_mid_file/function/" + species + "/")
-    except:
-        pass
-    function_dir = "/public/home/luchen/tongyb/mutiprocess_mid_file/function/" + species + "/" + gene_id
-    file_content = """%s""" % json.dumps(function)
+    function_dir = work_dir + "mid_merge/" + species + "_" + gene_id + "_function"
+    file_content = '''%s''' % json.dumps(function)
     outfile = open(function_dir, "w")
     outfile.write(file_content)
     outfile.close()
@@ -662,17 +613,45 @@ def main(homologyB, nwk_dir, family2node2presence, species, species_list, divisi
 def run(hh):
     division, species, gene_list = hh[0], hh[1], hh[2]
 
-    species_list = sorted(list(set([i for j in os.listdir("/public/home/luchen/tongyb/homology_species/")
-                                    for i in os.listdir("/public/home/luchen/tongyb/homology_species/" + j)])))
+    species_list = list(set(["_".join(i.split("_")[0:2]).capitalize() for j in
+                             os.listdir(work_dir + "homology_json/") for i
+                             in os.listdir(work_dir + "homology_json/" + j)]))
     global homologyB
-    homologyB_dir = "/public/home/luchen/tongyb/homology_json/" + division + "/" + species
-    homologyB = homology(homologyB_dir)
+    homologyB_dir = work_dir + "homology_json/" + division + "/" + species
 
+    # homologyB = read_json(homologyB_dir)
+
+    homologyB = """ + json.dumps({species: dict(zip(list(homologyB[species].keys())[i * 500:(i + 1) * 500],
+                                                               list(homologyB[species].values())[
+                                                               i * 500:(i + 1) * 500]))})
+
+    python_file2 = """
     family2node2presence = run_count(homologyB, nwk_dir, param, species, division)
 
     main(homologyB, nwk_dir, family2node2presence, species, species_list, division)
 
+species2species = {}
+for division in os.listdir(work_dir + "homology_json/"):
+    for species in os.listdir(work_dir + "homology_json/" + division):
+        species2species['_'.join(species.split('_')[0:2]).capitalize()] = species
 
 param = "-gain 1.4"
 
-nwk_dir = "/public/home/luchen/tongyb/nwk/total.nwk"
+nwk_dir = work_dir + "total.nwk"
+
+species = '%s'
+
+division = '%s'
+
+total_species_list = list(set(["_".join(i.split("_")[0:2]).capitalize() for j in
+                               os.listdir(work_dir + "homology_json/") for i
+                               in os.listdir(work_dir + "homology_json/" + j)]))
+pan_species_list = os.listdir(work_dir + "homology_json/pan_homology")
+
+run([division, species, []])
+    """ % (species, division)
+    function_dir = work_dir + 'python_all_homology/'+list(homologyB[species].keys())[i]+'.py'
+    file_content = python_file1+python_file2
+    outfile = open(function_dir, "w")
+    outfile.write(file_content)
+    outfile.close()
